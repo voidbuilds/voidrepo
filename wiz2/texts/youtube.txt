@@ -1,0 +1,22 @@
+
+name="How to Update or Switch Builds"
+url="https://www.youtube.com/watch?v=WYPNbiO895k"
+icon="http://mbmantech.com/Wizard/Wiz_Images/Tutorial.jpg"
+fanart="http://mbmantech.com/Wizard/Images/ConBack.jpg"
+description="This Video Shows how to Update or Switch Builds[CR]Using Fresh Install"
+
+name="How to Set Up Trakt"
+url="https://www.youtube.com/watch?v=j1rvPbQlc-M"
+icon="http://mbmantech.com/Wizard/Wiz_Images/Tutorial.jpg"
+fanart="http://mbmantech.com/Wizard/Images/ConBack.jpg"
+description="Shows How to Set Up a Trakt Account and Save Login in the Wizard"
+
+name="Queue Feature of BOB"
+url="https://youtu.be/y0w8zIH4lOY"
+icon="https://i.ytimg.com/vi/y0w8zIH4lOY/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pDUZ_rR2uHa4rBE41EixwMMAIuU"
+fanart="http://mbmantech.com/Wizard/Images/ConBack.jpg"
+description="Guide to using the queue feature in Bob"
+
+
+
+

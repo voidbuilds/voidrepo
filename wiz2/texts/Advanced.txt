@@ -1,0 +1,23 @@
+name="512 MB Ram devices"
+url="https://archive.org/download/advancedsettings_20170217_1753/advancedsettings.xml"
+icon="http://" 
+fanart="http://"
+description="512MB Ram Devices"
+
+name="1 GB Ram devices"
+url="https://archive.org/download/advancedsettings_201702/advancedsettings.xml"
+icon="http://" 
+fanart="http://"
+description="1GB Ram Devices"
+
+name="2 GB Ram devices"
+url="https://archive.org/download/advancedsettings_20170217/advancedsettings.xml"
+icon="http://" 
+fanart="http://"
+description="2GB Ram Devices"
+
+name="3 GB Ram devices"
+url="https://archive.org/download/advancedsettings_20170217_1810/advancedsettings.xml"
+icon="http://" 
+fanart="http://"
+description="3GB Ram Devices"

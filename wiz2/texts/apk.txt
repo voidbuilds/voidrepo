@@ -1,0 +1,8 @@
+name="Kodi 16.1"
+section="no"
+url="https://archive.org/download/kodi16.1_201702/kodi16.1.apk"
+icon="http://i.imgur.com/hRIpqD1.jpg"
+fanart="http://i.imgur.com/hRIpqD1.jpg"
+adult="No"
+description="Old Version of Kodi"
+

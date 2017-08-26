@@ -1,0 +1,4 @@
+name="Name of Theme"
+url="http://"
+icon="http://"
+fanart="http://"
