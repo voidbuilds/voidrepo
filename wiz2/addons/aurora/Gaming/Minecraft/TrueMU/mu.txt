@@ -1,0 +1,135 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUNodmx1ERIjKqvcJLtdzH5Q</link>
+<link></link>
+<thumbnail>https://goo.gl/QaV8Y1</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Mods</title>
+<link>https://www.youtube.com/playlist?list=PLqtEuj9io4EnadGzaAHw03iRz80EABh8D</link>
+<link></link>
+<thumbnail>https://goo.gl/XwU2EW</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Top 10,Secrets,Facts,Glitches and more!</title>
+<link>https://www.youtube.com/playlist?list=PLqtEuj9io4ElmzsU_TD6c0AAjWpVvPl0L</link>
+<link></link>
+<thumbnail>https://goo.gl/Hw90Ov</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>How to's,Builds,Commands,Redstone and More!</title>
+<link>https://www.youtube.com/playlist?list=PLqtEuj9io4ElULHA36K2SspNqQmWbXYre</link>
+<link></link>
+<thumbnail>https://goo.gl/68cTB9</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Poket Edition</title>
+<link>https://www.youtube.com/playlist?list=PLqtEuj9io4EnIxAdid9I9pP2qdq1TAFqC</link>
+<link></link>
+<thumbnail>https://goo.gl/NdDxa8</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Universe - A Minecraft Story Series</title>
+<link>https://www.youtube.com/playlist?list=PLqtEuj9io4En56nnuIMP30DjAb5ZY_Duz</link>
+<link></link>
+<thumbnail>https://goo.gl/tdSnX8</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Mega Modded Survival</title>
+<link>https://www.youtube.com/playlist?list=PLqtEuj9io4EmcBB32VhAGqn0_uJ7Nmpsp</link>
+<link></link>
+<thumbnail>https://goo.gl/DR6Sqh</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Planetary Confinement Vanilla Mod Pack w/ Logdotzip</title>
+<link>https://www.youtube.com/playlist?list=PLqtEuj9io4Enm2Ui-TqzHJTO0iCob5S4Y</link>
+<link></link>
+<thumbnail>https://goo.gl/qFU2SO</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Heist</title>
+<link>https://www.youtube.com/playlist?list=PLqtEuj9io4Em6JxYZsTtXysoJ_lf0Lmt1</link>
+<link></link>
+<thumbnail>https://goo.gl/70gXU7</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Crafting Dead Mod Pack</title>
+<link>https://www.youtube.com/playlist?list=PLqtEuj9io4EmLpneTAW0acRqHRV6cyyHl</link>
+<link></link>
+<thumbnail>https://goo.gl/WxfWDH</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Hexxit</title>
+<link>https://www.youtube.com/playlist?list=PLqtEuj9io4EmR9UJAMIt0tCG1tlRcebaR</link>
+<link></link>
+<thumbnail>https://goo.gl/sxhk5p</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Music and Themes</title>
+<link>https://www.youtube.com/playlist?list=PLqtEuj9io4EmdjMSpoKQ1c_GjSkgpFSdW</link>
+<link></link>
+<thumbnail>https://goo.gl/lUuq6V</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Simburdia</title>
+<link>https://www.youtube.com/playlist?list=PLqtEuj9io4Ek28ZwmHYGNHwhwqq_USoRd</link>
+<link></link>
+<thumbnail>https://goo.gl/PqvplI</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Attack of the B-Team w/ Jason and Tyler</title>
+<link>https://www.youtube.com/playlist?list=PLqtEuj9io4EnKNTi2p_b98w6gh8prmbTX</link>
+<link></link>
+<thumbnail>https://goo.gl/aWZKlK</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Hexplore Mod Pack Survival</title>
+<link>https://www.youtube.com/playlist?list=PLqtEuj9io4EkFm-FF44SBCqN9nKAuIlUN</link>
+<link></link>
+<thumbnail>https://goo.gl/UJ9Mz8</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Horror Maps</title>
+<link>https://www.youtube.com/playlist?list=PLqtEuj9io4Ek2JWW14EvWboI0rVTjRboT</link>
+<link></link>
+<thumbnail>https://goo.gl/NYR9xl</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Hunger Games</title>
+<link>https://www.youtube.com/playlist?list=PLqtEuj9io4ElRCPg7pH_OcK_Pu9aBp21X</link>
+<link></link>
+<thumbnail>https://goo.gl/zNG5wB</thumbnail>
+<fanart>http://</fanart>
+</item>

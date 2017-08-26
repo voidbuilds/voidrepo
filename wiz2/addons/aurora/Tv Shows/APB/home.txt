@@ -1,0 +1,6 @@
+<item>
+<title>Season 1</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Tv%20Shows/APB/Season%201/apb1.txt</folder>
+<thumbnail>https://goo.gl/L5FDIz</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

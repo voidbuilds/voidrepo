@@ -1,0 +1,48 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUke6I9N4KfC968-yRcd5YRg</link>
+<link></link>
+<thumbnail>https://goo.gl/V4voS5</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>RPG Factions</title>
+<link>https://www.youtube.com/playlist?list=PLz7GQsHwn5sqIVFvmUkgC2dR9wcEPJ_S9</link>
+<link></link>
+<thumbnail>https://goo.gl/t3YPb5</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Troll Craft</title>
+<link>https://www.youtube.com/playlist?list=PLz7GQsHwn5srxoRoO3fcQnTGlxBp7zcnU</link>
+<link></link>
+<thumbnail>https://goo.gl/5hrnXC</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Pixelmon</title>
+<link>https://www.youtube.com/playlist?list=PLz7GQsHwn5sqU4rnOG_H-wCf3ybUns6XD</link>
+<link></link>
+<thumbnail>https://goo.gl/Gb5bZN</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Sky Factory Modded 3</title>
+<link>https://www.youtube.com/playlist?list=PLz7GQsHwn5sr4bsymXZoQ5fI6r-XGm73w</link>
+<link></link>
+<thumbnail>https://goo.gl/XAxa9U</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Jail Break</title>
+<link>https://www.youtube.com/playlist?list=PLz7GQsHwn5sqi9AEUeRripd8uUlEGjrxI</link>
+<link></link>
+<thumbnail>https://goo.gl/FVqrpF</thumbnail>
+<fanart>http://</fanart>
+</item>
+

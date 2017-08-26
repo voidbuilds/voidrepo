@@ -1,0 +1,39 @@
+<item>
+<title>[COLOR cyan]Wonder Woman 2017[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=INLzqh7rZ-U</link>
+<link></link>
+<thumbnail>https://goo.gl/qTxNXH</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]The Fate of the Furious 2017[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=jeKBMdYaM3U</link>
+<link></link>
+<thumbnail>https://goo.gl/oi1lbn</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Power Rangers 2017[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=5kIe6UZHSXw</link>
+<link></link>
+<thumbnail>https://goo.gl/t0gp6P</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Deadpool 2 [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=gKR7O5B9qqg</link>
+<link></link>
+<thumbnail>https://goo.gl/h7TdhZ</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Guardians of the Galaxy Vol.2[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=duGqrYw4usE</link>
+<link></link>
+<thumbnail>https://goo.gl/QG58rn</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

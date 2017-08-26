@@ -1,0 +1,79 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUa6Hg8HmooiDNaCT0_1NbQQ</link>
+<link></link>
+<thumbnail>https://goo.gl/unyO1x</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Pixelarity</title>
+<link>https://www.youtube.com/playlist?list=PL87AFDeJs845l_9SeKjfl8sgxKznSEvRM</link>
+<link></link>
+<thumbnail>https://goo.gl/fGrI8X</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Building Time</title>
+<link>https://www.youtube.com/playlist?list=PL87AFDeJs847OJUkDQ6X5kZCys_2nGf4d</link>
+<link></link>
+<thumbnail>https://goo.gl/YCCYIE</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Crazy Craft</title>
+<link>https://www.youtube.com/playlist?list=PL87AFDeJs846aZnpWIsKMo0h94EyYkf01</link>
+<link></link>
+<thumbnail>https://goo.gl/B4kN93</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Island Of Eden</title>
+<link>https://www.youtube.com/playlist?list=PL87AFDeJs844BlEO2i3Iju6H1_LnCcKZt</link>
+<link></link>
+<thumbnail>https://goo.gl/6JFMkQ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Squidy Sundays</title>
+<link>https://www.youtube.com/playlist?list=PL87AFDeJs8445mGy4M-T8i4qu2Yyjrrix</link>
+<link></link>
+<thumbnail>https://goo.gl/7Hfb5d</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Hardcore Survival Island</title>
+<link>https://www.youtube.com/playlist?list=PL87AFDeJs847YK4ygG8iOUWGM7g2VqQDc</link>
+<link></link>
+<thumbnail>https://goo.gl/niRZfI</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Pixelmon</title>
+<link>https://www.youtube.com/playlist?list=PL87AFDeJs846S8O2xaV3h8T0nQXKqETdL</link>
+<link></link>
+<thumbnail>https://goo.gl/KEqub0</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Squids Sky Island Challenge</title>
+<link>https://www.youtube.com/playlist?list=PL87AFDeJs846nDRNH2bTddRV2Gh63Kkgp</link>
+<link></link>
+<thumbnail>https://goo.gl/LRjkbC</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Feed The Beast</title>
+<link>https://www.youtube.com/playlist?list=PL87AFDeJs845bdwj_c9P76sijwQWA4OES</link>
+<link></link>
+<thumbnail>https://goo.gl/dAugqN</thumbnail>
+<fanart>http://</fanart>
+</item>

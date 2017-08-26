@@ -1,0 +1,8 @@
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>Sjin</title>
+<folder>http://voidbuilds.net16.net/wizard/addons/aurora/Gaming/Stardew%20Valley/Sjin/sjin.txt</folder>
+<thumbnail>https://goo.gl/2k7Z4j</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

@@ -1,0 +1,33 @@
+
+<item>
+<title>Tess Christine</title>
+<link>https://www.youtube.com/playlist?list=UUVsTboAhpnuL6j-tDePvNwQ</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-JiD_Ao6gX_g/AAAAAAAAAAI/AAAAAAAAAAA/7rAqRpKcw4s/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Fashion Mumblr</title>
+<link>https://www.youtube.com/playlist?list=UUCmfa729dnJCi_bK7fSNbpw</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-JnQJ1_DTVAY/AAAAAAAAAAI/AAAAAAAAAAA/M7rD2c8frTU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Inthefrow</title>
+<link>https://www.youtube.com/playlist?list=UUyxZB7SqkRFqij18X1rDYHQ</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-BWdfQjxHDcA/AAAAAAAAAAI/AAAAAAAAAAA/x-7Q4C_wIWg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Tanya Burr</title>
+<link>https://www.youtube.com/playlist?list=PLt_BERL98BifTuxdKFiLGOZTTooD4zeaB</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-YLDSBZe4P_4/AAAAAAAAAAI/AAAAAAAAAAA/Hu9k0tgp_h8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+

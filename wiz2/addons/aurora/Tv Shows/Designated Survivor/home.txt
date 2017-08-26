@@ -1,0 +1,6 @@
+<item>
+<title>Season 1</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Tv%20Shows/Designated%20Survivor/Season%201/ds.txt</folder>
+<thumbnail>http://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

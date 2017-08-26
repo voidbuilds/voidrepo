@@ -1,0 +1,149 @@
+<item>
+<title>[COLOR cyan]Clyde 1[/COLOR]</title>
+<link>http://tx.whatson.com/icecast.php?i=clyde1.mp3</link>
+<thumbnail>http://i.imgur.com/tbw7hxI.png</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Talk Sport[/COLOR]</title>
+<link>http://radio.talksport.com/stream?awparams=platform:ts-web;lang:en</link>
+<thumbnail>http://i.imgur.com/7kIcdsX.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Radio 1[/COLOR]</title>
+<link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_q?s=1489592249&e=1489606649&h=08a5a40e66f7ec6453396617ab0f79d4</link>
+<thumbnail>http://i.imgur.com/XP3wOHV.png</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Radio 1Xtra[/COLOR]</title>
+<link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p?s=1499716382&e=1499730782&h=75fa5c2ef44348bebf70b45a4cea2261</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]BBC Radio Scotland[/COLOR]</title>
+<link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandmw_mf_p?s=1499717065&e=1499731465&h=985afd75df670f862433135f0ddfd47e</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]BBC World Service UK (World News)[/COLOR]</title>
+<link>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Bolt FM[/COLOR]</title>
+<link>http://198.178.121.76:8484</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]100% Drgon Hits[/COLOR]</title>
+<link>http://173.208.157.101:8710/</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Capital[/COLOR]</title>
+<link>http://media-the.musicradio.com:80/CapitalGlasgowMP3</link>
+<thumbnail>http://i.imgur.com/ovBx7yU.png</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Chill[/COLOR]</title>
+<link>http://media-ice.musicradio.com/ChillMP3</link>
+<thumbnail>https://goo.gl/ei19LW</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Heart[/COLOR]</title>
+<link>http://media-the.musicradio.com:80/HeartGlasgow</link>
+<thumbnail>http://i.imgur.com/GmmOr8r.png</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Smooth[/COLOR]</title>
+<link>http://media-the.musicradio.com:80/SmoothScotlandMP3</link>
+<thumbnail>http://i.imgur.com/6Teey9O.png</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Magic[/COLOR]</title>
+<link>http://tx.whatson.com/icecast.php?i=magic1054low.mp3</link>
+<thumbnail>http://i.imgur.com/8Bdq4e6.png</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Kiss[/COLOR]</title>
+<link>http://tx.whatson.com/icecast.php?i=kissnationallow.mp3</link>
+<thumbnail>http://i.imgur.com/n3pip7G.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Radio 5 Live[/COLOR]</title>
+<link>http://media-the.musicradio.com:80/SmoothScotlandMP3</link>
+<thumbnail>http://i.imgur.com/ynqHZN9.png</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]My Music Radio[/COLOR]</title>
+<link>http://str1.sad.ukrd.com/mymusicradio?rp=3.0.4&flash=1</link>
+<thumbnail>http://i.imgur.com/Z5L8Dkp.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Absolute 60s[/COLOR]</title>
+<link>http://icy-e-bab-04-cr.sharp-stream.com/absolute60s.mp3?</link>
+<thumbnail>http://i.imgur.com/niNHtjF.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Absolute 70s[/COLOR]</title>
+<link>http://icy-e-bab-04-cr.sharp-stream.com/absolute70s.mp3?</link>
+<thumbnail>http://i.imgur.com/7JzRwe1.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Absolute 80s[/COLOR]</title>
+<link>http://tx.sharp-stream.com/http_live_bauer.php?i=absolute80s.mp3</link>
+<thumbnail>http://i.imgur.com/mchUIjF.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Absolute 90s[/COLOR]</title>
+<link>http://tx.whatson.com/icecast.php?i=absolute90slow.mp3</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Absolute 00s[/COLOR]</title>
+<link>http://tx.whatson.com/icecast.php?i=absolute00slow.mp3</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+
+http://str1.sad.ukrd.com/eagleoldies - my radio

@@ -1,0 +1,192 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUq1VMCYlTT5GA3PRaNfzU7A</link>
+<link></link>
+<thumbnail>https://goo.gl/DB4KaJ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.4 Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PLKgehmA0vym9ez2p-LBztrErNLt28mZhR</link>
+<link></link>
+<thumbnail>https://goo.gl/H9UjV4</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.4 Items and Bosses</title>
+<link>https://www.youtube.com/playlist?list=PLKgehmA0vym_sxF-n1KnaALiqzSlNIuLH</link>
+<link></link>
+<thumbnail>https://goo.gl/KISj4y</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Best Videos</title>
+<link>https://www.youtube.com/playlist?list=PLKgehmA0vym-fDLjuCuA8eun3qfqVExX0</link>
+<link></link>
+<thumbnail>https://goo.gl/oK8LQP</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 All Videos</title>
+<link>https://www.youtube.com/playlist?list=PLKgehmA0vym-luY1wQNd623xidQoPUokx</link>
+<link></link>
+<thumbnail>https://goo.gl/eGTMMz</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Best Items</title>
+<link>https://www.youtube.com/playlist?list=PLKgehmA0vym9vcZCDYNy4LxtEAVZSCj3T</link>
+<link></link>
+<thumbnail>https://goo.gl/RX4dRL</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Best Mage Items </title>
+<link>https://www.youtube.com/playlist?list=PLKgehmA0vym9jtH8VpaopSJzVAtim9meV</link>
+<link></link>
+<thumbnail>https://goo.gl/i6nSMF</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Best Melee Weapons</title>
+<link>https://www.youtube.com/playlist?list=PLKgehmA0vym8HkR8TZzr-XYAUNkllKiPk</link>
+<link></link>
+<thumbnail>https://goo.gl/PQk0Rm</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Best Summoner Items</title>
+<link>https://www.youtube.com/playlist?list=PLKgehmA0vym_3OhR5cnS5Z0v9nHgplG0q</link>
+<link></link>
+<thumbnail>https://goo.gl/x3npkT</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.2 Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PLKgehmA0vym9xHrHLwWXWBLwx7idbD6Cs</link>
+<link></link>
+<thumbnail>https://goo.gl/IafbSl</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Legend of Zelda - A Link To Terraria</title>
+<link>https://www.youtube.com/playlist?list=PLKgehmA0vym-FtuS2Mcoy4hbJHGQgHj18</link>
+<link></link>
+<thumbnail>https://goo.gl/pVfiMG</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Hardmode</title>
+<link>https://www.youtube.com/playlist?list=PLKgehmA0vym9XM8Mx6Nxthkpz_n8_8Ifn</link>
+<link></link>
+<thumbnail>https://goo.gl/Ll9i2n</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Best Ranger Items</title>
+<link>https://www.youtube.com/playlist?list=PLKgehmA0vym8jpAfLC1t8otd-Lf66MjO8</link>
+<link></link>
+<thumbnail>https://goo.gl/pTTiGW</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.2.4.1 Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PLKgehmA0vym-I-YozqqvfmBVwqR0xvpY2</link>
+<link></link>
+<thumbnail>https://goo.gl/6PdrwD</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria SpeedRun</title>
+<link>https://www.youtube.com/playlist?list=PLKgehmA0vym-TfDNOZ3zLJ_yWjIQ9Ub3E</link>
+<link></link>
+<thumbnail>https://goo.gl/R1E3NF</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria</title>
+<link>https://www.youtube.com/playlist?list=PL4F1ACAA6CCA9A301</link>
+<link></link>
+<thumbnail>https://goo.gl/N3T7Xx</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.2</title>
+<link>https://www.youtube.com/playlist?list=PLKgehmA0vym9WFmIiLO3HVExsu0vSGoGt</link>
+<link></link>
+<thumbnail>https://goo.gl/vAbPNS</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Hardcore Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PLEC9B783BA89BCD73</link>
+<link></link>
+<thumbnail>https://goo.gl/JZIUOw</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>All My Vids</title>
+<link>https://www.youtube.com/playlist?list=PLAFD5E40D84FDF191</link>
+<link></link>
+<thumbnail>https://goo.gl/JBydkO</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Tutorials</title>
+<link>https://www.youtube.com/playlist?list=PLA00A0A8C85FBDDD4</link>
+<link></link>
+<thumbnail>https://goo.gl/EhKeEg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Best Of Hero</title>
+<link>https://www.youtube.com/playlist?list=PLKgehmA0vym91z9RXV3iI37Tp1Ee_uK-P</link>
+<link></link>
+<thumbnail>https://goo.gl/zbDb7b</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Season 3</title>
+<link>https://www.youtube.com/playlist?list=PL1F04C30036DC15B8</link>
+<link></link>
+<thumbnail>https://goo.gl/IXUVF0</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.1</title>
+<link>https://www.youtube.com/playlist?list=PLD1A6406E6C5D29AE</link>
+<link></link>
+<thumbnail>https://goo.gl/WL1xRo</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Eater Of Worlds</title>
+<link>https://www.youtube.com/playlist?list=PLC8AE609FF3FB9430</link>
+<link></link>
+<thumbnail>https://goo.gl/989R7g</thumbnail>
+<fanart>http://</fanart>
+</item>
+

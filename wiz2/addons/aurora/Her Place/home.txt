@@ -1,0 +1,15 @@
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>Fashion</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Her%20Place/Fashion/fashion.txt</folder>
+<thumbnail>http://i.imgur.com/IKfnnd6.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Beauty</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Her%20Place/Beauty/beauty.txt</folder>
+<thumbnail>http://i.imgur.com/DRmaQPa.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

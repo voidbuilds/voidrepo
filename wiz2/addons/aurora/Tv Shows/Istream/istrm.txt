@@ -1,0 +1,14 @@
+
+<item>
+<title>Coming soon</title>
+<link>http://</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Coming soon</title>
+<link>http://dl.my-film.org/serial/Billions/Season%201%20-%20720p%20x265%20HDTV/Billions.S01E01.720p.x265-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>

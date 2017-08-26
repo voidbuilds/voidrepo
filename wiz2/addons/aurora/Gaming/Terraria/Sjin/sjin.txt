@@ -1,0 +1,7 @@
+<item>
+<title>Druidaria</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfDjTfABmtcO_DuCgpJBRDk4</link>
+<link></link>
+<thumbnail>https://goo.gl/OzO1Kd</thumbnail>
+<fanart>http://</fanart>
+</item>

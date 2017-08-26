@@ -1,0 +1,127 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUrYnLkVfvVf0Qy0YOUQdk2A</link>
+<link></link>
+<thumbnail>https://goo.gl/RXYGYj</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Pixelmon Island</title>
+<link>https://www.youtube.com/playlist?list=PL0cQEPFPswO4N4LkzoMp4a0xUeuJ_ZnA8</link>
+<link></link>
+<thumbnail>https://goo.gl/Ep5Szq</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Pixelmon Mod</title>
+<link>https://www.youtube.com/playlist?list=PL0cQEPFPswO7FXr0Z13k0g93O7YfQwnAs</link>
+<link></link>
+<thumbnail>https://goo.gl/XtvWWI</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Lucky Block Mod</title>
+<link>https://www.youtube.com/playlist?list=PL0cQEPFPswO4ls0TMJssx9o1CfSy2EK1V</link>
+<link></link>
+<thumbnail>https://goo.gl/J0JUdH</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Pixelmon Adventures</title>
+<link>https://www.youtube.com/playlist?list=PL0cQEPFPswO7iFdXBRx1p5a-8i6C54_AQ</link>
+<link></link>
+<thumbnail>https://goo.gl/0aDSIv</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Mod Battles</title>
+<link>https://www.youtube.com/playlist?list=PL0cQEPFPswO6AguVvydWG4N-B7iYgzx2i</link>
+<link></link>
+<thumbnail>https://goo.gl/MXKZhh</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Cops and Robbers</title>
+<link>https://www.youtube.com/playlist?list=PL0cQEPFPswO7touNU_Ug00QOcW3NicxxF</link>
+<link></link>
+<thumbnail>https://goo.gl/1ekFwT</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Crazy Craft 3.0</title>
+<link>https://www.youtube.com/playlist?list=PL0cQEPFPswO4qU9ygqg4d4im4RrVoN13Y</link>
+<link></link>
+<thumbnail>https://goo.gl/w9heQ5</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>How To Minecraft Season 2</title>
+<link>https://www.youtube.com/playlist?list=PL0cQEPFPswO4CIR9yPPsRjWTjUuJppaub</link>
+<link></link>
+<thumbnail>https://goo.gl/eCxs2k</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>How To Minecraft</title>
+<link>https://www.youtube.com/playlist?list=PL0cQEPFPswO5-5bGfUAVSnxDmOFCDjwGB</link>
+<link></link>
+<thumbnail>https://goo.gl/pAqno2</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Sky Factory</title>
+<link>https://www.youtube.com/playlist?list=PL0cQEPFPswO6QF1UtyHCSAWFNTF6w8QL7</link>
+<link></link>
+<thumbnail>https://goo.gl/BAw3tK</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Dinosaurs Modded Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL0cQEPFPswO7PmmbbNYOKbxMSaKXx5029</link>
+<link></link>
+<thumbnail>https://goo.gl/9qIUQO</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Mod Battles</title>
+<link>https://www.youtube.com/playlist?list=PL0cQEPFPswO7Ameae5X6pbokv_9S8z7rj</link>
+<link></link>
+<thumbnail>https://goo.gl/SakTo0</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>MiniGames</title>
+<link>https://www.youtube.com/playlist?list=PL0cQEPFPswO7i2UPQazxUrBhX4DCHzFGJ</link>
+<link></link>
+<thumbnail>https://goo.gl/EDMlCe</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Hunger Games</title>
+<link>https://www.youtube.com/playlist?list=PL0cQEPFPswO5B4LtdHJCFR2LPX1m8de2f</link>
+<link></link>
+<thumbnail>https://goo.gl/K84Ju8</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Pixelmon Adventures with Jerome and Mitch</title>
+<link>https://www.youtube.com/playlist?list=PL0cQEPFPswO6Rvd9V3AJ2v1Br0Mj-pwSo</link>
+<link></link>
+<thumbnail>https://goo.gl/sKeMKT</thumbnail>
+<fanart>http://</fanart>
+</item>

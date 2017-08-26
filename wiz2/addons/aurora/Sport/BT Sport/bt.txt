@@ -1,0 +1,63 @@
+<item>
+<title>[COLOR cyan] If the first link doesnt work choose the second multi channel link[/COLOR]</title>
+<link>http://</link>
+<thumbnail>http://i.imgur.com/ejqG0Lt.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/oN9BFmGext/30eup8cAnU/9522.ts&amp</link>
+<thumbnail>http://i.imgur.com/oUS8nlc.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport 1 (1)</title>
+<sportsdevil>http://livesport.pw/BTSport1.html(Livesport)</sportsdevil>
+<sportsdevil>http://mamahd.com/bt-sport-1-live-stream1-1.html(Mamahd)</sportsdevil>
+<sportsdevil>http://www.liveonlinetv247.info/btsport1.php(Liveonline247)</sportsdevil>
+<sportsdevil>http://sstream.net/bt1.html(Sstream)</sportsdevil>
+<sportsdevil>http://livetv-free.com/btsport1.php(Livetv)</sportsdevil>
+<sportsdevil>http://kora-live.tv/bt1.html(kora-live)</sportsdevil>
+<thumbnail>http://i.imgur.com/oUS8nlc.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/oN9BFmGext/30eup8cAnU/9523.ts&amp</link>
+<thumbnail>http://i.imgur.com/bAinlFl.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport 2 (1)</title>
+<sportsdevil>http://livesport.pw/BTSport2.html(Livesport)</sportsdevil>
+<sportsdevil>http://mamahd.com/bt-sport-2-live-stream-1.html(Mamahd)</sportsdevil>
+<sportsdevil>http://www.liveonlinetv247.info/btsport2.php(Liveonline247)</sportsdevil>
+<sportsdevil>http://sstream.net/bt2.html(Sstream)</sportsdevil>
+<sportsdevil>http://livetv-free.com/btsport2.php(Livetv)</sportsdevil>
+<sportsdevil>http://kora-live.tv/bt2.html(kora-live)</sportsdevil>
+<thumbnail>http://i.imgur.com/bAinlFl.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sports 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/oN9BFmGext/30eup8cAnU/9524.ts&amp</link>
+<thumbnail>http://i.imgur.com/8SF0tOJ.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport 3 (1)</title>
+<sportsdevil>http://livesport.pw/BTSport3.html(Livesport)</sportsdevil>
+<sportsdevil>http://mamahd.com/bt-sport-3-live-stream-1.html(Mamahd)</sportsdevil>
+<sportsdevil>http://www.liveonlinetv247.info/btsporteurope.php(Liveonline247)</sportsdevil>
+<sportsdevil>http://sstream.net/btespn.html(Sstream)</sportsdevil>
+<sportsdevil>http://livetv-free.com/btsporteurope.php(Livetv)</sportsdevil>
+<sportsdevil>http://kora-live.tv/bteu.html(kora-live)</sportsdevil>
+<thumbnail>http://i.imgur.com/8SF0tOJ.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

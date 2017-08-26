@@ -1,0 +1,195 @@
+<item>
+<title>[COLOR cyan] If the first link doesnt work choose the second multi channel link[/COLOR]</title>
+<link>http://</link>
+<thumbnail>http://i.imgur.com/ejqG0Lt.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports News</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/oN9BFmGext/30eup8cAnU/4963.ts&amp</link>
+<thumbnail>http://i.imgur.com/cwm0vVH.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports News (1)</title>
+<sportsdevil>http://sports-night.eu/ssn.html(sports-night)</sportsdevil>
+<sportsdevil>http://www.liveonlinetv247.info/embed/skysportsnews.php(Liveonline247)</sportsdevil>
+<sportsdevil>http://livetv-free.com/sky-sports-news.php(Livetv)</sportsdevil>
+<sportsdevil>http://kora-live.tv/sky1.html(kora-live)</sportsdevil>
+<thumbnail>http://i.imgur.com/cwm0vVH.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports Main Event</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/oN9BFmGext/30eup8cAnU/4972.ts&amp</link>
+<thumbnail>http://i.imgur.com/f5Iv3kl.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports Main Event (1)</title>
+<sportsdevil>http://livesport.pw//SkySports1.html(Livesport)</sportsdevil>
+<sportsdevil>http://mamahd.com/sky-sports-1-live-free-stream-1.html(Mamahd)</sportsdevil>
+<sportsdevil>http://sports-night.eu/ss1.html(Sports-night)</sportsdevil>
+<sportsdevil>http://www.liveonlinetv247.info/skysports1.php(Liveonline247)</sportsdevil>
+<sportsdevil>http://sstream.net/sky1.html(Sstream)</sportsdevil>
+<sportsdevil>http://kora-live.tv/sky1.html(kora-live)</sportsdevil>
+<thumbnail>http://i.imgur.com/f5Iv3kl.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+
+<item>
+<title>Sky Sports Cricket</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/oN9BFmGext/30eup8cAnU/4970.ts&amp</link>
+<thumbnail>http://i.imgur.com/ahiVzcs.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports Cricket (1)</title>
+<sportsdevil>http://livesport.pw//SkySports2.html(Livesport)</sportsdevil>
+<sportsdevil>http://mamahd.com/sky-sports-2-live-stream-1.html(Mamahd)</sportsdevil>
+<sportsdevil>http://www.liveonlinetv247.info/skysports2.php(Liveonline247)</sportsdevil>
+<sportsdevil>http://sports-night.eu/ss2.html(Sports-night)</sportsdevil>
+<sportsdevil>http://sstream.net/sky2.html(Sstream)</sportsdevil>
+<sportsdevil>http://kora-live.tv/sky2.html(kora-live)</sportsdevil>
+<thumbnail>http://i.imgur.com/ahiVzcs.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports Action</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/oN9BFmGext/30eup8cAnU/4968.ts&amp</link>
+<thumbnail>http://i.imgur.com/FTMdYvR.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports Action (1)</title>
+<sportsdevil>http://livesport.pw//SkySports3.html(Livesport)</sportsdevil>
+<sportsdevil>http://mamahd.com/sky-sports-3-live-stream-1.html(Mamahd)</sportsdevil>
+<sportsdevil>http://www.liveonlinetv247.info/skysports3.php(Liveonline247)</sportsdevil>
+<sportsdevil>http://sports-night.eu/ss3.html(Sports-night)</sportsdevil>
+<sportsdevil>http://sstream.net/sky3.html(Sstream)</sportsdevil>
+<sportsdevil>http://kora-live.tv/sky3.html(kora-live)</sportsdevil>
+<thumbnail>http://i.imgur.com/FTMdYvR.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports Golf</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/oN9BFmGext/30eup8cAnU/9561.ts&amp</link>
+<thumbnail>http://i.imgur.com/C5CvXAb.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports Golf (1)</title>
+<sportsdevil>http://livesport.pw/SkySports4.html(Livesport)</sportsdevil>
+<sportsdevil>http://mamahd.com/sky-sports-4-live-stream-1.html(Mamahd)</sportsdevil>
+<sportsdevil>http://www.liveonlinetv247.info/skysports4.php(Liveonline247)</sportsdevil>
+<sportsdevil>http://sports-night.eu/ss4.html(Sports-night)</sportsdevil>
+<sportsdevil>http://antenasport.eu/skysports4.html(Antena)</sportsdevil>
+<sportsdevil>http://kora-live.tv/sky4.html(kora-live)</sportsdevil>
+<thumbnail>http://i.imgur.com/C5CvXAb.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports Premier League</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/oN9BFmGext/30eup8cAnU/9562.ts&amp</link>
+<thumbnail>http://i.imgur.com/fQmTgdP.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports Premier League (1)</title>
+<sportsdevil>http://livesport.pw//SkySports5.html(Livesport)</sportsdevil>
+<sportsdevil>http://mamahd.com/sky-sports-5-live-stream-1.html(Mamahd)</sportsdevil>
+<sportsdevil>http://www.liveonlinetv247.info/skysports5.php(Liveonline247)</sportsdevil>
+<sportsdevil>http://sstream.net/sky5.html(Sstream)</sportsdevil>
+<sportsdevil>http://sports-night.eu/ss5.html(Sports-night)</sportsdevil>
+<sportsdevil>http://kora-live.tv/sky5.html(kora-live)</sportsdevil>
+<thumbnail>http://i.imgur.com/fQmTgdP.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports Mix</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsensation.ns01.biz:6500/live/kimo/RYfo8fzYQQ/13713.ts&amp</link>
+<thumbnail>http://i.imgur.com/Sz1AHXb.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports Mix (1)</title>
+<sportsdevil>http://antenasport.eu/skysportsmix.html(Antena)</sportsdevil>
+<sportsdevil>http://www.crichd.sc/sky-sports-mix-live-stream(Crichd)</sportsdevil>
+<thumbnail>http://i.imgur.com/Sz1AHXb.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports F1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/oN9BFmGext/30eup8cAnU/8755.ts&amp</link>
+<thumbnail>http://i.imgur.com/ZqUggDm.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports F1 (1)</title>
+<sportsdevil>http://mamahd.com/sky-sports-formula-1-live-stream-1.html(Mamahd)</sportsdevil>
+<sportsdevil>http://www.liveonlinetv247.info/skysportsf1.php(Liveonline247)</sportsdevil>
+<sportsdevil>http://sports-night.eu/ssf1.html(Sports-night)</sportsdevil>
+<sportsdevil>http://sstream.net/skyf1.html(Sstream)</sportsdevil>
+<sportsdevil>http://antenasport.eu/skysportsf1.html(Antena)</sportsdevil>
+<thumbnail>http://i.imgur.com/ZqUggDm.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>At The Races</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/oN9BFmGext/30eup8cAnU/8505.ts&amp</link>
+<thumbnail>http://i.imgur.com/viBpGoU.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>At The Races (1)</title>
+<sportsdevil>http://cricfree.sc/at-the-races-live-stream(Cricfree)</sportsdevil>
+<sportsdevil>http://www.shadow-net.org/channels/At-The-Races.html(Shadow-Net)</sportsdevil>
+<sportsdevil>http://www.liveonlinetv247.info/attheraces.php(Liveonline247)</sportsdevil>
+<sportsdevil>http://cricbox.net/at-the-races-live-streaming(Cricbox)</sportsdevil>
+<sportsdevil>http://multi-sports.eu/atr.html(Multi-Sports)</sportsdevil>
+<sportsdevil>http://www.time4tv.me/2011/17/at-the-races.php(Time4)</sportsdevil>
+<sportsdevil>http://giostreams.eu/atr.html(Giostreams)</sportsdevil>
+<sportsdevil>http://cdn01.1live.tv/at-the-races-live-streaming.php(1live)</sportsdevil>
+<sportsdevil>http://www.mntvlive.com/at-the-races-live-stream/(Mntlive)</sportsdevil>
+<thumbnail>http://i.imgur.com/viBpGoU.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Racing UK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/oN9BFmGext/30eup8cAnU/7128.ts&amp</link>
+<thumbnail>http://i.imgur.com/wh5pkH1.jpg?2</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Racing UK (1)</title>
+<sportsdevil>http://cricfree.sc/racing-uk-live-stream-2(Cricfree)</sportsdevil>
+<sportsdevil>http://www.liveonlinetv247.info/racinguk.php(Liveonline247)</sportsdevil>
+<sportsdevil>http://cricbox.net/racing-uk(Cricbox)</sportsdevil>
+<sportsdevil>http://multi-sports.eu/ukrace.html(Multi-Sports)</sportsdevil>
+<sportsdevil>http://www.time4tv.me/2016/04/racing-uk.php(Time4)</sportsdevil>
+<sportsdevil>http://giostreams.eu/ukrace.html(Giostreams)</sportsdevil>
+<sportsdevil>http://cdn06.1live.tv/racing-uk-live-streaming.php(1Live)</sportsdevil>
+<sportsdevil>http://www.mntvlive.com/racing-uk-tv-live-stream/(Mntlive)</sportsdevil>
+<thumbnail>http://i.imgur.com/wh5pkH1.jpg?2</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

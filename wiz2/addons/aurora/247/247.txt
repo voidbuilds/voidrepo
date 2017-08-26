@@ -1,0 +1,49 @@
+
+<item>
+<title>[COLOR cyan]American Dad[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=A4tbPmwC7Jk</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Family Guy[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=ulKWMto05jc</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Bob's Burgers[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=YuFr2POr2Qo</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]The Simpsons[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=OzEhB6ro1j0</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Futurama[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=0GUtFBl6blE</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]King of The Hill[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=YRMd4ZR9gWQ</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Brickleberry[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=GiZoCZwJI4s</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

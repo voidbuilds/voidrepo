@@ -1,0 +1,7 @@
+<item>
+<title>Stardew Valley Play Through!</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfBBAVyZ17MbCdHcnO9h-89y</link>
+<link></link>
+<thumbnail>https://goo.gl/ZdQ5rU</thumbnail>
+<fanart>http://</fanart>
+</item>

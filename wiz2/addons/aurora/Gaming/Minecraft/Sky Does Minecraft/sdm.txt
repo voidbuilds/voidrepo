@@ -1,0 +1,151 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUKlhpmbHGxBE6uw9B_uLeqQ</link>
+<link></link>
+<thumbnail>https://goo.gl/4jRDSX</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Roommates (Roleplay Season 3)</title>
+<link>https://www.youtube.com/playlist?list=PLm29cAuVva68g9oDm9qHkdA06Eh5I6aan</link>
+<link></link>
+<thumbnail>https://goo.gl/ahSX9q</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Do Not Laugh</title>
+<link>https://www.youtube.com/playlist?list=PLm29cAuVva694tZb8rFmy-deU9Z6Ra21R</link>
+<link></link>
+<thumbnail>https://goo.gl/0aQnxA</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Roommates (Roleplay Season 1 & 2)</title>
+<link>https://www.youtube.com/playlist?list=UUKlhpmbHGxBE6uw9B_uLeqQ</link>
+<link></link>
+<thumbnail>https://goo.gl/tQFmNI</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Hide N Seek</title>
+<link>https://www.youtube.com/playlist?list=PLm29cAuVva6-qVROzAR9x89Rp4s5KWqeI</link>
+<link></link>
+<thumbnail>https://goo.gl/ZEJ56D</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Animations</title>
+<link>https://www.youtube.com/playlist?list=PLm29cAuVva68K9Ax59XRbLBiuP4QK9mRQ</link>
+<link></link>
+<thumbnail>https://goo.gl/bIkbEL</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Cops N Robbers</title>
+<link>https://www.youtube.com/playlist?list=PLm29cAuVva68IeB2ahqt-jtRjHgXxTh-k</link>
+<link></link>
+<thumbnail>https://goo.gl/MtVfyT</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>MiniGames</title>
+<link>https://www.youtube.com/playlist?list=PLm29cAuVva68j4am0o__8Kk-KjWeZx7WI</link>
+<link></link>
+<thumbnail>https://goo.gl/A5xSyZ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Mod Showcases</title>
+<link>https://www.youtube.com/playlist?list=PLm29cAuVva68n_T6wSg5xrbkm4JjrFSEe</link>
+<link></link>
+<thumbnail>https://goo.gl/DL9hj1</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Adventures Of Bacon Man</title>
+<link>https://www.youtube.com/playlist?list=PLm29cAuVva6_xO1xq768NGJg1v0BYgPwh</link>
+<link></link>
+<thumbnail>https://goo.gl/EAAx1E</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Teacher (Roleplay)</title>
+<link>https://www.youtube.com/playlist?list=PLm29cAuVva68jK7UTj5sKyfAhwzrTJY2K</link>
+<link></link>
+<thumbnail>https://goo.gl/78BmmA</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Adventure Maps</title>
+<link>https://www.youtube.com/playlist?list=PLm29cAuVva68l3APK60svEmNMYUNEviRY</link>
+<link></link>
+<thumbnail>https://goo.gl/v6sjah</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Parodies</title>
+<link>https://www.youtube.com/playlist?list=PLm29cAuVva6_odcqD7Ti-RZOIrZKe5q9l</link>
+<link></link>
+<thumbnail>https://goo.gl/Zfrgyq</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Mincecraft University (Roleplay)</title>
+<link>https://www.youtube.com/playlist?list=PLm29cAuVva6-PBXL-rg_yAAnU8uQIPCvH</link>
+<link></link>
+<thumbnail>https://goo.gl/KwhZbF</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Pirates (Roleplay)</title>
+<link>https://www.youtube.com/playlist?list=PLm29cAuVva68dtsmPQI_YzzvHSt28QY7O</link>
+<link></link>
+<thumbnail>https://goo.gl/xsYahi</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Crafting Dead (Roleplay)</title>
+<link>https://www.youtube.com/playlist?list=PLm29cAuVva6-brhvWj_2RHZrzCbMxIPlk</link>
+<link></link>
+<thumbnail>https://goo.gl/2G7huJ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Hunger Games</title>
+<link>https://www.youtube.com/playlist?list=PLm29cAuVva68PK64lwnepuy6KgV0Hn7VL</link>
+<link></link>
+<thumbnail>https://goo.gl/gtOZS2</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Epic Jump Maps</title>
+<link>https://www.youtube.com/playlist?list=PLm29cAuVva6_LwSed8MEU1NTZes1aal-e</link>
+<link></link>
+<thumbnail>https://goo.gl/whKB54</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Pixelmon</title>
+<link>https://www.youtube.com/playlist?list=PLm29cAuVva6_KO16yMjCFkeJG5MDurncc</link>
+<link></link>
+<thumbnail>https://goo.gl/AdUROf</thumbnail>
+<fanart>http://</fanart>
+</item>

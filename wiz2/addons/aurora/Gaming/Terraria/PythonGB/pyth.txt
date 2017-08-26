@@ -1,0 +1,151 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UU0EUI4xA5SB6WswqLavNcyA</link>
+<link></link>
+<thumbnail>https://goo.gl/Ea2RL4</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Boss Battles</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKUAcTEJDa1gaUuPYX63Ejv6</link>
+<link></link>
+<thumbnail>https://goo.gl/R0wWNH</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.4 Christmas Playthrough</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKWL9eDmxRw0HrK5mnreVzwR</link>
+<link></link>
+<thumbnail>https://goo.gl/ByknQQ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.3 Yoyo Playthrough</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKUfM90rSVjIRYv5CqrUcptG</link>
+<link></link>
+<thumbnail>https://goo.gl/Hd8fSe</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.3/1.3.4 (Pythons Realm)</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKULcq7tR8E9kWyxMX9YHhdZ</link>
+<link></link>
+<thumbnail>https://goo.gl/z0hUX4</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Pythons 1.3 Mod Pack</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKWrnD8hzoC7xfYMm5KiHXa4</link>
+<link></link>
+<thumbnail>https://goo.gl/7mcJjQ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Weapons Of...(Weapons Guides)</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKUanjh5CyIUSsqV9juhOZq7</link>
+<link></link>
+<thumbnail>https://goo.gl/h3vwOY</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3/1.3.1/1.3.2 Summoner Class Playthrough</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKXIRc6bEWLQWhMwGK7mxRDJ</link>
+<link></link>
+<thumbnail>https://goo.gl/TcxigP</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 The Christmas Playthrough</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKVgaKXZVYLeYMO1lgl0Fa71</link>
+<link></link>
+<thumbnail>https://goo.gl/hkxR6R</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Expert Mode Co-Op Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKVwgDXnAJS0iI-4wo_YeRqm</link>
+<link></link>
+<thumbnail>https://goo.gl/YSvVSb</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Expert Mode Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKWtPmZtrMZewSkoEnRlYQ5Z</link>
+<link></link>
+<thumbnail>https://goo.gl/StZ335</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Python Plays Terraria 1.3</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKWaLWLrjMccpXhUznSpASJC</link>
+<link></link>
+<thumbnail>https://goo.gl/bGAhG9</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria The Mage Playthrough</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKVdrGLTZ0ULb31eVZOmAQ79</link>
+<link></link>
+<thumbnail>https://goo.gl/DsjJaz</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria All Challenges (Hardcore)</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKVNf2-xHTaHxUDSFCnEKQ2e</link>
+<link></link>
+<thumbnail>https://goo.gl/rzrxEe</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria The Ranger Playthorugh</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKXakTU2SB1W92nWtu_AmJ65</link>
+<link></link>
+<thumbnail>https://goo.gl/CIr47a</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria The Warrior Playthrough</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKUkfJvSvYjmZn5o2cW50pN9</link>
+<link></link>
+<thumbnail>https://goo.gl/O09OBk</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Mythbusting</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKUDbK5eCnHMScKrslRkvOLw</link>
+<link></link>
+<thumbnail>https://goo.gl/pRJGds</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.2.3/1.2.4 Multiplayer Survival</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKVs2n-1uoF-bgIsDFQ6nIf3</link>
+<link></link>
+<thumbnail>https://goo.gl/isYhTN</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.2.3/1.2.4 Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL4uClqJN4QKXYU0tWUlQvY85MlTDSznug</link>
+<link></link>
+<thumbnail>https://goo.gl/Wj5cDf</thumbnail>
+<fanart>http://</fanart>
+</item>

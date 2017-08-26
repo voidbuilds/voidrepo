@@ -1,0 +1,8 @@
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>ChippyGaming</title>
+<folder>http://voidbuilds.net16.net/wizard/addons/aurora/Gaming/Terraria/Chippy%20Gaming/chip.txt</folder>
+<thumbnail>https://goo.gl/E7Z05G</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

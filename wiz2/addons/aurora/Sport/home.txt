@@ -1,0 +1,124 @@
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>Daily Sports Lists</title>
+<mamahd>http://mamahd.com/index.html</mamahd>
+<thumbnail>http://i.imgur.com/uHRoMCR.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Zem Sports</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=13&amp;name=Sports&amp;url=Live</jsonrpc>
+<thumbnail>http://i.imgur.com/ek5ExEW.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Sport/Sky%20Sports/sky.txt</folder>
+<thumbnail>http://i.imgur.com/WlZwdU3.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Sport/BT%20Sport/bt.txt</folder>
+<thumbnail>http://i.imgur.com/QzJUOY3.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Events/Requests</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Sport/Events%20and%20Requests/eanda.txt</folder>
+<thumbnail>http://i.imgur.com/yPlr7Hn.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Away Days</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Sport/Away%20Days/teams.txt</folder>
+<thumbnail>http://i.imgur.com/sx5kOT7.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Rangers Tv</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Sport/Rangers%20Tv/rangers.txt</folder>
+<thumbnail>http://i.imgur.com/gid9fW5.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+
+<item>
+<title>At The Races</title>
+<sportsdevil>http://cricfree.sc/at-the-races-live-stream(Cricfree)</sportsdevil>
+<sportsdevil>http://sports-night.eu/atr.html(Sports-night)</sportsdevil>
+<sportsdevil>http://www.liveonlinetv247.info/attheraces.php(Liveonline247)</sportsdevil>
+<thumbnail>http://i.imgur.com/jJg2fgb.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Racing UK</title>
+<sportsdevil>http://www.liveonlinetv247.info/racinguk.php(Liveonline247)</sportsdevil>
+<sportsdevil>http://sports-night.eu/atr.html(Sports-night)</sportsdevil>
+<thumbnail>http://i.imgur.com/pAbgCTp.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>NBC SN</title>
+<sportsdevil>http://livesport.pw/NBCSN.html(livesport)</sportsdevil>
+<sportsdevil>http://www.liveonlinetv247.info/nbcsn.php(Liveonline247)</sportsdevil>
+<sportsdevil>http://bigsports.me/watch/46/nbcsn-live-stream.html(Bigsports)</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.co/watch-nbc-sport-networks-live-online-nbc-sport-networks-usa/(Nowwatchtvlive)</sportsdevil>
+<sportsdevil>http://bigsports.me/watch/46/nbcsn-live-stream.html(bigsports)</sportsdevil>
+<sportsdevil>http://www.sportstvstream.me/nbcsn-tv-channel-live-stream/(Sportstv)</sportsdevil>
+<thumbnail>http://i.imgur.com/B3H5AKK.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Fox Sports 1</title>
+<sportsdevil>http://www.sports4u.live/channel/fox-sports-1-live-stream-online/(sports4u)</sportsdevil>
+<sportsdevil>http://www.cinestrenostv.tv/canales/deportes/foxsports.php(cinestrenostv)</sportsdevil>
+<sportsdevil>http://cricfree.sc/fox-sports-1-usa-live-stream(Cricfree)</sportsdevil>
+<thumbnail>http://i.imgur.com/gL6ZECK.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Fox Sports 2</title>
+<sportsdevil>http://www.sports4u.live/channel/fox-sports-2-live-stream-online/(sports4u)</sportsdevil>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/foxsports2.php(cinestrenostv)</sportsdevil>
+<sportsdevil>http://cricfree.sc/fox-sports-2-usa-live-stream(Cricfree)</sportsdevil>
+<thumbnail>http://i.imgur.com/ClcDArG.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Box Nation</title>
+<sportsdevil>http://www.mamahd.com/box-nation-live-streaming-free-1.html(mamahd)</sportsdevil>
+<sportsdevil>http://www.shadow-net.org/channels/BoxNation.html(shadow-net)</sportsdevil>
+<sportsdevil>http://www.liveonlinetv247.info/boxnation.php(Liveonline247)</sportsdevil>
+<thumbnail>http://i.imgur.com/OxdXFb8.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>WWE Network</title>
+<sportsdevil>http://www.hdfree.tv/wwe-network-live-stream.html(hdfree)</sportsdevil>
+<sportsdevil>http://www.crichd.sc/wwe-network(Cfichd)</sportsdevil>
+<sportsdevil>http://bigsports.me/watch/55/wwe-network.html(bigsports)</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.co/watch-wwe-247-channel-live-wwe-wrestling-channel/(Nowwatchtvlive)</sportsdevil>
+<thumbnail>http://i.imgur.com/xwSJPTA.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Golf Channel</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Sport/Golf%20Channel/golf.txt</folder>
+<thumbnail>http://i.imgur.com/hWtfzq7.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

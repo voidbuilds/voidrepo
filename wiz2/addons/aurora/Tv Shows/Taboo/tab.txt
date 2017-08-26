@@ -1,0 +1,69 @@
+
+<item>
+<title>Episode 1</title>
+<link>http://dl3.film2movie.biz/serial/Taboo/S01/Taboo.S01E01.1080p.Film2Movie_BiZ.mkv(1080p)</link>
+<link>http://dl.my-film.org/serial/Taboo/Season%201%20-%201080p%20HDTV/Taboo.UK.S01E01.INTERNAL.1080p.HDTV.x264-[My-Film].mkv(1080p)</link>
+<link>http://dl3.film2movie.biz/serial/Taboo/S01/Taboo.S01E01.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 2</title>
+<link>http://dl3.film2movie.biz/serial/Taboo/S01/Taboo.S01E02.1080p.Film2Movie_BiZ.mkv(1080p)</link>
+<link>http://dl.my-film.org/serial/Taboo/Season%201%20-%201080p%20HDTV/Taboo.UK.S01E02.1080p.WEB-DL.x264-[My-Film].mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Taboo/S01/Taboo.S01E02.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 3</title>
+<link>http://dl3.film2movie.biz/serial/Taboo/S01/Taboo.S01E03.1080p.Film2Movie_BiZ.mkv(1080p)</link>
+<link>http://dl.my-film.org/serial/Taboo/Season%201%20-%201080p%20HDTV/Taboo.UK.S01E03.INTERNAL.1080p.HDTV.x264-[My-Film].mkv(1080p)</link>
+<link>http://dl3.film2movie.biz/serial/Taboo/S01/Taboo.S01E03.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 4</title>
+<link>http://dl3.film2movie.biz/serial/Taboo/S01/Taboo.S01E04.1080p.Film2Movie_BiZ.mkv(1080p)</link>
+<link>http://dl.my-film.org/serial/Taboo/Season%201%20-%201080p%20HDTV/Taboo.UK.S01E04.1080p.HDTV.x264-[My-Film].mkv(1080p)</link>
+<link>http://dl3.film2movie.biz/serial/Taboo/S01/Taboo.S01E04.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 5</title>
+<link>http://dl.my-film.org/serial/Taboo/Season%201%20-%201080p%20HDTV/Taboo.UK.S01E05.INTERNAL.1080p.HDTV.x264-[My-Film].mkv(1080p)</link>
+<link>http://dl3.film2movie.biz/serial/Taboo/S01/Taboo.S01E05.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Taboo/S01/Taboo.S01E05.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 6</title>
+<link>http://dl.my-film.org/serial/Taboo/Season%201%20-%201080p%20HDTV/Taboo.UK.S01E06.INTERNAL.1080p.HDTV.x264-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.org/serial/Taboo/Season%201%20-%20%201080p.x265/Taboo.UK.S01E06.INTERNAL.1080p.HDTV.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 7</title>
+<link>http://dl.my-film.org/serial/Taboo/Season%201%20-%201080p%20HDTV/Taboo.UK.S01E07.1080p.HDTV.x264-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.org/serial/Taboo/Season%201%20-%20%201080p.x265/Taboo.UK.S01E07.INTERNAL.1080p.HDTV.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 8</title>
+<link>http://dl.my-film.org/serial/Taboo/Season%201%20-%201080p%20HDTV/Taboo.UK.S01E08.INTERNAL.1080p.HDTV.x264-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.org/serial/Taboo/Season%201%20-%20%201080p.x265/Taboo.UK.S01E08.INTERNAL.1080p.HDTV.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>

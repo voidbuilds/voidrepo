@@ -1,0 +1,263 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUKxQmKgrkUv4S7P5w0pLayw</link>
+<link></link>
+<thumbnail>https://goo.gl/hzX7Kt</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>All New All Different Marvel</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50yC-oURhGZ79BtiWKTiRgJu</link>
+<link></link>
+<thumbnail>https://goo.gl/jPU495</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>DC Comics: Injustics Gods Among Us</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50wmZzrsXmvMPxpM2nfRu99k</link>
+<link></link>
+<thumbnail>https://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>DC Rebirth</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50w9VQ-VKoCJMcuykgetwhGz</link>
+<link></link>
+<thumbnail>https://goo.gl/68yK6Z</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>How To Kill Superheroes</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50yPVXip2671U5xg8eZrnCI8</link>
+<link></link>
+<thumbnail>https://goo.gl/Y24GMt</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Valiant Comics</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50xzhoFOSlrTX_W9EWEsSLmD</link>
+<link></link>
+<thumbnail>https://goo.gl/KBtQGo</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Amazing Spider-Man</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50y8eOvXdy5Obd8T2y48lFvp</link>
+<link></link>
+<thumbnail>https://goo.gl/Pn1dXH</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Comic Concepts</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50xv4PgRGKCdptMOlIMeac4_</link>
+<link></link>
+<thumbnail>https://goo.gl/TtdOAj</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Marvel Major Storylines</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50yZh5dXW-7l93VZp7Ct4vYA</link>
+<link></link>
+<thumbnail>https://goo.gl/tT10DC</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>DC Rebirth: Superman</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50xVb8hWQ5jRNK934EARYsOz</link>
+<link></link>
+<thumbnail>https://goo.gl/XSuCmm</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Walking Dead Comic Series</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50zREiTmnVfyC8X1fyCyO74Z</link>
+<link></link>
+<thumbnail>https://goo.gl/hMJQmX</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Marvel vs DC</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50yh2LxylssiykpEAUuX7DO2</link>
+<link></link>
+<thumbnail>https://goo.gl/ue0KW8</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Incredible Hulk</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50yw-ktX4ytl0TpODQcS6A9u</link>
+<link></link>
+<thumbnail>https://goo.gl/1C50BY</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>DC Rebirth: Batman</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50zS-twlFhABEYukhL9_ne5T</link>
+<link></link>
+<thumbnail>https://goo.gl/68yK6Z</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Rundown</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50zBR7xyZtXZC4gA0dbi3yHO</link>
+<link></link>
+<thumbnail>https://goo.gl/CM2h2K</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Marvel Cosmic Stories</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50zZM5iC7FrNzYTjfiRjiBSv</link>
+<link></link>
+<thumbnail>https://goo.gl/EXmwQr</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>DC Rebirth: The Flash</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50yQJCL1W82c_N_KXu0hTbl4</link>
+<link></link>
+<thumbnail>https://goo.gl/GCrdFq</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Marvel Comics: Civil War 2</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50zajZSqcgGGtEKFOTmXIY5A</link>
+<link></link>
+<thumbnail>https://goo.gl/nLzZw4</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Jonathan Hickmans Fantastic Four,Avengers & New Avengers</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50wuW5TEeDp4JT9sAxBJZE8C</link>
+<link></link>
+<thumbnail>https://goo.gl/s9tYrL</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Star Wars Comics</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50xUBVGulQ4KVk2aFqxoTbJU</link>
+<link></link>
+<thumbnail>https://goo.gl/AjHlzg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Omega & Beyond Omega Level Mutants/Non-Mutants</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50y3YS3RBZfqNKv2Pg-6oli9</link>
+<link></link>
+<thumbnail>https://goo.gl/jqZrym</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Halloween Comics</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50wVX6Q0_-XLDJ3KJmbQmcgS</link>
+<link></link>
+<thumbnail>https://goo.gl/AmO0JE</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Marvel Comics Civil War</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50ympu-QGhc9IbUVTeXfM851</link>
+<link></link>
+<thumbnail>https://goo.gl/yIOqYB</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Marvel Movies Series</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50wBJSPCh1tYCI57EXfq1LY3</link>
+<link></link>
+<thumbnail>https://goo.gl/YXsKRQ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Comicbook Characters</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50zhhSnUHhe6x4kWjQ2jZS6s</link>
+<link></link>
+<thumbnail>https://goo.gl/spQs6E</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Marvel Universe: A History</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50x0JynziGWe2HTSApm-Dvhe</link>
+<link></link>
+<thumbnail>https://goo.gl/VuA6at</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Deadpool Videos</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50yw8PfaSCgWPawj-pq95j3y</link>
+<link></link>
+<thumbnail>https://goo.gl/va9ABV</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Marvel Secret Wars 2015</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50wMKNt-UEyPdHEghRbVodTp</link>
+<link></link>
+<thumbnail>https://goo.gl/JcTVH7</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Top 5 Tuesday</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50wubcJGA7lVnA1Ln6LHPpUB</link>
+<link></link>
+<thumbnail>https://goo.gl/weSdj2</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Infinity Gauntlet</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50xxc2Un0zzw1C8jtlA1wmoM</link>
+<link></link>
+<thumbnail>https://goo.gl/mJzayb</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Death of Wolverine/title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50xkR14SQPaFxONHsnK-wClF</link>
+<link></link>
+<thumbnail>https://goo.gl/SV3fGf</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Age of Ultron</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50w7mpyq8dFQMC_URUpjyvCp</link>
+<link></link>
+<thumbnail>https://goo.gl/fG3Psn</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Marvel Original Sin</title>
+<link>https://www.youtube.com/playlist?list=PL9sO35KZL50zvuHiSAcBjtic3exVZDwue</link>
+<link></link>
+<thumbnail>https://goo.gl/liGd2O</thumbnail>
+<fanart>http://</fanart>
+</item>

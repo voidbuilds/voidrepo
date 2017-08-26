@@ -1,0 +1,143 @@
+<item>
+<title>[COLOR cyan]=====April=====[/COLOR]</title>
+<link>https://</link>
+<link></link>
+<thumbnail>http://i.imgur.com/ejqG0Lt.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Mario Kart 8 Deluxe [COLOR red]Out 28th [COLOR cyan](Switch)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=jsTRUxzEl9U</link>
+<link></link>
+<thumbnail>https://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sniper Ghost Warrior 3 [COLOR red]Out 25th [COLOR cyan](PS4,XB1,PC)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=z33Mjdg7BBY</link>
+<link></link>
+<thumbnail>https://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Outlast 2 [COLOR red]Out 25th [COLOR cyan](PS4,XB1)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=a58xhkF1O5w</link>
+<link></link>
+<thumbnail>https://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Dragon Quest Heroes 2 [COLOR red]Out 25th [COLOR cyan](PS4)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=vq4oG2kXRxo</link>
+<link></link>
+<thumbnail>https://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Stardew Valley [COLOR red]Out 11th [COLOR cyan](PS4,XB1)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=knnwoPvL784</link>
+<link></link>
+<thumbnail>https://goo.gl/Axjdex</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Persona 5 [COLOR red]Out 4th [COLOR cyan](PS4)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=YRFLo3z3M-o</link>
+<link></link>
+<thumbnail>https://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]=====March=====[/COLOR]</title>
+<link>https://</link>
+<link></link>
+<thumbnail>http://i.imgur.com/ejqG0Lt.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Mass Effect: Andromeda [COLOR red]Out 21st [COLOR cyan](PS4,XB1,PC)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=X6PJEmEHIaY</link>
+<link></link>
+<thumbnail>https://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Tom Clancys Ghost Recon Wildlands [COLOR red]Out 7th [COLOR cyan](PS4,XB1,PC)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=t4EbBlBDvxI</link>
+<link></link>
+<thumbnail>https://goo.gl/dDqm0y</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Nier: Automata [COLOR red]Out 7th[COLOR cyan](PS4)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=wJxNhJ8fjFk</link>
+<link></link>
+<thumbnail>https://goo.gl/mTeBYO</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>The Legend of Zelda: Breath of the Wild [COLOR red]Out 3rd [COLOR cyan](Switch)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=zw47_q9wbBE</link>
+<link></link>
+<thumbnail>https://goo.gl/f3i9EW</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]=====February=====[/COLOR]</title>
+<link>https://</link>
+<link></link>
+<thumbnail>http://i.imgur.com/ejqG0Lt.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Horizon Zero Dawn [COLOR red]Out 28th [COLOR cyan](PS4)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=wzx96gYA8ek&t=2s</link>
+<link></link>
+<thumbnail>https://goo.gl/LqtKTY</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Lego Worlds [COLOR red]Out 24th [COLOR cyan](PS4,XB1,PC)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=iAcPkCaRTz0</link>
+<link></link>
+<thumbnail>https://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sniper Elite 4[COLOR red] Out 14th [COLOR cyan](PS4,XB1,PC)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=128nKEUVG18</link>
+<link></link>
+<thumbnail>https://goo.gl/ZiIbvO</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>For Honor [COLOR red]Out 14th [COLOR cyan](PS4,XB1,PC)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=EqpEIczpoxM</link>
+<link></link>
+<thumbnail>https://goo.gl/r4YUqS</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Nioh [COLOR red]Out 7th [COLOR cyan](PS4)[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=UO3bgrxNFhc</link>
+<link></link>
+<thumbnail>https://goo.gl/nEL33g</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

@@ -1,0 +1,104 @@
+
+<item>
+<title>Episode 1</title>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E01.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E01.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 2</title>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E02.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E02.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 3</title>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E03.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E03.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 4</title>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E04.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E04.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 5</title>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E05.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E05.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 6</title>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E06.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E06.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 7</title>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E07.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E07.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 8</title>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E08.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E08.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 9</title>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E09.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E09.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 10</title>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E10.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E10.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 11</title>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E11.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E11.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 12</title>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E12.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E11.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 13</title>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E13.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Luke%20Cage/S01/Luke.Cage.S01E13.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>

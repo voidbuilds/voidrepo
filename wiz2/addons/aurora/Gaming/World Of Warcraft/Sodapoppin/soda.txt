@@ -1,0 +1,7 @@
+<item>
+<title>Sodapoppin</title>
+<link>https://www.youtube.com/playlist?list=UUtu2BCnJoFGRBOuIh570QWw</link>
+<link></link>
+<thumbnail>https://goo.gl/6Qd5zH</thumbnail>
+<fanart>http://</fanart>
+</item>

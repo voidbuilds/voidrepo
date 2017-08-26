@@ -1,0 +1,79 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUkqBGpsiOkZMdwpvWmWRw8g</link>
+<link></link>
+<thumbnail>https://goo.gl/KP4yKl</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Expert Mode Boss Fights</title>
+<link>https://www.youtube.com/playlist?list=PLTQhbnE1faneXs_C4jXbzAIcAX08zCWaT</link>
+<link></link>
+<thumbnail>https://goo.gl/pIm2Z0</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>On The First Night</title>
+<link>https://www.youtube.com/playlist?list=PLTQhbnE1fanecOv_Bpi7J4Pr9SsQaCWRH</link>
+<link></link>
+<thumbnail>https://goo.gl/lZnXkZ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Summoner Hardcore Playthrough - Hagrid</title>
+<link>https://www.youtube.com/playlist?list=PLTQhbnE1faneb76hbbusjRf-YTieKnCNt</link>
+<link></link>
+<thumbnail>https://goo.gl/XGJ73Q</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Caster Playthrough</title>
+<link>https://www.youtube.com/playlist?list=PL0998A99E338DF73C</link>
+<link></link>
+<thumbnail>https://goo.gl/d4Qu78</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.2 Yrimir</title>
+<link>https://www.youtube.com/playlist?list=PLTQhbnE1fancToaPCYm0Sn9yW2HCKy1P1</link>
+<link></link>
+<thumbnail>https://goo.gl/mCB3Ho</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Speedrun to Exalibur</title>
+<link>https://www.youtube.com/playlist?list=PL34AB3602C4D625DF</link>
+<link></link>
+<thumbnail>https://goo.gl/Rj26Yd</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria - Yrimir Videos 2011</title>
+<link>https://www.youtube.com/playlist?list=PLC316678D82C89BFB</link>
+<link></link>
+<thumbnail>https://goo.gl/F0I7zM</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Footage by Yrimir</title>
+<link>https://www.youtube.com/playlist?list=PLF21C375B1F5FA246</link>
+<link></link>
+<thumbnail>https://goo.gl/OKI5Uf</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.2 Preview Videos</title>
+<link>https://www.youtube.com/playlist?list=PLTQhbnE1fanexqK9gOBZ0YbTEhuzGT8_0</link>
+<link></link>
+<thumbnail>https://goo.gl/E1XEN4</thumbnail>
+<fanart>http://</fanart>
+</item>

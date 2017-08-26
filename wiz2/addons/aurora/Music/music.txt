@@ -1,0 +1,306 @@
+<item>
+<title>[COLOR cyan]Please Report Any Dead Links To voidbuilds3 on Twitter[/COLOR]</title>
+<link>https://</link>
+<thumbnail>http://i.imgur.com/ejqG0Lt.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR palevioletred]Kygo Tropical House Mix[/COLOR]</title>
+<link>https://www.youtube.com/watch?v=Mr8a1LJg6DI&t=1249s</link>
+<thumbnail>https://goo.gl/V2GWlQ</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] (LIVE) Sensual Musique - Good Life (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=K-heSQmydtE</link>
+<thumbnail>https://goo.gl/RvW9fo</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR peachpuff] (LIVE) Hardstyle Radio (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=Q05DhqX-n74</link>
+<thumbnail>https://goo.gl/Jap4Ju</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR violetred] (LIVE) Styline (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=LwRMerjwqZQ</link>
+<thumbnail>https://goo.gl/0kjzB0</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple] (LIVE) Bounce Tracks -Down(LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=F5bQWHFGFMA</link>
+<thumbnail>https://goo.gl/1pfUDd</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR mistyrose] (LIVE) Magic Music (Trap) (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=4KJpXriYC9A</link>
+<thumbnail>https://goo.gl/dlkV2h</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR lemonchiffon] (LIVE) Nightcore Radio (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=Lchg2dGUbO0</link>
+<thumbnail>https://goo.gl/R3Czab</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] (LIVE) Electric Pose Radio (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=zb7n318LxJk</link>
+<thumbnail>https://goo.gl/vvx6Ep</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green] (LIVE) ChillYourMind Radio (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=f5cXwgjs0aE</link>
+<thumbnail>https://goo.gl/OQ8FQA</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orangered] (LIVE) College Music Radio (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=gmv54pfxk0Q</link>
+<thumbnail>https://goo.gl/6m8LWB</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR chocolate] (LIVE) MixHound Chill Music (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=YbBblLHmnw0</link>
+<thumbnail>https://goo.gl/4H5oGw</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR mediumpurple] (LIVE) Magical Music Live Radio (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=4KP9ZqR06Lo</link>
+<thumbnail>https://goo.gl/a0jcgQ</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR darkgrey] (LIVE) Hunter FM (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=CxTqW7c_oeY</link>
+<thumbnail>https://goo.gl/VpmkYJ</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Shine Music - Gaming Music</title>
+<link>https://www.youtube.com/playlist?list=UUz24srq31kr8CyNT-oN1Dqw</link>
+<link></link>
+<thumbnail>https://goo.gl/hU7UWa</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Nightblue Music</title>
+<link>https://www.youtube.com/playlist?list=UUe55Gy-hFDvLZp8C8BZhBnw</link>
+<link></link>
+<thumbnail>https://goo.gl/0PtAsN</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>ElectroDanceMovement</title>
+<link>https://www.youtube.com/playlist?list=UU4qbSRobYCjvwo4FCQFrJ4g</link>
+<link></link>
+<thumbnail>https://goo.gl/WU9FI7</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>LiA Melody</title>
+<link>https://www.youtube.com/playlist?list=UUtX_vDUP--IaiQYhDa9KUmw</link>
+<link></link>
+<thumbnail>https://goo.gl/x2s7tC</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Trap Nation</title>
+<link>https://www.youtube.com/playlist?list=UUa10nxShhzNrCE1o2ZOPztg</link>
+<link></link>
+<thumbnail>https://goo.gl/X3Ruy4</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>SensitiveTracks</title>
+<link>https://www.youtube.com/playlist?list=UUaMQ6ci3NoQOrf1Av-BkCTQ</link>
+<link></link>
+<thumbnail>https://goo.gl/vCFMRb</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>DeepMixNation</title>
+<link>https://www.youtube.com/playlist?list=UUB9lqgmd6feEFpNahvu7RqQ</link>
+<link></link>
+<thumbnail>https://goo.gl/0juUP2</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Spinnin Records</title>
+<link>https://www.youtube.com/playlist?list=UUpDJl2EmP7Oh90Vylx0dZtA</link>
+<link></link>
+<thumbnail>https://goo.gl/VI0viR</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>DJ GIG</title>
+<link>https://www.youtube.com/playlist?list=UUAgD_FHsU7Ymk_fwdWKpERQ</link>
+<link></link>
+<thumbnail>https://goo.gl/kXWLdS</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Electro Music Tv</title>
+<link>https://www.youtube.com/playlist?list=UU6AHeJa7s9-Brs6VyXy6Dwg</link>
+<link></link>
+<thumbnail>https://goo.gl/iEcL0A</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Electronic Dance Music</title>
+<link>https://www.youtube.com/playlist?list=UUe0j_gCr3Fwx2QQ-Qlhvw3g</link>
+<link></link>
+<thumbnail>https://goo.gl/18wbS6</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>iMusic ChillAndVibing</title>
+<link>https://www.youtube.com/playlist?list=UU9sXEBkihxKZ05wmO4NT41A</link>
+<link></link>
+<thumbnail>https://goo.gl/RYCGSG</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>MrRevillz</title>
+<link>https://www.youtube.com/playlist?list=UUd3TI79UTgYvVEq5lTnJ4uQ</link>
+<link></link>
+<thumbnail>https://goo.gl/TrNN1q</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>MrSuicideSheep</title>
+<link>https://www.youtube.com/playlist?list=UU5nc_ZtjKW1htCVZVRxlQAQ</link>
+<link></link>
+<thumbnail>https://goo.gl/ba3vL6</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>TheSoundWeNeed</title>
+<link>https://www.youtube.com/playlist?list=UUv-C6s7WAZLVnRQHbutSDJg</link>
+<link></link>
+<thumbnail>https://goo.gl/9KyWFv</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>TheSoundYouNeed</title>
+<link>https://www.youtube.com/playlist?list=UUudKvbd6gvbm5UCYRk5tZKA</link>
+<link></link>
+<thumbnail>https://goo.gl/NmPc9R</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Three Dot House</title>
+<link>https://www.youtube.com/playlist?list=UUAdyJUUQ4ph1uqj3tVsb_iA</link>
+<link></link>
+<thumbnail>https://goo.gl/NNBD0m</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Magical Music</title>
+<link>https://www.youtube.com/playlist?list=UUlizUNShd6ArOvwn48li2rA</link>
+<link></link>
+<thumbnail>https://goo.gl/a0jcgQ</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Arctic Empire</title>
+<link>https://www.youtube.com/playlist?list=UUpEYMEafq3FsKCQXNliFY9A</link>
+<link></link>
+<thumbnail>https://goo.gl/9yidS6</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>David Parker</title>
+<link>https://www.youtube.com/playlist?list=UUnce8J_70X3UaEpSVO7E8yQ</link>
+<link></link>
+<thumbnail>https://goo.gl/GR0wVt</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>The Vibe Guide</title>
+<link>https://www.youtube.com/playlist?list=UUxH0sQJKG6Aq9-vFIPnDZ2A</link>
+<link></link>
+<thumbnail>https://goo.gl/Q0Immo</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Poximity</title>
+<link>https://www.youtube.com/playlist?list=UU3ifTl5zKiCAhHIBQYcaTeg</link>
+<link></link>
+<thumbnail>https://goo.gl/DIl1aC</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Nik Cooper</title>
+<link>https://www.youtube.com/playlist?list=UUaAlh3Iy7rAcO3MgD_O3Kkg</link>
+<link></link>
+<thumbnail>https://goo.gl/S9zFZQ</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>xKito Music</title>
+<link>https://www.youtube.com/playlist?list=UUMOgdURr7d8pOVlc-alkfRg</link>
+<link></link>
+<thumbnail>https://goo.gl/8nKQeQ</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>SyrebalVibes</title>
+<link>https://www.youtube.com/playlist?list=UUi0LydWaEUy3Vx8flL29ebQ</link>
+<link></link>
+<thumbnail>https://goo.gl/SwSsTn</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Housefactory</title>
+<link>https://www.youtube.com/playlist?list=UUFXAk5qz-X8QOS7WsrNN_Gg</link>
+<link></link>
+<thumbnail>https://goo.gl/cbd3Yf</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

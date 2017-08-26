@@ -1,0 +1,111 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUXJL3ST-O0J3nqzQyPJtpNg</link>
+<link></link>
+<thumbnail>https://goo.gl/puUjgL</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Drama Time Season 4</title>
+<link>https://www.youtube.com/playlist?list=PL0j3zibAlFDtZ3piCvnujEAVgdzZJwBgF</link>
+<link></link>
+<thumbnail>https://goo.gl/6P6stX</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>WoW Legion Patch 7.2</title>
+<link>https://www.youtube.com/playlist?list=PL0j3zibAlFDtcX68CrapLW0fOLFynu1kC</link>
+<link></link>
+<thumbnail>https://goo.gl/vtxDy4</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Legacy of WoW</title>
+<link>https://www.youtube.com/playlist?list=PL0j3zibAlFDs3yADXXuJ6rjbj1RAiskFd</link>
+<link></link>
+<thumbnail>https://goo.gl/H20TnB</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Drama Time Season 3</title>
+<link>https://www.youtube.com/playlist?list=PL0j3zibAlFDvGmdovXNdSnR2DFY8vyokz</link>
+<link></link>
+<thumbnail>https://goo.gl/K9tPOj</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>How to play WoW</title>
+<link>https://www.youtube.com/playlist?list=PL0j3zibAlFDsSi7JuDJONxByfCwkXjve9</link>
+<link></link>
+<thumbnail>https://goo.gl/J9OCwJ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Legion Class Previews - Spoiler Free</title>
+<link>https://www.youtube.com/playlist?list=PL0j3zibAlFDse2UyPVcoZfA71LwcOH3fI</link>
+<link></link>
+<thumbnail>https://goo.gl/kPdXuy</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Legion All Artifact Quest Previews</title>
+<link>https://www.youtube.com/playlist?list=PL0j3zibAlFDtR2sD_NeoIhWIGQJVlJZVr</link>
+<link></link>
+<thumbnail>https://goo.gl/51Kops</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Legion Dungeons</title>
+<link>https://www.youtube.com/playlist?list=PL0j3zibAlFDt2DHU9WFoQ9VMU7d_3to5c</link>
+<link></link>
+<thumbnail>https://goo.gl/Xnpg90</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Top 5's</title>
+<link>https://www.youtube.com/playlist?list=PL0j3zibAlFDsVjWRjquYpvvX5qV49fu5H</link>
+<link></link>
+<thumbnail>https://goo.gl/MSwQ94</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Drama Time Season 2</title>
+<link>https://www.youtube.com/playlist?list=PL0j3zibAlFDv0zDJ3AFQOLLgEYv_OT_hA</link>
+<link></link>
+<thumbnail>https://goo.gl/G39j7k</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Legion Alpha</title>
+<link>https://www.youtube.com/playlist?list=PL0j3zibAlFDuZMxvqDFRBckaDIp77SRXH</link>
+<link></link>
+<thumbnail>https://goo.gl/nqW9qu</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Legion Speculation</title>
+<link>https://www.youtube.com/playlist?list=PL0j3zibAlFDthfoYLFT-W8Vcgw3nj5byx</link>
+<link></link>
+<thumbnail>https://goo.gl/ILh0NA</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Drama Time</title>
+<link>https://www.youtube.com/playlist?list=PL0j3zibAlFDtNME8VT19rzylnYndxx71G</link>
+<link></link>
+<thumbnail>https://goo.gl/3RXTmN</thumbnail>
+<fanart>http://</fanart>
+</item>

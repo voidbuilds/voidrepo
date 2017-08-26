@@ -1,0 +1,24 @@
+
+<item>
+<title>The Godfather</title>
+<link>http://dl.my-film.in/reza/film/The.Godfather.1972.1080p.BluRay.6CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/The.Godfather.1972.The.Coppola.Restoration.1080p.BluRay-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/The%20Godfather.1972.Full.HD.1080p-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/The.Godfather.1972.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/The.Godfather.1972.The.Coppola.Restoration.720p.BluRay-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/The%20Godfather.1972.Full.HD.720p-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Godfather Part 2</title>
+<link>http://dl.my-film.in/reza/film/The.Godfather.II.1974.1080p.BluRay.6CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/The.Godfather.Part.II.1974.1080p.BluRay-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/The.Godfather.Part.II.1974.Full.HD.1080p-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/The.Godfather.II.1974.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/The.Godfather.Part.II.1974.720p.BluRay-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/The.Godfather.Part.II.1974.Full.HD.720p-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>

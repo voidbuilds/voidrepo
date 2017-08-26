@@ -1,0 +1,78 @@
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>[COLOR cyan]Game Trailers[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Gaming/Latest%20Game%20Trailers/lgt.txt</folder>
+<thumbnail>http://i.imgur.com/jdyqT3n.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>League Of Legends</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Gaming/League%20Of%20Legends/home.txt</folder>
+<thumbnail>https://goo.gl/UITBdg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Minecraft</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Gaming/Minecraft/home.txt</folder>
+<thumbnail>https://goo.gl/tHUaun</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>World Of Warcraft</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Gaming/World%20Of%20Warcraft/home.txt</folder>
+<thumbnail>https://goo.gl/syGNDY</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Stardew Valley</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Gaming/Stardew%20Valley/home.txt</folder>
+<thumbnail>https://goo.gl/Axjdex</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Terraria</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Gaming/Terraria/home.txt</folder>
+<thumbnail>https://goo.gl/EPb46Z</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Horizon Zero Dawn</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Gaming/Horizon%20Zero%20Dawn/home.txt</folder>
+<thumbnail>https://goo.gl/LqtKTY</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Dragon Age Inquisition</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Gaming/Dragon%20Age%20Inquisition/home.txt</folder>
+<thumbnail>https://goo.gl/HS9icl</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Mass Effect: Andromeda</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Gaming/Mass%20Effect%20Andromeda/home.txt</folder>
+<thumbnail>https://goo.gl/L0qKg0</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Clash of Clans - Coming Soon</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Gaming/Clash%20of%20Clans/home.txt</folder>
+<thumbnail>https://goo.gl/Z3ppTA</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Far Cry Primal - Coming Soon</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Gaming/Far%20Cry%20Primal/home.txt</folder>
+<thumbnail>https://goo.gl/1kJNAd</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

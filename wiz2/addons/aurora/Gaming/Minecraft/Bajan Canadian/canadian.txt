@@ -1,0 +1,71 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUuj1Ms9_LCsQPSJ4p8nvOVA</link>
+<link></link>
+<thumbnail>https://goo.gl/urj0on</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Skybounds (Minecraft Skyblock Islands // Custom)</title>
+<link>https://www.youtube.com/playlist?list=PL843EVx-x25T4stQRvk_2ueWNuOw8Fd2c</link>
+<link></link>
+<thumbnail>https://goo.gl/Ec9h7J</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Money Wars!</title>
+<link>https://www.youtube.com/playlist?list=PL843EVx-x25QzbIBr2zqzWGbl1B0AcG-Y</link>
+<link></link>
+<thumbnail>https://goo.gl/VXeCMT</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Ultimate Games</title>
+<link>https://www.youtube.com/playlist?list=PL843EVx-x25T5Tnld0twGKeGuhi_8Lgtb</link>
+<link></link>
+<thumbnail>https://goo.gl/9NJFWc</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Lucky Block Mod Challenges</title>
+<link>https://www.youtube.com/playlist?list=PL843EVx-x25QGtQ3THfi4YbNx73yMu7XT</link>
+<link></link>
+<thumbnail>https://goo.gl/8KGzQf</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Siege World</title>
+<link>https://www.youtube.com/playlist?list=PL843EVx-x25R7UiptgAROS0NCvitrsskC</link>
+<link></link>
+<thumbnail>https://goo.gl/EvK5Ps</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Hunger Games</title>
+<link>https://www.youtube.com/playlist?list=PL843EVx-x25SrTXkOX4rkfOvROxhlnTDM</link>
+<link></link>
+<thumbnail>https://goo.gl/CDs0Du</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Crazy Craft 3.0</title>
+<link>https://www.youtube.com/playlist?list=PL843EVx-x25Qhih8RR-3dMvZBekz3Hkar</link>
+<link></link>
+<thumbnail>https://goo.gl/3B7I4r</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>How To Minecraft</title>
+<link>https://www.youtube.com/playlist?list=PL843EVx-x25R_EHuPskjfq-El17nIP7qi</link>
+<link></link>
+<thumbnail>https://goo.gl/3U9rad</thumbnail>
+<fanart>http://</fanart>
+</item>

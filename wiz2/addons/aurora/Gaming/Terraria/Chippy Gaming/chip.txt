@@ -1,0 +1,263 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUdImtrRS4UewEbPdnF8R4qw</link>
+<link></link>
+<thumbnail>https://goo.gl/E7Z05G</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Top 5 Series</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltqDN3ujYUatsn-n7AEe2zRx</link>
+<link></link>
+<thumbnail>https://goo.gl/ZYmuuR</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.5 Reds Returning Update...</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltoiEGDrathc54uoP5e3lxvC</link>
+<link></link>
+<thumbnail>https://goo.gl/ZpdqRQ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Seed Race</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltqbYHQsxvBzp7Qxn336CZzj</link>
+<link></link>
+<thumbnail>https://goo.gl/Q4c0Zy</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Mods - ChippyCraft</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltrO0QZIZ66MACucexOmdOtd</link>
+<link></link>
+<thumbnail>https://goo.gl/hzMIIZ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>150 Terraria Facts YOU Should Know</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltqMeGaCZCQ2A6kiLLtWK47Y</link>
+<link></link>
+<thumbnail>https://goo.gl/mEd8ej</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.4 Update</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltoBUbkSR3Whq9jewr21Ms-x</link>
+<link></link>
+<thumbnail>https://goo.gl/hcW4sA</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.4 One Weapon Challenge w/ PythonGB</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltoXDcTBd9Ox0_Ne8rDUifWb</link>
+<link></link>
+<thumbnail>https://goo.gl/eYCH1H</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>10 Terraria Facts Playlist</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltqo8I3mker1VJQHzZlhJsWb</link>
+<link></link>
+<thumbnail>https://goo.gl/4HEPxm</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria - Silent Hill 2 Adventure Map</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltrTC6xKnuOWN4qeF2sPzJB8</link>
+<link></link>
+<thumbnail>https://goo.gl/J1aeAg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Life Hacks Playlist</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltqmR8W1TDSzVWPpFoz8RsTo</link>
+<link></link>
+<thumbnail>https://goo.gl/3dl4bO</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.3 Update</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltqPyQRXQbqTGci-gnKIkoq0</link>
+<link></link>
+<thumbnail>https://goo.gl/UcnTQX</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Expert Mage Playthrough</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTblto7AilhqfUsI_Bwmh_26l3n</link>
+<link></link>
+<thumbnail>https://goo.gl/TbMQb1</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Top 10's</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTblto-9Xq-KroOq0ClFa_EOmWF</link>
+<link></link>
+<thumbnail>https://goo.gl/PfsZon</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Otherworld</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltrP38haTl90csgqilI4Jm4W</link>
+<link></link>
+<thumbnail>https://goo.gl/l7sKtz</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 New Content</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltpOd1ufB0k9WlbAKBBDzEdO</link>
+<link></link>
+<thumbnail>https://goo.gl/AOgzPn</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Normal Mood Lord Series</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltrxuWyOSC2g7HeLzto-T84g</link>
+<link></link>
+<thumbnail>https://goo.gl/iVotjq</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Fishing Class Challenge</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltruZEzxcFU0IyDPgvYWlIn9</link>
+<link></link>
+<thumbnail>https://goo.gl/W7xiWi</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Expert Moon Lord Series</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltrgfu792RXt6U5pp0DOLb8b</link>
+<link></link>
+<thumbnail>https://goo.gl/5hmhqT</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Expert Yoyo Challenge</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltruneOOjqWoirChAR4RGEM6</link>
+<link></link>
+<thumbnail>https://goo.gl/nJSSu3</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.1 New Content</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltoj8lB1oNRAI9Ti5GwhAUqD</link>
+<link></link>
+<thumbnail>https://goo.gl/HmPn2i</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Mini Games</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltqTrCzRS9rbwIjJ7NtP5Jy5</link>
+<link></link>
+<thumbnail>https://goo.gl/5tys5D</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Race to Orcam Movie</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltogy_w53SxrrLdXkowFwuQs</link>
+<link></link>
+<thumbnail>https://goo.gl/cMj0ai</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Mod Pack Playthrough</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltpDVct6KYbUMgDO02tUexJn</link>
+<link></link>
+<thumbnail>https://goo.gl/QBEoQO</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Tremor Mod Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltpOTnVo9jZHDvrM9qNGTDs6</link>
+<link></link>
+<thumbnail>https://goo.gl/aL2YvI</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 RPG Modded Multiplayer Series</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltqVTVug5qMvUKjz4ZQRDZQ9</link>
+<link></link>
+<thumbnail>https://goo.gl/S0DaHq</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Challenges</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltosSIYkGk1sgnuCieCp38o_</link>
+<link></link>
+<thumbnail>https://goo.gl/mHLfVX</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Daily Playlist</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltrBlqz2UZugqAMozuaXDVwZ</link>
+<link></link>
+<thumbnail>https://goo.gl/u43JfA</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Spoilers Playlist</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltoqBF4c9bjcbJMYOB1IYx8R</link>
+<link></link>
+<thumbnail>https://goo.gl/FXIYpb</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Island Biome Challenge Series</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTblto789KWVxs1JWABdPlQDnNi</link>
+<link></link>
+<thumbnail>https://goo.gl/5rbT8p</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Road to 1.3</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltpD4GYwBMGqECgC1sfA0nIA</link>
+<link></link>
+<thumbnail>https://goo.gl/a3eSI6</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.2 Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL4jhj1XTbltpXOIj0gUItbLFSepPO9OOT</link>
+<link></link>
+<thumbnail>https://goo.gl/pRrPg0</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Chippygamings Contributions to other Channels</title>
+<link>https://www.youtube.com/playlist?list=PL5B27FED98580173D</link>
+<link></link>
+<thumbnail>https://goo.gl/KuNe95</thumbnail>
+<fanart>http://</fanart>
+</item>

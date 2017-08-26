@@ -1,0 +1,175 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUpGdL9Sn3Q5YWUH2DVUW1Ug</link>
+<link></link>
+<thumbnail>https://goo.gl/SSiO7y</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Mod Showcase</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wKTp2iIS0s7BUobisFVzrmW</link>
+<link></link>
+<thumbnail>https://goo.gl/Ykm1cU</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Lucky Block Hunger Games</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wIR3Gkbvf5NlvgUPJBNXarq</link>
+<link></link>
+<thumbnail>https://goo.gl/H9uZfX</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Custom Mod Challenge S8</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wIrjoY8APTIAcQf_l3_A7aj</link>
+<link></link>
+<thumbnail>https://goo.gl/2rj28A</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Mini Games</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wLrGd-I20cYwwlr2z2-Yphs</link>
+<link></link>
+<thumbnail>https://goo.gl/ReQuRy</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Animations</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wJ68-MiaD8lv_wox4Svvszv</link>
+<link></link>
+<thumbnail>https://goo.gl/YJsnUh</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Mob Battles</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wKkGobFx5WiP7zgVci75DiQ</link>
+<link></link>
+<thumbnail>https://goo.gl/v4V579</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Notch Land Amusment Park</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wIl8g1YXWvFEjOy0sqCXRqA</link>
+<link></link>
+<thumbnail>https://goo.gl/B8Qg4i</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Mods vs Maps</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wLZ5ec7M2AfGMtl2DLe5aJp</link>
+<link></link>
+<thumbnail>https://goo.gl/aQOjko</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Challenge Pack (EPS6)</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wImQO9OqkV5brc7kGOjV1_U</link>
+<link></link>
+<thumbnail>https://goo.gl/xGAHJJ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Mod Battles</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wKoXUWQIhI1UTwB6szelAL2</link>
+<link></link>
+<thumbnail>https://goo.gl/BYd83Y</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Epic Proportions Season 4 - Ultimate Adventure</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wI6BpZBN5tL1lXheprinN2F</link>
+<link></link>
+<thumbnail>https://goo.gl/cBDXgP</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Craftind Dead Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wLa-TFhlYCbBDMT4oHN5neq</link>
+<link></link>
+<thumbnail>https://goo.gl/AVo6fz</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Survival Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL0AF782D2E45AE2AD</link>
+<link></link>
+<thumbnail>https://goo.gl/nb1n01</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Skyblock Series</title>
+<link>https://www.youtube.com/playlist?list=PL87CD69F6482F9E06</link>
+<link></link>
+<thumbnail>https://goo.gl/4JMgDX</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Epic Proportions Series 3</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wIzlD00tNsClyVT3QqWWqZq</link>
+<link></link>
+<thumbnail>https://goo.gl/pPFShS</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Mob Battles</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wLmC97nKGovYVQYs5UsfCBo</link>
+<link></link>
+<thumbnail>https://goo.gl/2eM7CR</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Epic Proportions Season 2</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wL6W-AFgxuJ0Cojl7xg1TaM</link>
+<link></link>
+<thumbnail>https://goo.gl/sO4OJI</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Evil Minecraft</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wJpNW7y98U1UwLNeOC94ART</link>
+<link></link>
+<thumbnail>https://goo.gl/P16HSn</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Mod Showcases</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wKizwlg2gREGeZJihnuZ0as</link>
+<link></link>
+<thumbnail>https://goo.gl/xq5VgK</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Real Life Minecraft</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wJcIlC4Uuy37n_UYVhSXy4h</link>
+<link></link>
+<thumbnail>https://goo.gl/UXt7nc</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Epic Proportions</title>
+<link>https://www.youtube.com/playlist?list=PL6p1NYDZ87wJgRAoi2GRu7EPo2Ns5VMM-</link>
+<link></link>
+<thumbnail>https://goo.gl/T2ezmu</thumbnail>
+<fanart>http://</fanart>
+</item>

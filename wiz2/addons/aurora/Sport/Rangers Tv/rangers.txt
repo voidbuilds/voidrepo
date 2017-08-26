@@ -1,0 +1,48 @@
+<item>
+<title>Rangers Tv [COLOR cyan](Down)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsensation.ns01.biz:6500/live/kimo/RYfo8fzYQQ/12482.ts&amp</link>
+<thumbnail>http://i.imgur.com/6QhY0he.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Rangers vs Aberdeen 17th May KO: 7.45pm[/COLOR]</title>
+<sportsdevil>http://cricfree.sc/iframe/sportsnetwork/st10.php</sportsdevil>
+<sportsdevil>http://sports-night.eu/15.html</sportsdevil>
+<sportsdevil>http://www.catosports.ml/p/adsbygoogle-window_85.html</sportsdevil>
+<sportsdevil>http://www.catosports.ml/p/page-18_17.html</sportsdevil>
+<thumbnail>https://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Press Conferences</title>
+<link>https://www.youtube.com/playlist?list=PLA_dpgv6mpDZREmpnPbSesOsOwnTNs5Qc</link>
+<link></link>
+<thumbnail>https://goo.gl/umtDeI</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Newswrap</title>
+<link>https://www.youtube.com/playlist?list=PLA_dpgv6mpDbRFBMkpgcB0j6OdmkTOZ5u</link>
+<link></link>
+<thumbnail>https://goo.gl/DNHd6p</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Match Reaction</title>
+<link>https://www.youtube.com/playlist?list=PLA_dpgv6mpDYKQfwXHJ-8PFsUcstnCeFM</link>
+<link></link>
+<thumbnail>https://goo.gl/6kFscH</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Training Ground</title>
+<link>https://www.youtube.com/playlist?list=PLA_dpgv6mpDbmw5ypFYIVuCRBBgKIew_n</link>
+<link></link>
+<thumbnail>https://goo.gl/r0xUEE</thumbnail>
+<fanart>http://</fanart>
+</item>

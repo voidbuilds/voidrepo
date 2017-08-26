@@ -1,0 +1,59 @@
+<item>
+<title>Season 1</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Tv%20Shows/Game%20of%20Thrones/Season%201/got1.txt</folder>
+<thumbnail>https://goo.gl/NIKFW2</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Season 2</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Tv%20Shows/Game%20of%20Thrones/Season%202/got2.txt</folder>
+<thumbnail>https://goo.gl/Te5bUK</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Season 3</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Tv%20Shows/Game%20of%20Thrones/Season%203/got3.txt</folder>
+<thumbnail>https://goo.gl/9yc9xO</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Season 4</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Tv%20Shows/Game%20of%20Thrones/Season%204/got4.txt</folder>
+<thumbnail>https://goo.gl/5zdjEv</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Season 5</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Tv%20Shows/Game%20of%20Thrones/Season%205/got5.txt</folder>
+<thumbnail>https://goo.gl/BV0T1R</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Season 6</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Tv%20Shows/Game%20of%20Thrones/Season%206/got6.txt</folder>
+<thumbnail>https://goo.gl/idczmB</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Season 7 live Sunday Nights 2 AM UK</title>
+<sportsdevil>http://nowwatchtvlive.cc/hbo-live-stream-watch-hbo-online-usa-tv-channel-free/</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.cc/hbo-live-stream-watch-hbo-online-usa-tv-channel-free/</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.cc/channel-tab-frame/hbochannel-1.php</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.cc/channel-tab-frame/hbochannel-2.php</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.cc/channel-tab-frame/hbochannel-3.php</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.cc/channel-tab-frame/hbochannel-4.php</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.cc/channel-tab-frame/hbochannel-5.php</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.cc/channel-tab-frame/hbochannel-6.php</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.cc/channel-tab-frame/hbochannel-7.php</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.cc/channel-tab-frame/hbochannel-8.php</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.cc/channel-tab-frame/hbochannel-9.php</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.cc/channel-tab-frame/hbochannel-10.php</sportsdevil>
+<thumbnail>https://goo.gl/oNGz0K</thumbnail>
+<fanart>http://</fanart>
+</item>

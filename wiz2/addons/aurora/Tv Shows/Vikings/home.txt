@@ -1,0 +1,27 @@
+<item>
+<title>Season 1</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Tv%20Shows/Vikings/Season%201/vik1.txt</folder>
+<thumbnail>https://goo.gl/h2Q0Qe</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Season 2</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Tv%20Shows/Vikings/Season%202/vik2.txt</folder>
+<thumbnail>https://goo.gl/LNoXbD</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Season 3</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Tv%20Shows/Vikings/Season%203/vik3.txt</folder>
+<thumbnail>https://goo.gl/LNoXbD</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Season 4</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Tv%20Shows/Vikings/Season%204/vik4.txt</folder>
+<thumbnail>https://goo.gl/HF3ZGE</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

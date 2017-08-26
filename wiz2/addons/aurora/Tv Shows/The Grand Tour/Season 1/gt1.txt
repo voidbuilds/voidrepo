@@ -1,0 +1,96 @@
+
+<item>
+<title>Episode 1</title>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%202160p.Webrip/The.Grand.Tour.S01E01.2160p.4K.UltraHD.WEBRip.DD5.1.x264-[My-Film].mkv(4K)</link>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%201080p%20%20x265/The.Grand.Tour.2016.S01E01.1080p.6CH.WEBRip.x265.HEVC-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 2</title>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%202160p.Webrip/The.Grand.Tour.S01E02.2160p.4K.UltraHD.WEBRip.DD5.1.x264-[My-Film].mkv(4K)</link>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%201080p%20%20x265/The.Grand.Tour.2016.S01E02.1080p.WEBRip.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 3</title>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%202160p.Webrip/The.Grand.Tour.S01E03.2160p.4K.UltraHD.WEBRip.DD5.1.x264-[My-Film].mkv(4K)</link>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%201080p%20%20x265/The.Grand.Tour.S01E03.1080p.WEBRip.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 4</title>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%202160p.Webrip/The.Grand.Tour.S01E04.2160p.4K.UltraHD.WEBRip.DD5.1.x264-[My-Film].mkv(4K)</link>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%201080p%20%20x265/The.Grand.Tour.S01E04.iNTERNAL.1080p.WEBRip.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 5</title>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%202160p.Webrip/The.Grand.Tour.S01E05.2160p.4K.UltraHD.WEBRip.DD5.1.x264-[My-Film].mkv(4K)</link>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%201080p%20%20x265/The.Grand.Tour.S01E05.1080p.WEBRip.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 6</title>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%202160p.Webrip/The.Grand.Tour.S01E06.2160p.4K.UltraHD.WEBRip.DD5.1.x264-[My-Film].mkv(4K)</link>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%201080p%20%20x265/The.Grand.Tour.S01E06.1080p.WEBRip.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 7</title>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%202160p.Webrip/The.Grand.Tour.S01E07.2160p.4K.UltraHD.WEBRip.DD5.1.x264-[My-Film].mkv(4K)</link>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%201080p%20%20x265/The.Grand.Tour.S01E07.1080p.WEBRip.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 8</title>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%202160p.Webrip/The.Grand.Tour.S01E08.2160p.4K.UltraHD.WEBRip.DD5.1.x264-[My-Film].mkv(4K)</link>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%201080p%20%20x265/The.Grand.Tour.S01E08.1080p.WEBRip.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 9</title>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%202160p.Webrip/The.Grand.Tour.S01E09.2160p.4K.UltraHD.WEBRip.DD5.1.x264-[My-Film].mkv(4K)</link>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%201080p%20%20x265/The.Grand.Tour.S01E09.1080p.WEBRip.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 10</title>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%202160p.Webrip/The.Grand.Tour.S01E10.2160p.4K.UltraHD.WEBRip.DD5.1.x264-[My-Film].mkv(4K)</link>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%201080p%20%20x265/The.Grand.Tour.S01E10.1080p.WEBRip.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 11</title>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%202160p.Webrip/The.Grand.Tour.S01E11.2160p.4K.UltraHD.WEBRip.DD5.1.x264-[My-Film].mkv(4K)</link>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%201080p%20%20x265/The.Grand.Tour.S01E11.1080p.WEBRip.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 12</title>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%202160p.Webrip/The.Grand.Tour.S01E12.2160p.4K.UltraHD.WEBRip.DD5.1.x264-[My-Film].mkv(4K)</link>
+<link>http://dl.my-film.in/serial/The%20Grand%20Tour/Season%201%20-%20%201080p%20%20x265/The.Grand.Tour.S01E12.1080p.WEBRip.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>

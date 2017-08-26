@@ -1,0 +1,188 @@
+<item>
+<title>[COLOR blue] (LIVE) Sensual Musique (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=uNN6Pj06Cj8</link>
+<thumbnail>https://yt3.ggpht.com/-K_e84_BveSw/AAAAAAAAAAI/AAAAAAAAAAA/FL05vs6KJCU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR violetred] (LIVE) Styline (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=21gjDhVT3x8</link>
+<thumbnail>https://yt3.ggpht.com/-EJxIRBTnKzE/AAAAAAAAAAI/AAAAAAAAAAA/xqxLl501uus/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR purple] (LIVE) MrRevillz Weekend Radio (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=MHF-RAjVaMY</link>
+<thumbnail>https://yt3.ggpht.com/-0Iga-6672xk/AAAAAAAAAAI/AAAAAAAAAAA/dHZDX--6tIU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR red] (LIVE) Electric Pose Radio (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=MIOfMnuS2u8</link>
+<thumbnail>https://yt3.ggpht.com/-_NZxHU7_Avk/AAAAAAAAAAI/AAAAAAAAAAA/A1mqmc_MvVY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow] (LIVE) Chill Music by Pulse (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=oPD65_QQrmo</link>
+<thumbnail>https://yt3.ggpht.com/-FTExCdRIPTI/AAAAAAAAAAI/AAAAAAAAAAA/8CBc_z66FBs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR green] (LIVE) ChillYourMind Radio (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=l5jt6vPbN2s</link>
+<thumbnail>https://yt3.ggpht.com/-lTxy_E5pSKs/AAAAAAAAAAI/AAAAAAAAAAA/AgX7HURLT_I/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR orangered] (LIVE) College Music Radio (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=gmv54pfxk0Q</link>
+<thumbnail>https://yt3.ggpht.com/-Pt86n96PlDc/AAAAAAAAAAI/AAAAAAAAAAA/NUUQjNDyRlU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR orangered] (LIVE) MixHound Chill Music (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=2GJ2bSK9PAQ</link>
+<thumbnail>https://yt3.ggpht.com/-Dx2U2IaocoI/AAAAAAAAAAI/AAAAAAAAAAA/VIqFZ-Fc2xU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR orangered] (LIVE) Magical Music Live Radio (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=mx_rd6p4Hkk</link>
+<thumbnail>https://yt3.ggpht.com/-AglU4N1Wsbw/AAAAAAAAAAI/AAAAAAAAAAA/cH1KRdRiRSA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR gold] (LIVE) DeepMixNation (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=_jzSG_yia1s</link>
+<thumbnail>https://yt3.ggpht.com/-BA3TEtJOooQ/AAAAAAAAAAI/AAAAAAAAAAA/Jg3jjzr73Ec/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item
+
+<item>
+<title>[COLOR aqua] (LIVE) Magical Music Live Radio (LIVE) [/COLOR]</title>
+<link>https://www.youtube.com/watch?v=mx_rd6p4Hkk</link>
+<thumbnail>https://yt3.ggpht.com/-Dx2U2IaocoI/AAAAAAAAAAI/AAAAAAAAAAA/VIqFZ-Fc2xU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>ElectroDanceMovement</title>
+<link>https://www.youtube.com/playlist?list=UU4qbSRobYCjvwo4FCQFrJ4g</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-rnymhxYBlaU/AAAAAAAAAAI/AAAAAAAAAAA/ECz2jWvUodA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Trap Nation</title>
+<link>https://www.youtube.com/playlist?list=UUa10nxShhzNrCE1o2ZOPztg</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-OubelVu27eg/AAAAAAAAAAI/AAAAAAAAAAA/KYPAc_d1Z-8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>SensitiveTracks</title>
+<link>https://www.youtube.com/playlist?list=UUaMQ6ci3NoQOrf1Av-BkCTQ</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-iQ0HmXFQx2I/AAAAAAAAAAI/AAAAAAAAAAA/8cvsfJH8f84/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Spinnin Records</title>
+<link>https://www.youtube.com/playlist?list=UUpDJl2EmP7Oh90Vylx0dZtA</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-yZkhExtYPZg/AAAAAAAAAAI/AAAAAAAAAAA/OfongtErwyo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>DJ GIG</title>
+<link>https://www.youtube.com/playlist?list=UUAgD_FHsU7Ymk_fwdWKpERQ</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-x4Mky0iZ66o/AAAAAAAAAAI/AAAAAAAAAAA/M0WcQAsEjfs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Electro Music Tv</title>
+<link>https://www.youtube.com/playlist?list=UU6AHeJa7s9-Brs6VyXy6Dwg</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-82LIxPb-cx0/AAAAAAAAAAI/AAAAAAAAAAA/BPcD-kwKrSo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Electronic Dance Music</title>
+<link>https://www.youtube.com/playlist?list=UUe0j_gCr3Fwx2QQ-Qlhvw3g</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-ARbj8FM05_s/AAAAAAAAAAI/AAAAAAAAAAA/c8nE48ZoxBc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>iMusic ChillAndVibing</title>
+<link>https://www.youtube.com/playlist?list=UU9sXEBkihxKZ05wmO4NT41A</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-hM_MVNKCRss/AAAAAAAAAAI/AAAAAAAAAAA/U4kvJB8lRgs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>MrRevillz</title>
+<link>https://www.youtube.com/playlist?list=UUd3TI79UTgYvVEq5lTnJ4uQ</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-0Iga-6672xk/AAAAAAAAAAI/AAAAAAAAAAA/dHZDX--6tIU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>MrSuicideSheep</title>
+<link>https://www.youtube.com/playlist?list=UU5nc_ZtjKW1htCVZVRxlQAQ</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-nkC01SMBUms/AAAAAAAAAAI/AAAAAAAAAAA/X4GElTDAELg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>TheSoundWeNeed</title>
+<link>https://www.youtube.com/playlist?list=UUv-C6s7WAZLVnRQHbutSDJg</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-_YtHVxDpQEA/AAAAAAAAAAI/AAAAAAAAAAA/9SLeaaZ6Q-8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>TheSoundYouNeed</title>
+<link>https://www.youtube.com/playlist?list=UUudKvbd6gvbm5UCYRk5tZKA</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-ie_USIs1a28/AAAAAAAAAAI/AAAAAAAAAAA/dstU_9CLOmg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Three Dot House</title>
+<link>https://www.youtube.com/playlist?list=UUAdyJUUQ4ph1uqj3tVsb_iA</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-GUAfcmQXT4U/AAAAAAAAAAI/AAAAAAAAAAA/PS8YUt6aT8w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Magical Music</title>
+<link>https://www.youtube.com/playlist?list=UUlizUNShd6ArOvwn48li2rA</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-AglU4N1Wsbw/AAAAAAAAAAI/AAAAAAAAAAA/cH1KRdRiRSA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>

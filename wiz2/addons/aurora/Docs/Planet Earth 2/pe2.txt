@@ -1,0 +1,52 @@
+
+<item>
+<title>Episode 1</title>
+<link>http://dl3.film2movie.biz/serial/Planet%20Earth%20II/Planet.Earth.II.E01.1080p.Film2Movie_BiZ.mkv(1080p)</link>
+<link>http://dl3.film2movie.biz/serial/Planet%20Earth%20II/Planet.Earth.II.E01.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Planet%20Earth%20II/Planet.Earth.II.E01.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 2</title>
+<link>http://dl3.film2movie.biz/serial/Planet%20Earth%20II/Planet.Earth.II.E02.1080p.Film2Movie_BiZ.mkv(1080p)</link>
+<link>http://dl3.film2movie.biz/serial/Planet%20Earth%20II/Planet.Earth.II.E02.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Planet%20Earth%20II/Planet.Earth.II.E02.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 3</title>
+<link>http://dl3.film2movie.biz/serial/Planet%20Earth%20II/Planet.Earth.II.E03.1080p.Film2Movie_BiZ.mkv(1080p)</link>
+<link>http://dl3.film2movie.biz/serial/Planet%20Earth%20II/Planet.Earth.II.E03.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Planet%20Earth%20II/Planet.Earth.II.E03.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 4</title>
+<link>http://dl3.film2movie.biz/serial/Planet%20Earth%20II/Planet.Earth.II.E04.1080p.Film2Movie_BiZ.mkv(1080p)</link>
+<link>http://dl3.film2movie.biz/serial/Planet%20Earth%20II/Planet.Earth.II.E04.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Planet%20Earth%20II/Planet.Earth.II.E04.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 5</title>
+<link>http://dl3.film2movie.biz/serial/Planet%20Earth%20II/Planet.Earth.II.E05.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Planet%20Earth%20II/Planet.Earth.II.E05.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 6</title>
+<link>http://dl3.film2movie.biz/serial/Planet%20Earth%20II/Planet.Earth.II.E06.720p.x265.HEVC.Film2Movie_BiZ.mkv(720p)</link>
+<link>http://dl3.film2movie.biz/serial/Planet%20Earth%20II/Planet.Earth.II.E06.720p.Film2Movie_BiZ.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>

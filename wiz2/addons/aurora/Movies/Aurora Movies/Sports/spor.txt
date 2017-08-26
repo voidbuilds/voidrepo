@@ -1,0 +1,18 @@
+
+<item>
+<title>Seabiscuit</title>
+<link>http://dl.my-film.in/reza/film/Seabiscuit.2003.1080p.BluRay.6CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Seabiscuit.2003.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Class Of 92</title>
+<link>http://dl.my-film.in/reza/film/The.Class.of.92.2013.1080p.BluRay.2CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/The.Class.of.92.2013.1080p.BluRay.2CH-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/The.Class.of.92.2013.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/The.Class.of.92.2013.720p.BluRay-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>

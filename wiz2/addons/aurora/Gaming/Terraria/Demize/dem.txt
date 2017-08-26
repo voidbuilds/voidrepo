@@ -1,0 +1,95 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUpLqfnl5iv3jwr5TvEEbJHA</link>
+<link></link>
+<thumbnail>https://goo.gl/Klzmoq</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Best World Seeds Showcase</title>
+<link>https://www.youtube.com/playlist?list=PLb_1VXuL7McxRztTYSNGCj3oacIKg1vdP</link>
+<link></link>
+<thumbnail>https://goo.gl/h0LLpb</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Update (Guides,Tutorials and more)</title>
+<link>https://www.youtube.com/playlist?list=PLb_1VXuL7McwFXpJj-YlsL7g2DT50mk9V</link>
+<link></link>
+<thumbnail>https://goo.gl/Ew5qOv</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraira Custom Vanity Sets</title>
+<link>https://www.youtube.com/playlist?list=PLb_1VXuL7Mcwvmd8GNVHaQjQ8PjnqnbGg</link>
+<link></link>
+<thumbnail>https://goo.gl/WWPgQ2</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.2.4 (Guides and More)</title>
+<link>https://www.youtube.com/playlist?list=PLb_1VXuL7Mcw0IyFWRUEGuThKL3FQGmlW</link>
+<link></link>
+<thumbnail>https://goo.gl/TRN9J1</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>How to Deafeat ALL Hardmode Bosses</title>
+<link>https://www.youtube.com/playlist?list=PLb_1VXuL7McxsiLodNng5kcByXay0PuN3</link>
+<link></link>
+<thumbnail>https://goo.gl/TRN9J1</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.2.3 (Guides and More)</title>
+<link>https://www.youtube.com/playlist?list=PLb_1VXuL7McxRnEetcEJ31jouQbQ_nbZl</link>
+<link></link>
+<thumbnail>https://goo.gl/j6kREW</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Spoilers</title>
+<link>https://www.youtube.com/playlist?list=PLb_1VXuL7Mcxb02Oz8KSQcv9MDybKbcaZ</link>
+<link></link>
+<thumbnail>https://goo.gl/OvsLdP</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Best Terraria Loadouts</title>
+<link>https://www.youtube.com/playlist?list=PLb_1VXuL7MczSlpEinZ-CgeePBqAU5bDg</link>
+<link></link>
+<thumbnail>https://goo.gl/KcoF0S</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>All Items and Battle Areanas World Saves</title>
+<link>https://www.youtube.com/playlist?list=PLb_1VXuL7McyPZrsS2YWNtw9Wdf4ml_cZ</link>
+<link></link>
+<thumbnail>https://goo.gl/4nhxcc</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>All Terrarias Pets,Minions and Mounts</title>
+<link>https://www.youtube.com/playlist?list=PLb_1VXuL7Mcw5EmyPlme9JbubWnBpr9bd</link>
+<link></link>
+<thumbnail>https://goo.gl/EevwnP</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraira Boss Tutorials</title>
+<link>https://www.youtube.com/playlist?list=PLb_1VXuL7Mcye6BE1wRv1vqJqQOHYb2Ge</link>
+<link></link>
+<thumbnail>https://goo.gl/BVh3DR</thumbnail>
+<fanart>http://</fanart>
+</item>

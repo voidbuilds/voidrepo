@@ -1,0 +1,91 @@
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>[COLOR cyan]Events and Requests[/COLOR]</title>
+<link>http://</link>
+<thumbnail>http://i.imgur.com/ejqG0Lt.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]-------------------------English Premier League--------------------------------[/COLOR]</title>
+<link>http://</link>
+<thumbnail>http://i.imgur.com/ejqG0Lt.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Manchester Utd vs Crystal Palace KO: 3pm</title>
+<sportsdevil>http://stream-cr7.net/ch1.php</sportsdevil>
+<sportsdevil>http://www.247hd.info/epl3.php</sportsdevil>
+<sportsdevil>http://www.planetsport.pw/2017/05/manchester-united-crystal-palace-ar.html</sportsdevil>
+<sportsdevil>http://kora-live.tv/beinsport5.html</sportsdevil>
+<sportsdevil>http://kora-live.tv/beinsports5.html</sportsdevil>
+<sportsdevil>http://antenasport.eu/hdsky1.html</sportsdevil>
+<sportsdevil>http://kora-live.tv/beinsports11.html</sportsdevil>
+<sportsdevil>http://kora-live.tv/sky1.html</sportsdevil>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Chelsea vs Sunderland KO: 3pm</title>
+<sportsdevil>http://www.247hd.info/hd3.php</sportsdevil>
+<sportsdevil>http://www.247hd.info/epl2.php</sportsdevil>
+<sportsdevil>http://kora-live.tv/beinsport6.html</sportsdevil>
+<sportsdevil>http://antenasport.eu/s4.html</sportsdevil>
+<sportsdevil>http://www.apkandroidgames.net/?p=281</sportsdevil>
+<sportsdevil>http://www.yallasport.net/chelsea-vs-sunderland-hd-live-stream</sportsdevil>
+<sportsdevil>http://www.sports-stream.net/ch2.html</sportsdevil>
+<sportsdevil>http://bigtv.me/tv/stv3.php</sportsdevil>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Liverpool vs Middlesbrough KO: 3pm</title>
+<sportsdevil>http://www.247hd.info/hd5.php</sportsdevil>
+<sportsdevil>http://www.planetsport.pw/2017/05/liverpool-middlesbrough-en.html</sportsdevil>
+<sportsdevil>http://kora-live.tv/beinsports11.html</sportsdevil>
+<sportsdevil>http://www.247hd.info/epl4.php</sportsdevil>
+<sportsdevil>http://www.apkandroidgames.net/?p=287</sportsdevil>
+<sportsdevil>http://www.yallasport.net/liverpool-vs-middlesbrough-hd-live-stream</sportsdevil>
+<sportsdevil>http://antenasport.eu/hdsky1.html</sportsdevil>
+<sportsdevil>https://world-soccer-stream.blogspot.com/p/liverpool-vs.html</sportsdevil>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Arsenal vs Everton KO: 3pm</title>
+<sportsdevil>http://www.247hd.info/hd2.php</sportsdevil>
+<sportsdevil>http://www.yallasport.net/arsenal-vs-everton-hd-live-stream</sportsdevil>
+<sportsdevil>http://www.apkandroidgames.net/?p=277</sportsdevil>
+<sportsdevil>http://www.planetsport.pw/2017/05/arsenal-everton-ar.html</sportsdevil>
+<sportsdevil>http://kora-live.tv/beinsport2.html</sportsdevil>
+<sportsdevil>http://www.livehd90m.info/p/1.html</sportsdevil>
+<sportsdevil>http://livehd-2017.blogspot.nl/p/arsenal-vs-everton-str1.html</sportsdevil>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Hull City vs Tottenham Hotspur KO: 3pm</title>
+<sportsdevil>http://www.247hd.info/hd4.php</sportsdevil>
+<sportsdevil>http://kora-live.tv/beinsport7.html</sportsdevil>
+<sportsdevil>http://www.planetsport.pw/2017/05/hull-city-tottenham-hotspur-ar.html</sportsdevil>
+<sportsdevil>https://world-soccer-stream.blogspot.com/p/hull-city-vs-tottenham-hotspur.html</sportsdevil>
+<sportsdevil>http://www.apkandroidgames.net/?p=283</sportsdevil>
+<sportsdevil>http://www.mygames99.info/public/chanel_05.html</sportsdevil>
+<sportsdevil>http://www.yallasport.net/hull-city-vs-tottenham-hotspur-hd-live-stream</sportsdevil>
+<sportsdevil>http://livehd-2017.blogspot.nl/p/hull-city-vs-tottenham-str1.html</sportsdevil>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]---------------------------------------------------------[/COLOR]</title>
+<link>http://</link>
+<thumbnail>http://i.imgur.com/ejqG0Lt.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

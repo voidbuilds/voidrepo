@@ -1,0 +1,48 @@
+<item>
+<title>Season 1</title>
+<folder>http://voidbuilds.net16.net/wizard/addons/aurora/Docs/Through%20the%20wormhole/Season%201/s1.txt</folder>
+<thumbnail>https://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Season 2</title>
+<folder>http://voidbuilds.net16.net/wizard/addons/aurora/Docs/Through%20the%20wormhole/Season%202/s2.txt</folder>
+<thumbnail>https://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Season 3</title>
+<link>http://voidbuilds.net16.net/wizard/addons/aurora/Docs/Through%20the%20wormhole/Season%203/s3.txt</link>
+<thumbnail>https://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Season 4</title>
+<link>http://voidbuilds.net16.net/wizard/addons/aurora/Docs/Through%20the%20wormhole/Season%204/s4.txt</link>
+<thumbnail>https://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Season 5</title>
+<link>http://voidbuilds.net16.net/wizard/addons/aurora/Docs/Through%20the%20wormhole/Season%205/s5.txt</link>
+<thumbnail>https://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Season 6</title>
+<link>http://voidbuilds.net16.net/wizard/addons/aurora/Docs/Through%20the%20wormhole/Season%206/s6.txt</link>
+<thumbnail>https://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Season 7</title>
+<link>http://voidbuilds.net16.net/wizard/addons/aurora/Docs/Through%20the%20wormhole/Season%207/s7.txt</link>
+<thumbnail>https://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

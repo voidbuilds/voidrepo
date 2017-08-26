@@ -1,0 +1,48 @@
+
+<item>
+<title>Sky Movies Premier</title>
+<sportsdevil>http://www.liveonlinetv247.info/skymoviespremiere.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://i.imgur.com/3VrLekL.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Movies Action</title>
+<sportsdevil>http://www.liveonlinetv247.info/skymoviesaction.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://i.imgur.com/bmEu7Hl.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Movies Comedy</title>
+<sportsdevil>http://www.liveonlinetv247.info/skymoviescomedy.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://i.imgur.com/cas64DC.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Movies Crime</title>
+<sportsdevil>http://www.liveonlinetv247.info/skymoviescrime.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://i.imgur.com/LeZMesH.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Movies Family</title>
+<sportsdevil>http://www.liveonlinetv247.info/skymoviesfamily.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://i.imgur.com/eFsfJ05.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Movies Showcase</title>
+<sportsdevil>http://www.liveonlinetv247.info/skymoviesshowcase.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://i.imgur.com/Jwx73az.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

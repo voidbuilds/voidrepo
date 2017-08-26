@@ -1,0 +1,126 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUs4br3aZLU0sOEM-3n0-6xQ</link>
+<link></link>
+<thumbnail>https://goo.gl/3bL0qL</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Project Ozone</title>
+<link>https://www.youtube.com/playlist?list=PLGN8WikMb4WGnEnkHPcw_qbsXHP7ZFCMd</link>
+<link></link>
+<thumbnail>https://goo.gl/hJMURs</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>YOLO Minecraft</title>
+<link>https://www.youtube.com/playlist?list=PLGN8WikMb4WFoCUceb8LAAzIQGtd1ILiJ</link>
+<link></link>
+<thumbnail>https://goo.gl/KfyzSa</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Tekkit With Duncan</title>
+<link>https://www.youtube.com/playlist?list=PLF31FF54CE3BCA21F</link>
+<link></link>
+<thumbnail>https://goo.gl/pKj91C</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>To The Core</title>
+<link>https://www.youtube.com/playlist?list=PLGN8WikMb4WEJJoX7P_JrxkeFx1QdL_Hb</link>
+<link></link>
+<thumbnail>https://goo.gl/HG3Vyo</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Crazy Craft 3.0</title>
+<link>https://www.youtube.com/playlist?list=PLGN8WikMb4WH5uXnDZUrkBhBJPpmeHXHO</link>
+<link></link>
+<thumbnail>https://goo.gl/bM6rVL</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Flux Baddies</title>
+<link>https://www.youtube.com/playlist?list=PLGN8WikMb4WG0Iup5Dy_69_W2bY2ZRNU4</link>
+<link></link>
+<thumbnail>https://goo.gl/UC40Iy</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Flux Buddies Season 2.0</title>
+<link>https://www.youtube.com/playlist?list=PLGN8WikMb4WFjW2d962eJVDE6lZ3a0xCQ</link>
+<link></link>
+<thumbnail>https://goo.gl/TLIWDj</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Flux Buddies Season 1</title>
+<link>https://www.youtube.com/playlist?list=PLGN8WikMb4WEBZCHWncVDJQ_PWcn8tJA2</link>
+<link></link>
+<thumbnail>https://goo.gl/61FBVm</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>MiniGames</title>
+<link>https://www.youtube.com/playlist?list=PLGN8WikMb4WEo7PQTJOi-yn6IPV9aqpJ8</link>
+<link></link>
+<thumbnail>https://goo.gl/YflLs2</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Cornerstone</title>
+<link>https://www.youtube.com/playlist?list=PLGN8WikMb4WG-35HbM-l-qrN9BgWFJ65b</link>
+<link></link>
+<thumbnail>https://goo.gl/wVaJ04</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Skyblocks ft Sjin</title>
+<link>https://www.youtube.com/playlist?list=PLGN8WikMb4WHPOg3M58SjGtyDBhJByoR-</link>
+<link></link>
+<thumbnail>https://goo.gl/t5z6QQ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Hexxit with Duncan</title>
+<link>https://www.youtube.com/playlist?list=PLGN8WikMb4WHar0jaBhHzP4BJdQ0L4IIR</link>
+<link></link>
+<thumbnail>https://goo.gl/pJzinY</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Pixelmon</title>
+<link>https://www.youtube.com/playlist?list=PLGN8WikMb4WH_pjkQQkoS0GANjl2r8YMR</link>
+<link></link>
+<thumbnail>https://goo.gl/5VzfYl</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Harcore Skyblocks</title>
+<link>https://www.youtube.com/playlist?list=PLGN8WikMb4WGQWbF7KwpQkxgK4RecIjM1</link>
+<link></link>
+<thumbnail>https://goo.gl/vyM3BP</thumbnail>
+<fanart>http://</fanart>
+</item>
+<item>
+<title>Minecraft Blast Off</title>
+<link>https://www.youtube.com/playlist?list=PLGN8WikMb4WH2xrNv9V3SccrlDdm-izkt</link>
+<link></link>
+<thumbnail>https://goo.gl/PfolAU</thumbnail>
+<fanart>http://</fanart>
+</item>

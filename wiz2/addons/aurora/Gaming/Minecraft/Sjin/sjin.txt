@@ -1,0 +1,223 @@
+<item>
+<title>Druidz Downtown</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfAYJR159Kk5DR8k9rKPhVri</link>
+<link></link>
+<thumbnail>https://goo.gl/YxH3fA</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Druidz</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfCLBHHXQlr-bQuSYmbu02JD</link>
+<link></link>
+<thumbnail>https://goo.gl/ET7NBM</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Wynncraft</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfC3Tbx-qX_HtkQ3yk3AfjU9</link>
+<link></link>
+<thumbnail>https://goo.gl/LO4jJq</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Build Battle</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfDiGQ4hA95Nke9pGTfCDVz_</link>
+<link></link>
+<thumbnail>https://goo.gl/RnlJ6J</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Minigames</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfAxzhJJLgRCJq4cGUi41twf</link>
+<link></link>
+<thumbnail>https://goo.gl/UokLyw</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Last Vanilla Adventure</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfA_CKdmmsNxAb9jau_QxhCB</link>
+<link></link>
+<thumbnail>https://goo.gl/6RjcTE</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Druidz Regrowth</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfBY8nP9UU1bWiPI7pKjaotw</link>
+<link></link>
+<thumbnail>https://goo.gl/KX7F3u</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Feed The World 2</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfA5BYhrNYHUWgzXuvYZ-dEW</link>
+<link></link>
+<thumbnail>https://goo.gl/C1oKpQ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Sjins Farm</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfAhxBlEDdBrTq1GZu0-U9-r</link>
+<link></link>
+<thumbnail>https://goo.gl/5Mt8y0</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Time Cops</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfBK4iLrfN3qPGxT_icG8gKL</link>
+<link></link>
+<thumbnail>https://goo.gl/4CGlp1</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Cornerstone</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfCZ9YwTvQmVh3PiU2RsRDtN</link>
+<link></link>
+<thumbnail>https://goo.gl/ukHLZa</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft PvP Siege of Endullin</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfBDXP7wxH0_slShgMhQHbln</link>
+<link></link>
+<thumbnail>https://goo.gl/TPPFuU</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Magic Police</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfCZAdtFVLleVh0H7kB5OGhC</link>
+<link></link>
+<thumbnail>https://goo.gl/1Ly335</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft PvP Crown Conquest</title>
+<link>https://www.youtube.com/playlist?list=PL00A9FF7575CDF433</link>
+<link></link>
+<thumbnail>https://goo.gl/vyi68g</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Lets Build Evil Fortress</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfDN9g2dtGT4n65X133S4bz2</link>
+<link></link>
+<thumbnail>https://goo.gl/lewCnQ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Voltz with sips</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfCI5DVbdXg_h0Uc93ELKJgc</link>
+<link></link>
+<thumbnail>https://goo.gl/K1EbAJ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Lets Build Erebor</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfAOcXDYeRyckj0ixlW_NHUl</link>
+<link></link>
+<thumbnail>https://goo.gl/h7jns5</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Sky Blocks with Duncan</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfAwR3PTj3Rgz_DvRwsYUCUj</link>
+<link></link>
+<thumbnail>https://goo.gl/t5z6QQ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Dirt Factory</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfCGdGyz4XohANw3m9UohwVg</link>
+<link></link>
+<thumbnail>https://goo.gl/pLBAXP</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Sipsco Space Program</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfDVxPClU3r7HvdpGz3lKLDR</link>
+<link></link>
+<thumbnail>https://goo.gl/BA4WpK</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Chaosville feat Duncan</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfDa8-JSDTjQJqJZdPdwYTFx</link>
+<link></link>
+<thumbnail>https://goo.gl/QvugFR</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Sjintech Space Rescue</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfCefbBrRUmN1bT8YdOPBLwN</link>
+<link></link>
+<thumbnail>https://goo.gl/gsP8B8</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Lets Build Disney Frozens</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfCxPFnI69rv_pmSN6D8Gc3P</link>
+<link></link>
+<thumbnail>https://goo.gl/QQjeSV</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Lets Build Mini Projects</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfDz5iGMsshWJfSGDxKT_In6</link>
+<link></link>
+<thumbnail>https://goo.gl/iqKHR5</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Feed The World</title>
+<link>https://www.youtube.com/playlist?list=PLtZHIFR5osfCOPQgSfPoCWh1tgUh5f_xw</link>
+<link></link>
+<thumbnail>https://goo.gl/Bklrjt</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft With Sips Season One</title>
+<link>https://www.youtube.com/playlist?list=PLB71FB9235842BB40</link>
+<link></link>
+<thumbnail>https://goo.gl/ruODPX</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft With Sips Season Two</title>
+<link>https://www.youtube.com/playlist?list=PL6093CBA85C5E6F53</link>
+<link></link>
+<thumbnail>https://goo.gl/97m3x9</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Tekkit Sipsco Sips and Sjin</title>
+<link>https://www.youtube.com/playlist?list=PLE7A681307D4F077D</link>
+<link></link>
+<thumbnail>https://goo.gl/oXP0ns</thumbnail>
+<fanart>http://</fanart>
+</item>

@@ -1,0 +1,22 @@
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>NBC Golf [COLOR cyan]SD[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://i.imgur.com/TEomEM2.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+ 
+<item>
+<title>NBC Golf [COLOR cyan]720p[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://i.imgur.com/bZrMmhM.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>NBC Golf [COLOR cyan]1080p[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://i.imgur.com/Gta8wnO.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

@@ -1,0 +1,48 @@
+<item>
+<title>Ajax</title>
+<link>https://www.youtube.com/watch?v=0hJCbFSrmzU&t=307s</link>
+<thumbnail>http://i.imgur.com/bARfTlY.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Eintracht Frankfurt</title>
+<link>https://www.youtube.com/watch?v=5z5mbCWThZ8</link>
+<thumbnail>http://i.imgur.com/hhGPqdU.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Borussia Dortmund</title>
+<link>https://www.youtube.com/watch?v=iJDTVtLeviA</link>
+<thumbnail>http://i.imgur.com/sxK4Ez4.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Legia Warsaw</title>
+<link>https://www.youtube.com/watch?v=Ct_Binh4Ld4</link>
+<thumbnail>http://i.imgur.com/B6HYVaw.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Hansa Rostock</title>
+<link>https://www.youtube.com/watch?v=8xG9PSFo4sI</link>
+<thumbnail>http://i.imgur.com/rK8VOW5.png</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Aris Thessaloniki</title>
+<link>https://www.youtube.com/watch?v=jtWvusDKVzA</link>
+<thumbnail>http://i.imgur.com/CEuy2tH.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Rosario Central</title>
+<link>https://www.youtube.com/watch?v=vdrNPq8j8t8</link>
+<thumbnail>http://i.imgur.com/qfkH6da.jpg</thumbnail>
+<fanart>http://i.imgur.com/XaJ8KHG.jpg</fanart>
+</item>

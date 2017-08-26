@@ -1,0 +1,223 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUEqBMWd6aeCVLAUMEO5WqIw</link>
+<link></link>
+<thumbnail>https://goo.gl/LFEHQp</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Off the Rack (New Comic Reviews every Tuesday</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsUGKrbPHvRTQkWQnWgX6zZk</link>
+<link></link>
+<thumbnail>https://goo.gl/LFEHQp</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Your Letters and Packages (Letters Page)</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsUAOK8qeocv8TBJtukz9pmP</link>
+<link></link>
+<thumbnail>https://goo.gl/3m12jR</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Elsworlds Exchange Podcast (Live Wednesdays)</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsVrtUt-YLPsUX6fW1QjxB8Q</link>
+<link></link>
+<thumbnail>https://goo.gl/XNIsi8</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Weekly Pull Podcast</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsWtMuKJk5o_wgPgKEwq1zyS</link>
+<link></link>
+<thumbnail>https://goo.gl/2EkXkH</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Back Issues Weekly Series Discussion</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsVhegSneNIXzD40CEbYTdqG</link>
+<link></link>
+<thumbnail>https://goo.gl/J4rLm7</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Spider-Man on Back Issues</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsXd3m6ZHas4ytBmK0pEfVzv</link>
+<link></link>
+<thumbnail>https://goo.gl/J4rLm7</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Junk Drawer (Unboxings & Collectables)</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsWaYJAkGuevTK-TgyC5poPs</link>
+<link></link>
+<thumbnail>https://goo.gl/q9rudu</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>All Wolverine, All The Time</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsWFLgewroD6EIHU8fVGebWW</link>
+<link></link>
+<thumbnail>https://goo.gl/6UwRej</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Comic Book Reenactments (Dramatic Comics)</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsWua--KgOz5WfzYI-CX0pM1</link>
+<link></link>
+<thumbnail>https://goo.gl/6UwRej</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Batman on Back Issues</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsVCh2nG6vBYg7rpHW2LfL9a</link>
+<link></link>
+<thumbnail>https://goo.gl/pT4cQK</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Comic POPcorn (Movie/TV Commentaries</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsVZRMy74p5ScTu6zQEHU8KO</link>
+<link></link>
+<thumbnail>https://goo.gl/nM5J3l</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Tiffany Hosted Back Issues</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsV0CCaN8Cz-Ct6M_RtRtZ_-</link>
+<link></link>
+<thumbnail>https://goo.gl/RydvKA</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Quick Funny Chats (Tangents)</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsU3gSbDovTxq5yH9QYFab6n</link>
+<link></link>
+<thumbnail>https://goo.gl/sn4VsG</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>X-Men on Back Issues</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsUkWjIrCh0Kqn2b3pytqq3k</link>
+<link></link>
+<thumbnail>https://goo.gl/RYwpt4</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Do you even LIKE comics?</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsW3fJ3AA4uG7XnuVNQhRxkx</link>
+<link></link>
+<thumbnail>https://goo.gl/8tjT4A</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Comic Book Powers Explained</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsVSvkNMKiDZEZpnEz6JsmPH</link>
+<link></link>
+<thumbnail>https://goo.gl/IGe6qA</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Superman on Back Issues</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsXawM3iDfHm84gFOjuxgCBb</link>
+<link></link>
+<thumbnail>https://goo.gl/Ca0Obn</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Comic Book Debates (Comic Fights)</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsXCjoWW8EeYRIq06c5gjywE</link>
+<link></link>
+<thumbnail>https://goo.gl/uj0qxS</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>ComicPOP Live!</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsUAS_uRrtdiLXztafMVpXLn</link>
+<link></link>
+<thumbnail>https://goo.gl/87Cfwq</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Quick Videos</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsUa7_YomzW46CWpCktZ1M0X</link>
+<link></link>
+<thumbnail>https://goo.gl/bMYrB0</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>1-Minute Comic Book Rundows</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsU2anCG2dZTtVJsItCg29KR</link>
+<link></link>
+<thumbnail>https://goo.gl/NTLqyD</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>DC's Crisis on Back Issues</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsXM_qjs5cOGeqAdklafyEYp</link>
+<link></link>
+<thumbnail>https://goo.gl/P1Ng26</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>DC Fans</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsVyP1CN9jIBQQ_KGbJLfN4G</link>
+<link></link>
+<thumbnail>https://goo.gl/piQ6FK</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>5 Things You Didnt Know</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsUW339BpSBtXLkRuyIU45Il</link>
+<link></link>
+<thumbnail>https://goo.gl/gQhca4</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Indie Comic Reviews</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsUOwv-9wZCOZeLPMtEMrPXi</link>
+<link></link>
+<thumbnail>https://goo.gl/E0qo0u</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Secret Wars</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsVlWu-wyT17pBYEadOWXE7X</link>
+<link></link>
+<thumbnail>https://goo.gl/K12uUy</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>ComicPOP at Comic-Con</title>
+<link>https://www.youtube.com/playlist?list=PLDHGagKHrNsV2b9oOyrKFBe0PvFHNoBMZ</link>
+<link></link>
+<thumbnail>https://goo.gl/Ijiadh</thumbnail>
+<fanart>http://</fanart>
+</item>

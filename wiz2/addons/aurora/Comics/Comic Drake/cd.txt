@@ -1,0 +1,231 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UU9lNNtAARC-n0WC7tm-884Q</link>
+<link></link>
+<thumbnail>https://goo.gl/zACJ8s</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Marvel Comics Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvVL-j6lY85YW4GEWvrf8sXM</link>
+<link></link>
+<thumbnail>https://goo.gl/zACJ8s</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Comics Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvWqFOsKdJXhx4LQ47KnXTZu</link>
+<link></link>
+<thumbnail>https://goo.gl/zACJ8s</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Marvels Nexflix Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvU1JrRSXdzbdzKHx20E4Z5h</link>
+<link></link>
+<thumbnail>https://goo.gl/zACJ8s</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Avengers Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvV2S_1eZfLhJRl6WLyijaEg</link>
+<link></link>
+<thumbnail>https://goo.gl/zACJ8s</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>DC Comics Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvWEs0DArFKQQbKH69KtAOMr</link>
+<link></link>
+<thumbnail>https://goo.gl/P1ziME</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Batman Comics Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvXc57q5LERw_bc2qi84ueUO</link>
+<link></link>
+<thumbnail>https://goo.gl/P1ziME</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Lantern Corps Comics Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvXtTTTcUcoN-dVnsy3fil9p</link>
+<link></link>
+<thumbnail>https://goo.gl/wBlxIf</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Comic Book Theories</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvUsGkYsuWMylzWJY9m4vrkc</link>
+<link></link>
+<thumbnail>https://goo.gl/P5ywzA</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Video Game Comics</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvXtKL9zGPZ1qZzJRCfb87b3</link>
+<link></link>
+<thumbnail>https://goo.gl/b9lrIk</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Comic Book Histories</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvXGW7lENacZCIj_8iWxLVi0</link>
+<link></link>
+<thumbnail>https://goo.gl/moAHKQ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Amalgam Comics Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvVp1hToerksDvStSI0G-HtJ</link>
+<link></link>
+<thumbnail>https://goo.gl/FGEYFn</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Manga Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvWPhi-C3_JO5rygHhFQvHDR</link>
+<link></link>
+<thumbnail>https://goo.gl/y9c7HE</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Thor Comics Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvXBaOCi4llSLFa3a6VxI_kr</link>
+<link></link>
+<thumbnail>https://goo.gl/HdjkYq</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>90s Comics Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvVpOxQz0MVWo9Hhc9ZMyBG4</link>
+<link></link>
+<thumbnail>https://goo.gl/FGEYFn</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Flash Comics Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvVmgzTk7RUgjfWoX4QOGwgF</link>
+<link></link>
+<thumbnail>https://goo.gl/RN9Ovl</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Comic Rants</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvWynqBFmzSwDUWMHZ2f4uLk</link>
+<link></link>
+<thumbnail>https://goo.gl/hfyTo7</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Comic Drakes Comic Recommendations</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvXUoRceMo7ZsRI6a-d4ARN8</link>
+<link></link>
+<thumbnail>https://goo.gl/wBZhFS</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Comic Lingo</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvUhgUkD5EF2mQO60bGFTSLd</link>
+<link></link>
+<thumbnail>https://goo.gl/TjXvGA</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Because Comics</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvVCx-aIfAz6K1t1YfDe8y72</link>
+<link></link>
+<thumbnail>https://goo.gl/Dxq0ah</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The BEST of Comics</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvUi9RIN7dF3JByrYBzg4NIi</link>
+<link></link>
+<thumbnail>https://goo.gl/JtZ3Kt</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+</item><item>
+<title>Vertigo Comics Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvXtGzTF4y8e8bHBjc8QuSCz</link>
+<link></link>
+<thumbnail>https://goo.gl/dKaQj4</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Where to Start Reading Comics</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvXrek0AJD53EGzlLpssnoPJ</link>
+<link></link>
+<thumbnail>https://goo.gl/FZsu4A</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Indie Comics Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvWQ7ncWjXaLqNTj58vH20Cy</link>
+<link></link>
+<thumbnail>https://goo.gl/NVcFcH</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Spider-Man Comics Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvWg9nmFp2siERFrTwSGCl1b</link>
+<link></link>
+<thumbnail>https://goo.gl/aISsug</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Legends of Tomorrow Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvXtKL9zGPZ1qZzJRCfb87b3</link>
+<link></link>
+<thumbnail>https://goo.gl/Mxwwa2</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Comic Book Whole Stories</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvWeSnnGvA_COigiJLMzNXV5</link>
+<link></link>
+<thumbnail>https://goo.gl/wBlxIf</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Suicide Squad Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvV6_baziU78nOPx3IG40GyE</link>
+<link></link>
+<thumbnail>https://goo.gl/I8FawB</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>X-Men Comics Explained</title>
+<link>https://www.youtube.com/playlist?list=PLakb9q7NpRvUO7XXM52a7gS0mjEMaHPeq</link>
+<link></link>
+<thumbnail>https://goo.gl/kupcH6</thumbnail>
+<fanart>http://</fanart>
+</item>

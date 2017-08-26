@@ -1,0 +1,36 @@
+
+<item>
+<title>Batman The Killing Joke 720p</title>
+<link>http://dl.my-film.in/reza/film/Batman.The.Killing.Joke.2016.1080p.6CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Batman.The.Killing.Joke.2016.1080p.BluRay.6CH.1.3GB-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Batman.The.Killing.Joke.2016.720p.BluRay-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Batman.The.Killing.Joke.2016.720p.2CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl2.mihanpix.com/Film/2016/Batman.The.Killing.Joke.2016.720p.ShAaNiG.mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Suicide Squad 720p</title>
+<link>http://dl.my-film.in/reza/film/Suicide.Squad.2016.EXTENDED.1080p.5.1CH.Ganool-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Suicide.Squad.2016.EXTENDED.1080p.x265.ShAaNiG-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Suicide.Squad.2016.1080p.BluRay.mHD.DD5.1.x264-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Suicide.Squad.2016.3D.1080p.BluRay.6CH.x264.ShAaNiG-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Suicide.Squad.2016.EXTENDED.720p.x265.ShAaNiG-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Suicide.Squad.2016.EXTENDED.720p.Ganool-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Suicide.Squad.2016.720p.BluRay.mHD.DD5.1.x264-[My-Film].mkv</link>
+<link>http://dl2.mihanpix.com/Film/2016/Suicide.Squad.2016.720p.HC.HDTV.x264.mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Batman vs Superman Dawn of Justice</title>
+<link>http://dl.my-film.in/reza/film/Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.1080p.6CH.ShAaNiG-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.1080p.BluRay.x264-SPARKS-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.1080p.6CH.ShAaNiG-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.720p.BluRay.x264-SPARKS-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.720p.ShAaNiG-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>

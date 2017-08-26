@@ -1,0 +1,79 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUj5i58mCkAREDqFWlhaQbOw</link>
+<link></link>
+<thumbnail>https://goo.gl/yYR2HJ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Building Time</title>
+<link>https://www.youtube.com/playlist?list=PLEZiAg2bYC7lRtQIMbka2FOsSaRgdmhyp</link>
+<link></link>
+<thumbnail>https://goo.gl/lqAMVI</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Ocean Den</title>
+<link>https://www.youtube.com/playlist?list=PLEZiAg2bYC7mT_3kwdiy279lfvBn0sZSd</link>
+<link></link>
+<thumbnail>https://goo.gl/Akl6wp</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>20 Block Challenge</title>
+<link>https://www.youtube.com/playlist?list=PLEZiAg2bYC7k_wayTLT-9bbwTp0wB5kQ1</link>
+<link></link>
+<thumbnail>https://goo.gl/eGlqJW</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Stampy Shorts</title>
+<link>https://www.youtube.com/playlist?list=PLEZiAg2bYC7kD12w8siduMtt5dX7JeJdR</link>
+<link></link>
+<thumbnail>https://goo.gl/G1kVwl</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Top 10's</title>
+<link>https://www.youtube.com/playlist?list=PLEZiAg2bYC7kD_cWyuk__cRyNIvv1h5Xv</link>
+<link></link>
+<thumbnail>https://goo.gl/mBLmEq</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Story Mode</title>
+<link>https://www.youtube.com/playlist?list=PLEZiAg2bYC7mjCwQgLZAG6Mn2zpYNvyD-</link>
+<link></link>
+<thumbnail>https://goo.gl/li1YCP</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Stampy Flat Challenge</title>
+<link>https://www.youtube.com/playlist?list=PLEZiAg2bYC7lD6xHp3J5cSi1h66EkXNxm</link>
+<link></link>
+<thumbnail>https://goo.gl/ZXrjPP</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>10 In A Row Challenge</title>
+<link>https://www.youtube.com/playlist?list=PLEZiAg2bYC7kYgaI9yOUWRqijSt-cqytk</link>
+<link></link>
+<thumbnail>https://goo.gl/4mlc5x</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Super Mario Edition</title>
+<link>https://www.youtube.com/playlist?list=PLEZiAg2bYC7nVv88-_CupfoDvy9psyUXP</link>
+<link></link>
+<thumbnail>https://goo.gl/x4qW5D</thumbnail>
+<fanart>http://</fanart>
+</item>

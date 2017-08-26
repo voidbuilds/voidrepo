@@ -1,0 +1,16 @@
+
+<item>
+<title>Central Intelligence</title>
+<link>http://dl.my-film.in/reza/film/Central.Intelligence.2016.Unrated.1080p.BluRay.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/reza/film/Central.Intelligence.2016.Unrated.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv(720p)</link>
+<link>http://dl2.mihanpix.com/Film/2016/Central.Intelligence.2016.720p.WEB-DL.x264.ShAaNiG.mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Masterminds 720p</title>
+<link>http://dl.my-film.in/reza/film/Masterminds.2016.720p.MkvCage-[My-Film].mkv(720p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>

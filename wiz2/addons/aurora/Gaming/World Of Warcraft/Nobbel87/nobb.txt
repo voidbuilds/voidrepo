@@ -1,0 +1,55 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUX34tk-noBVC4WVC9qQGyMw</link>
+<link></link>
+<thumbnail>https://goo.gl/tamjRB</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Lore of Warcraft</title>
+<link>https://www.youtube.com/playlist?list=PL6037698E84060287</link>
+<link></link>
+<thumbnail>https://goo.gl/ZS7WO7</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Lore of Warcraft reversed</title>
+<link>https://www.youtube.com/playlist?list=PLV3Yvqnl3FYcsI4px2GaIxUQ8io4kuZ2s</link>
+<link></link>
+<thumbnail>https://goo.gl/xAQU4v</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Artifacts and Order Hall Campaigns</title>
+<link>https://www.youtube.com/playlist?list=PLV3Yvqnl3FYf9lvyLGVmD-qW05lJvPBNn</link>
+<link></link>
+<thumbnail>https://goo.gl/GPabYp</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Warcraft 3 LP (Finished)</title>
+<link>https://www.youtube.com/playlist?list=PLV3Yvqnl3FYcwrD2n3xtHgU8eI9KYthvi</link>
+<link></link>
+<thumbnail>https://goo.gl/5mIsRc</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Questions and Answers</title>
+<link>https://www.youtube.com/playlist?list=PLV3Yvqnl3FYcpsBWj03oeLgn2aHdGfGLp</link>
+<link></link>
+<thumbnail>https://goo.gl/0DeIAO</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Legion Alpha/Beta</title>
+<link>https://www.youtube.com/playlist?list=PLV3Yvqnl3FYcI0iu1u_eJ63kXsPmRHnzy</link>
+<link></link>
+<thumbnail>https://goo.gl/bRn0of</thumbnail>
+<fanart>http://</fanart>
+</item>

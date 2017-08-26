@@ -1,0 +1,7 @@
+
+<item>
+<title>coming soon</title>
+<link>http://</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>

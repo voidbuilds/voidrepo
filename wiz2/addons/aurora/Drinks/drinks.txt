@@ -1,0 +1,87 @@
+<item>
+<title>Tipsy Bartender</title>
+<link>https://www.youtube.com/playlist?list=UUaDY8WjYWy36bnt0RVzSklw</link>
+<link></link>
+<thumbnail>https://goo.gl/R9wu9D</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Common Man Cocktails</title>
+<link>https://www.youtube.com/playlist?list=UUm4_NTvhixXU3YFetu8z-aA</link>
+<link></link>
+<thumbnail>https://goo.gl/PZN5uY</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Small Screen Drinks</title>
+<link>https://www.youtube.com/playlist?list=UUArqex7-NK9TIUpTd5_-rmw</link>
+<link></link>
+<thumbnail>https://goo.gl/VKJ1dM</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>The Craft Beer Channel</title>
+<link>https://www.youtube.com/playlist?list=UUXnyK-TfLyZ8O6aXXFk76jg</link>
+<link></link>
+<thumbnail>https://goo.gl/pwOpDl</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Liquor.com</title>
+<link>https://www.youtube.com/playlist?list=UULuXzCJgeOAVletntPNU_0g</link>
+<link></link>
+<thumbnail>https://goo.gl/MsOmfN</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>How To Drink</title>
+<link>https://www.youtube.com/playlist?list=UUioZY1p0bZ4Xt-yodw8_cBQ</link>
+<link></link>
+<thumbnail>https://goo.gl/2oqzgz</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Distinguished Spirits</title>
+<link>https://www.youtube.com/playlist?list=UUwNaA67lAVnIU6BMtpXj_0w</link>
+<link></link>
+<thumbnail>https://goo.gl/JslG4d</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Cocktail Chamistry</title>
+<link>https://www.youtube.com/playlist?list=UU-o0CfpOyFJOfyWKtqS1hZQ</link>
+<link></link>
+<thumbnail>https://goo.gl/5y6hhc</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Small Screen Drinks</title>
+<link>https://www.youtube.com/playlist?list=UUArqex7-NK9TIUpTd5_-rmw</link>
+<link></link>
+<thumbnail>https://goo.gl/VKJ1dM</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>SingleMaltTv</title>
+<link>https://www.youtube.com/playlist?list=UU5ZzrkyDmz207YwJFNyS1Ng</link>
+<link></link>
+<thumbnail>https://goo.gl/BBuz4M</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Mixology Group</title>
+<link>https://www.youtube.com/playlist?list=UUjhrxw_j9wLkkTSPWu7Zwtw</link>
+<link></link>
+<thumbnail>https://goo.gl/OoyuHj</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

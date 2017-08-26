@@ -1,0 +1,41 @@
+
+<item>
+<title>Die Hard</title>
+<link>http://dl.my-film.in/reza/film/Die.Hard.1988.1080p-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Die.Hard.1988.720p-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Die Hard 2</title>
+<link>http://dl.my-film.in/reza/film/Die.Hard.2.1990.1080p-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Die.Hard.2.1990.720p-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Die Hard With a Vengeance</title>
+<link>http://dl.my-film.in/reza/film/Die.Hard.With.a.Vengeance.1995.1080p-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Die.Hard.With.a.Vengeance.1995.720p-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Live Free or Die Hard</title>
+<link>http://dl.my-film.in/reza/film/Live.Free.or.Die.Hard.2007.1080p.BluRay-[My-Film].mp4</link>
+<link>http://dl.my-film.in/reza/film/Live.Free.or.Die.Hard.2007.Unrated.1080p.BluRay.6H-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/Live.Free.or.Die.Hard.2007.Unrated.720p.2CH.x265.HEVC-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>A Good Day To Die Hard</title>
+<link>http://dl.my-film.in/reza/film/A.Good.Day.to.Die.Hard.2013.1080p.5.1CH.Ganool-[My-Film].mkv</link>
+<link>http://dl.my-film.in/reza/film/A.Good.Day.to.Die.Hard.2013.720p.Ganool-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>

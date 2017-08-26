@@ -1,0 +1,391 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUWcUE-K-Ou5Axk6beLQAPjQ</link>
+<link></link>
+<thumbnail>https://goo.gl/puFiVp</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Skyblock Challenge</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHviXINF3wBTZ79CtuPLq-ZO</link>
+<link></link>
+<thumbnail>https://goo.gl/jEdYfi</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.4 Expert WorldBuilder Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHsaIiQ3IFV73y1TlcF56cEf</link>
+<link></link>
+<thumbnail>https://goo.gl/tbVjPl</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.4 Expert Modded Mage Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHvuC2GFdt-r8VuUdyEzAzyo</link>
+<link></link>
+<thumbnail>https://goo.gl/ccqxHf</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.4 Update</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHtXcxNo566CxblWyCIMJjZm</link>
+<link></link>
+<thumbnail>https://goo.gl/QjGT8m</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.3 Expert Modded Summoner</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHt7D05oIgLLr0sf5XMj2K7f</link>
+<link></link>
+<thumbnail>https://goo.gl/l7n85O</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Super Terraria World - Custom Adventure Map</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHsKcrE6fJBG48QmtBSvOIQL</link>
+<link></link>
+<thumbnail>https://goo.gl/nmCmKT</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.3 Expert Modded Archer Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHsLzwMDIBYtIt6kzynaHBRz</link>
+<link></link>
+<thumbnail>https://goo.gl/umtaWA</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.3 Update</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHsQptRuN8AoEssfN6T_qTG7</link>
+<link></link>
+<thumbnail>https://goo.gl/WOJb1H</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.2 Expert Gunslinger Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHvFzx1CeKesXVeEYFumG07v</link>
+<link></link>
+<thumbnail>https://goo.gl/NkBHl3</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Otherworld Spoilers</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHuzAqSrrRCjzwqeGKywzvng</link>
+<link></link>
+<thumbnail>https://goo.gl/ytfhy7</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.2 Update</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHsP4qACbq2wK5V49R4vxUGf</link>
+<link></link>
+<thumbnail>https://goo.gl/XALksK</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.2 Expert Modded Yoyo Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHv0mnoojfeavjs-x4R277Ql</link>
+<link></link>
+<thumbnail>https://goo.gl/JinbQf</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Movies</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHtDQsfj6Wxi2jmWYWKWz5x8</link>
+<link></link>
+<thumbnail>https://goo.gl/fW5c5x</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.2 Expert Modded Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHs8-gbIzSQ1p_G9yNqAvFYb</link>
+<link></link>
+<thumbnail>https://goo.gl/EnHn3J</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.1 Adventure Maps</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHty29pwksVjTxmRfR6UEcz4</link>
+<link></link>
+<thumbnail>https://goo.gl/tuUTwX</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.1 Update</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHsXNOAUZqhzExagPC7DnPn8</link>
+<link></link>
+<thumbnail>https://goo.gl/3CIOqo</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Happydays Fails and Funny Moments</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHuNDAEZ5T-WZbG6EC5XGYUS</link>
+<link></link>
+<thumbnail>https://goo.gl/3NsR5r</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3.1 Expert Throwing Class Playthrough</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHvKUvtQOWNepiAj7UhkMBuk</link>
+<link></link>
+<thumbnail>https://goo.gl/Y5SnM2</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Expert Mage Playthrough</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHsh3aRWym4Ildz66MS4VKXG</link>
+<link></link>
+<thumbnail>https://goo.gl/2lvrZO</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Expert Thorium Mod Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHtQWaxfPE7hq9EBlMu4J2Ap</link>
+<link></link>
+<thumbnail>https://goo.gl/ME6Qfd</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Expert Summoner Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHshdG57R22rCJkpVFxotrpF</link>
+<link></link>
+<thumbnail>https://goo.gl/i1lFY6</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Expert Melee Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHv1f2c8jaCIbQzsgray9OwA</link>
+<link></link>
+<thumbnail>https://goo.gl/KuwHaL</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Expert Tremor Mod Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHsHqog0IoyzSTCorF2kQ_Mv</link>
+<link></link>
+<thumbnail>https://goo.gl/8zU2c8</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Fisherman Challenge / Fishing Only Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHvbe-wlgGxYdGtWqB4LyYFD</link>
+<link></link>
+<thumbnail>https://goo.gl/nzkM1n</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Expert Boss Battle Guides</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHtbSBubp9jprZeSnJdtgIeq</link>
+<link></link>
+<thumbnail>https://goo.gl/qWkAwN</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Expert Huntress Banner Challenge</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHuoB4RICQfAczdPdHrvymGb</link>
+<link></link>
+<thumbnail>https://goo.gl/qujkMI</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Expert Rogue Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHtIw1oiOjLQ6rHgIdndFbHl</link>
+<link></link>
+<thumbnail>https://goo.gl/fXSVNp</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Expert Mode Survival Guide</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHsdGKhhD7JS6nYwXaS72rCY</link>
+<link></link>
+<thumbnail>https://goo.gl/YdQ8W1</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Expert Warlock Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHulk0Vj5zTMHoJDadNIKZU1</link>
+<link></link>
+<thumbnail>https://goo.gl/wFlSjf</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Expert Mode Yoyo Playthrough</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHvFncy5hlVT5cDIAjhciVhP</link>
+<link></link>
+<thumbnail>https://goo.gl/ZaiEOp</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria HappyDays Community Update</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHuOkZuXmD8ioqEZ4GaTexcY</link>
+<link></link>
+<thumbnail>https://goo.gl/IqSpwg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Lets Build Series 1.3 House Tutorial and More</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHvMGhtSom_F4Mr1p6LkyHW_</link>
+<link></link>
+<thumbnail>https://goo.gl/yZ3gni</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Expert Mods Playthrough </title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHuAb7xcRGLIhfRdqM36yLbN</link>
+<link></link>
+<thumbnail>https://goo.gl/zkwb4s</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 Update - Bosses,New Items and More </title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHtwpWzhQ1YmlFESs5_y3Okh</link>
+<link></link>
+<thumbnail>https://goo.gl/538MQ7</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Gunslinger Playthrough 1.2.4 and 1.3 Lets Play </title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHv4SjgeP98A3bI1jHZGuomm</link>
+<link></link>
+<thumbnail>https://goo.gl/bPyeVc</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria News and Updates </title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHs-y3JmxPMymTWO6J_QN6Ql</link>
+<link></link>
+<thumbnail>https://goo.gl/zYkJ39</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Easy Farms </title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHulyR04ipoKQphizchQK7ri</link>
+<link></link>
+<thumbnail>https://goo.gl/wjOmUY</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Feature Series ( NPC Guide)</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHti7yZ6MwSTnbdBVqRxgF8P</link>
+<link></link>
+<thumbnail>https://goo.gl/X7Br18</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Summoner Playthrough (Serena) </title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHsQLvuJDq-un0IP-i-vjTt2</link>
+<link></link>
+<thumbnail>https://goo.gl/b1iaus</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Tutorials (AFK Ankh Charm Series</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHtOPtHb_4sk1KNYijFYC_MU</link>
+<link></link>
+<thumbnail>https://goo.gl/2ma0at</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Top 5 Series </title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHuiiNyKM8RorX_dHums6ixi</link>
+<link></link>
+<thumbnail>https://goo.gl/rWF9Sj</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria The Weekly Wire (Tips,Tricks and More) </title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHtjs5OcSK5gmtOGOaApKiSE</link>
+<link></link>
+<thumbnail>https://goo.gl/EwVlST</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria 1.3 AFK Farms </title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHsNa007SAvf4rnDJ5pGYW7Y</link>
+<link></link>
+<thumbnail>https://goo.gl/cBYIBn</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Mage Playthrough(Jaina the Mage) </title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHuSzZRKUvG8YhHiA1Z682yy</link>
+<link></link>
+<thumbnail>https://goo.gl/SL3z4L</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Arthas Paladin Lets Play </title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHsc6FaS68NyozzTowVDw170</link>
+<link></link>
+<thumbnail>https://goo.gl/m6S5d9</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Sylvanas Ranger Lets Play</title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHurs3SbRLt6cPjaRTsOQt-r</link>
+<link></link>
+<thumbnail>https://goo.gl/ersdgX</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria Lets Play </title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHus_vUxYes0s-a88OOWF-ND</link>
+<link></link>
+<thumbnail>https://goo.gl/KRjl8Y</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Terraria HappyDays Lets Play </title>
+<link>https://www.youtube.com/playlist?list=PL-VeuxozZhHvSsf7jJD84MqAlyCvpb6Z8</link>
+<link></link>
+<thumbnail>https://goo.gl/IEIMGf</thumbnail>
+<fanart>http://</fanart>
+</item>

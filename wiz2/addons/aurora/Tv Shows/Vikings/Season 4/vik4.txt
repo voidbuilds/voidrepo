@@ -1,0 +1,160 @@
+
+<item>
+<title>Episode 1</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E01.1080p.WEB-DL.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E01.1080p.BluRay.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 2</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E02.1080p.WEB-DL.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E02.1080p.BluRay.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 3</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E03.1080p.WEB-DL.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E03.1080p.BluRay.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 4</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E04.1080p.WEB-DL.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E04.1080p.BluRay.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 5</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E05.1080p.WEB-DL.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E05.1080p.BluRay.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 6</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E06.1080p.WEB-DL.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E06.1080p.BluRay.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 7</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E07.1080p.WEB-DL.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E07.1080p.BluRay.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 8</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E08.1080p.WEB-DL.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E08.1080p.BluRay.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 9</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E09.1080p.WEB-DL.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E09.1080p.BluRay.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 10</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E10.1080p.WEB-DL.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E10.1080p.BluRay.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 11</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E11.1080p.WEB-DL.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E11.1080p.WEB-DL.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 12</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E12.1080p.WEB-DL.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E12.1080p.WEB-DL.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 13</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E13.1080p.WEB-DL.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E13.1080p.WEB-DL.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 14</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E14.1080p.WEB-DL.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E14.1080p.WEB-DL.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 15</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E15.1080p.WEB-DL.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E15.1080p.WEB-DL.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 16</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E16.1080p.HDTV.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E16.1080p.HDTV.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 17</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E17.1080p.WEB-DL.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E17.1080p.WEB-DL.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 18</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E18.1080p.HDTV.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E18.1080p.HDTV.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 19</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E19.1080p.HDTV.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E19.1080p.HDTV.6CH.x264-[My-Film].mkv(1080p)</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 20</title>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%20%201080p%20HDTV.x265/Vikings.S04E20.1080p.WEB-DL.6CH.x265.HEVC-[My-Film].mkv(1080p)</link>
+<link>http://dl.my-film.in/serial/Vikings/Season%204%20-%201080p%20HDTV/Vikings.S04E20.1080p.WEB-DL.6CH.x264-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>

@@ -1,0 +1,183 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUFKDEp9si4RmHFWJW1vYsMA</link>
+<link></link>
+<thumbnail>https://goo.gl/bLB6kg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Project Ozone</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XAoIzvMEoPyg7mW0T0gDZezo</link>
+<link></link>
+<thumbnail>https://goo.gl/Umidoa</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Ethos Plays Minecraft Season 2</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XArcet5lwcRo12Fh9JrGKydh</link>
+<link></link>
+<thumbnail>https://goo.gl/MiHder</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>HermitPack</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XAppRJq-9D5ftdKAorJDDrss</link>
+<link></link>
+<thumbnail>https://goo.gl/qixUM1</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Captive Minecraft 4</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XAo19KHMUgrHPHJ37FxIk7uM</link>
+<link></link>
+<thumbnail>https://goo.gl/FerLnP</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Sky Factory 2.5</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XAqgeAsJ28FMw2kQSE_-pfx6</link>
+<link></link>
+<thumbnail>https://goo.gl/voIEMA</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Modded Minecraft</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XAoTT-a8HU917lWkZCwYmp49</link>
+<link></link>
+<thumbnail>https://goo.gl/YklkK7</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>TerraFirmaCraft Season 2</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XApxtnp11DiseDxqRa6poFNi</link>
+<link></link>
+<thumbnail>https://goo.gl/poS9qY</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Modded Minecraft - CrackPack</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XAoI_p77OZBx-yd5e0I5OIND</link>
+<link></link>
+<thumbnail>https://goo.gl/T3I7f5</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>CTM - Simulation Protocol</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XAr-NIzts3mjsFWxC72EGXzy</link>
+<link></link>
+<thumbnail>https://goo.gl/1QpTsm</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>CTM - Uncharted Territory 3</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XAoTT-a8HU917lWkZCwYmp49</link>
+<link></link>
+<thumbnail>https://goo.gl/YklkK7</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>CTM - Uncharted Territory 2</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XArQfUyPS2ZzBaNzv3Qe3zfX</link>
+<link></link>
+<thumbnail>https://goo.gl/gEIj4K</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>CTM - Uncharted Territory 1</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XArdrXYmA_W9ztng_b4qrhjR</link>
+<link></link>
+<thumbnail>https://goo.gl/6tRSPb</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>OOGE - Vinyl Fantasy II</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XApmA699Qt7UKZYJHr5tUoVG</link>
+<link></link>
+<thumbnail>https://goo.gl/5Hun7w</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>OOGE - Spellbound Caves</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XApssfdyyrkcJ1mAnaPU50WK</link>
+<link></link>
+<thumbnail>https://goo.gl/ubCbgC</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>OOGE - Kaizo Caverns</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XAouX9zdqEpzI9lf6Q1I5CPi</link>
+<link></link>
+<thumbnail>https://goo.gl/zvjvbN</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Crash Landing</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XAq1CbBE4cqM0qs7QJYnNqX3</link>
+<link></link>
+<thumbnail>https://goo.gl/wVeiQ2</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Etho Mindcrack Season 2</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XAo_pe3nb45LxQFNqHSRODeB</link>
+<link></link>
+<thumbnail>https://goo.gl/cLwTQI</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Modded Minecraft Season 2</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XAq2jze64OMy2qGH-YzyQKdU</link>
+<link></link>
+<thumbnail>https://goo.gl/eoKU2n</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Modded Minecraft Season 1</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XAr9ybKzzhYv62Lz2SzHmyBd</link>
+<link></link>
+<thumbnail>https://goo.gl/GlmV71</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Etho Mindcrack Season 1</title>
+<link>https://www.youtube.com/playlist?list=PLaAVDbMg_XApzEqyJsw8z5Ysiw2J8XbNZ</link>
+<link></link>
+<thumbnail>https://goo.gl/7JZ1mp</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Ethos Minecraft LP Season 1</title>
+<link>https://www.youtube.com/playlist?list=PLFD1682F2801E7ADF</link>
+<link></link>
+<thumbnail>https://goo.gl/tKB4mM</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Ethos Legendary</title>
+<link>https://www.youtube.com/playlist?list=PL3E326C373C10BD5B</link>
+<link></link>
+<thumbnail>https://goo.gl/yCNmxP</thumbnail>
+<fanart>http://</fanart>
+</item>

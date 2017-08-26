@@ -1,0 +1,112 @@
+
+<item>
+<title>Now You See Me 2</title>
+<link>http://dl.my-film.in/reza/film/Now.You.See.Me.2.2016.4K.UltraHD.2160p.BluRay.DD5.1.x264-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>X-Men Apocolypse</title>
+<link>http://dl.my-film.in/reza/film/X-Men.Apocalypse.2016.4K.UltraHD.2160p.BluRay.DD5.1.x264-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Maze Runner The Scorch Trials</title>
+<link>http://dl.my-film.in/reza/film/Maze.Runner.The.Scorch.Trials.2015.4K.UltraHD.2160p.BluRay.DD5.1.x264-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Central Intelligence</title>
+<link>http://dl.my-film.in/reza/film/Central.Intelligence.2016.Unrated.4K.UltraHD.2160p.BluRay.DD5.1.x264-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Last Witch Hunter</title>
+<link>http://dl.my-film.in/reza/film/The.Last.Witch.Hunter.2015.2160p.4K.UltraHD.BluRay.DD5.1.x264-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Looper</title>
+<link>http://dl.my-film.in/reza/film/Looper.2012.2160p.4K.UltraHD.WEB-DL.DD5.1.x264-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Life of Pi</title>
+<link>http://dl.my-film.in/reza/film/Life.of.Pi.2012.4K.UltraHD.2160p.BluRay.DTS.x264-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Fury</title>
+<link>http://dl.my-film.in/reza/film/Fury.2014.2160p.4K.UltraHD.WEBRip.DD5.1.x264-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Kingsman The Secret Service</title>
+<link>http://dl.my-film.in/reza/film/Kingsman.The.Secret.Service.2015.2160p.4K.UltraHD.BluRay.DD5.1.x264-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Sicario</title>
+<link>http://dl.my-film.in/reza/film/Sicario.2015.2160p.4K.UltraHD.BluRay.DD5.1.x264-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Evil Dead</title>
+<link>http://dl.my-film.in/reza/film/Evil.Dead.2013.2160p.4K.UltraHD.WEBRip.DD5.1.x264-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Allegiant</title>
+<link>http://dl.my-film.in/reza/film/Allegiant.2016.2160p.4K.UltraHD.BluRay.DD5.1.x264-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Chappie</title>
+<link>http://dl.my-film.in/reza/film/Chappie.2015.2160p.4K.UltraHD.WEB-DL.DD5.1.x264-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Angry Birds</title>
+<link>http://dl.my-film.in/reza/film/The.Angry.Birds.Movies.2016.2160p.4K.UltraHD.BluRay.DD2.0.x264-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Captain Phillips</title>
+<link>http://dl.my-film.in/reza/film/Captain.Phillips.2013.2160p.4K.UltraHD.WEB-DL.DD5.1.x264-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Independence Day</title>
+<link>http://dl.my-film.in/reza/film/Independence.Day.1996.2160p.4K.UltraHD.BluRay.DD5.1x264-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>

@@ -1,0 +1,85 @@
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>4K</title>
+<folder>http://voidbuilds.net16.net/wizard/addons/aurora/Movies/Aurora%20Movies/4K/4k.txt</folder>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>3D</title>
+<folder>http://voidbuilds.net16.net/wizard/addons/aurora/Movies/Aurora%20Movies/3D/3d.txt</folder>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Aurora Picks</title>
+<folder>http://voidbuilds.net16.net/wizard/addons/aurora/Movies/Aurora%20Movies/Aurora%20Picks/ap.txt</folder>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Marvel Cinematic Universe</title>
+<folder>http://voidbuilds.net16.net/wizard/addons/aurora/Movies/Aurora%20Movies/Marvel/mar.txt</folder>
+<thumbnail>http://i.imgur.com/dREuivo.jpg</thumbnail>
+<fanart>http://i.imgur.com/XdQxMS8.jpg</fanart>
+</item>
+
+<item>
+<title>DC </title>
+<folder>http://voidbuilds.net16.net/wizard/addons/aurora/Movies/Aurora%20Movies/DC/dc.txt</folder>
+<thumbnail>http://i.imgur.com/jVS2AzS.jpg</thumbnail>
+<fanart>http://i.imgur.com/B7D5obU.jpg</fanart>
+</item>
+
+<item>
+<title>Animated </title>
+<folder>http://voidbuilds.net16.net/wizard/addons/aurora/Movies/Aurora%20Movies/Animated/ani.txt</folder>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Comedy</title>
+<folder>http://voidbuilds.net16.net/wizard/addons/aurora/Movies/Aurora%20Movies/Comedy/com.txt</folder>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Godfather</title>
+<folder>http://voidbuilds.net16.net/wizard/addons/aurora/Movies/Aurora%20Movies/The%20Godfather/gf.txt</folder>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Rocky</title>
+<folder>http://voidbuilds.net16.net/wizard/addons/aurora/Movies/Aurora%20Movies/Rocky/rok.txt</folder>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Star Wars</title>
+<folder>http://voidbuilds.net16.net/wizard/addons/aurora/Movies/Aurora%20Movies/Star%20Wars/sw.txt</folder>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Die Hard</title>
+<folder>http://voidbuilds.net16.net/wizard/addons/aurora/Movies/Aurora%20Movies/Die%20Hard/dh.txt</folder>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Sports Films</title>
+<folder>http://voidbuilds.net16.net/wizard/addons/aurora/Movies/Aurora%20Movies/Sports/spor.txt</folder>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>

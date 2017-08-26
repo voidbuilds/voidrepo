@@ -1,0 +1,135 @@
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>[COLOR cyan]Live Tv[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/LiveTV/live.txt</folder>
+<thumbnail>http://i.imgur.com/3djf3bb.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Food[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Food/food.txt</folder>
+<thumbnail>http://i.imgur.com/HaYaVXo.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]News[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/News/news.txt</folder>
+<thumbnail>http://i.imgur.com/b1Bom82.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</channel>
+
+<item>
+<title>[COLOR cyan]Sports[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Sport/home.txt</folder>
+<thumbnail>http://i.imgur.com/8WwzCwA.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Movies[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Movies/home.txt</folder>
+<thumbnail>http://i.imgur.com/HwjE90d.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Tv Shows[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Tv%20Shows/home.txt</folder>
+<thumbnail>http://i.imgur.com/opfW0Ul.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Docs[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Docs/home.txt</folder>
+<thumbnail>http://i.imgur.com/BMTgs9i.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Music[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Music/music.txt</folder>
+<thumbnail>http://i.imgur.com/E4TTzlw.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Tech News/Reviews[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Tech%20News%20And%20Reviews/tech.txt</folder>
+<thumbnail>http://i.imgur.com/nCsKqI3.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Vlogs[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Vlogs/vlog.txt</folder>
+<thumbnail>http://i.imgur.com/2jjDZDd.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Kodi Tutorials[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Kodi%20Tutorials/kodi.txt</folder>
+<thumbnail>http://i.imgur.com/1lLLz3S.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]24/7[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/247/247.txt</folder>
+<thumbnail>http://i.imgur.com/WsecGG3.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Coming Soon</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Her%20Place/home.txt</folder>
+<thumbnail>http://i.imgur.com/tFtuK86.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Drinks[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Drinks/drinks.txt</folder>
+<thumbnail>http://i.imgur.com/qPhXpCu.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Radio[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Radio/radio.txt</folder>
+<thumbnail>http://i.imgur.com/vzwPRCi.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+
+<item>
+<title>twitch</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.twitch/?mode=13&amp;name=Sports&amp;url=Live</jsonrpc>
+<thumbnail>http://www-cdn.jtvnw.net/images/twitch_logo3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR cyan]Gaming[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Gaming/home.txt</folder>
+<thumbnail>http://i.imgur.com/idzRRts.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Memes[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Memes/meme.txt</folder>
+<thumbnail>http://i.imgur.com/5DsZGJp.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan]Comics[/COLOR]</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Comics/home.txt</folder>
+<thumbnail>http://i.imgur.com/GsJwypX.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>

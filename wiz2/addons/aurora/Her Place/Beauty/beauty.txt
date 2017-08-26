@@ -1,0 +1,112 @@
+
+<item>
+<title>Cute Girls Hairstyles</title>
+<link>https://www.youtube.com/playlist?list=UU2LgZ_4GzSFQS-3a87_Jc6w</link>
+<link></link>
+<thumbnailhttps://yt3.ggpht.com/-HA1FLyFeiHQ/AAAAAAAAAAI/AAAAAAAAAAA/eDpNNj0yYKU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Jasmine Brown</title>
+<link>https://www.youtube.com/playlist?list=UUw95JvOs39snnMPkYs-6Sog</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-ypbFAX-l158/AAAAAAAAAAI/AAAAAAAAAAA/GZeL9bdkxqM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>NikkieTutorials</title>
+<link>https://www.youtube.com/playlist?list=UUzTKskwIc_-a0cGvCXA848Q</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-E3swTgTGJDo/AAAAAAAAAAI/AAAAAAAAAAA/C7WxssIPgIM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Christen Dominique</title>
+<link>https://www.youtube.com/playlist?list=PL63nK5U_WRBbv43URf_0sDfxdx48iwUco</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-FDYs2RIW1J4/AAAAAAAAAAI/AAAAAAAAAAA/_GRV3FGoUsY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Sara K</title>
+<link>https://www.youtube.com/playlist?list=UUicByKVUvjcDmvJ_e--unOw</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-qGMqSxVDPCM/AAAAAAAAAAI/AAAAAAAAAAA/PWaeR2uKwH8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Mel Joy</title>
+<link>https://www.youtube.com/playlist?list=UUyu0uT5v2WiorqspxVKcUEQ</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-RfFgSnvavKE/AAAAAAAAAAI/AAAAAAAAAAA/qytX6uCD9Uo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>SaraBeautyCorner</title>
+<link>https://www.youtube.com/playlist?list=UU0YvTCy1I4_a-3pn47_5DBA</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-IIX-mpNsj5M/AAAAAAAAAAI/AAAAAAAAAAA/lviS6-CHo3Y/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Morgan Hanbery</title>
+<link>https://www.youtube.com/playlist?list=UUjPsTUCr4cnS7C6q7GhY-TA</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-MSBVJVcNlQ4/AAAAAAAAAAI/AAAAAAAAAAA/LLi1Ledp3es/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Alexis Kaymor</title>
+<link>https://www.youtube.com/playlist?list=UUKG9PJ8v4x8Nd3QxARqMBhw</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-21qhyUfnr0k/AAAAAAAAAAI/AAAAAAAAAAA/sgehk5kByxA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Dulce Candy</title>
+<link>https://www.youtube.com/playlist?list=UUo5zIpjl2OQkYatd8R0bDaw</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-pm1ZyPrv6bA/AAAAAAAAAAI/AAAAAAAAAAA/mScG1kSbu9U/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Zoella</title>
+<link>https://www.youtube.com/playlist?list=UUWRV5AVOlKJR1Flvgt310Cw</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-n8WEOU4tnok/AAAAAAAAAAI/AAAAAAAAAAA/-8oUr21Iido/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>LaMadelynn</title>
+<link>https://www.youtube.com/playlist?list=UULq5mB76CPuOvftjqq8JMYQ</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-9etwrMXZcbo/AAAAAAAAAAI/AAAAAAAAAAA/r67ZLP9E-xw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Casey Holmes</title>
+<link>https://www.youtube.com/playlist?list=UUxj0QizmFhx7kVKSArHBCTA</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-C-djaw5m1lw/AAAAAAAAAAI/AAAAAAAAAAA/12EPuqxBPTk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Tanya Burr</title>
+<link>https://www.youtube.com/playlist?list=UUrIIH7yHQugaUuoTZDoEUuQ</link>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-YLDSBZe4P_4/AAAAAAAAAAI/AAAAAAAAAAA/Hu9k0tgp_h8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>

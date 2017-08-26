@@ -1,0 +1,6 @@
+<item>
+<title>Season 1</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Tv%20Shows/The%20Grand%20Tour/Season%201/gt1.txt</folder>
+<thumbnail>https://goo.gl/9T2cFP</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

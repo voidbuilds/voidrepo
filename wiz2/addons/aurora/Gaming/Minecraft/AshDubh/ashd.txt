@@ -1,0 +1,143 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUKMfeHvFA3LSGK1-ldlTE2w</link>
+<link></link>
+<thumbnail>https://goo.gl/FKcJFM</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft MiniGames</title>
+<link>https://www.youtube.com/playlist?list=PLoY4yKezjHZRqS1VMYJTw1bhf5l0Z9swE</link>
+<link></link>
+<thumbnail>https://goo.gl/4YuIuz</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>DeathRun</title>
+<link>https://www.youtube.com/playlist?list=PLoY4yKezjHZQwZv2Xr5XsFHqYzIoKQdnx</link>
+<link></link>
+<thumbnail>https://goo.gl/F1OFuS</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Pixelarity</title>
+<link>https://www.youtube.com/playlist?list=PLoY4yKezjHZSl-PEP_rHilYSn73rPE_Yc</link>
+<link></link>
+<thumbnail>https://goo.gl/IBJTmv</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Crazy Craft 3 Modded Survival</title>
+<link>https://www.youtube.com/playlist?list=PLoY4yKezjHZQE4XNqXbcCCk1EDJaUoghu</link>
+<link></link>
+<thumbnail>https://goo.gl/2JanxE</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Crazy Craft 3.0 (MEMECraft SMP)</title>
+<link>https://www.youtube.com/playlist?list=PLoY4yKezjHZTWxjC-P071LQCcY9rBJzzy</link>
+<link></link>
+<thumbnail>https://goo.gl/7V8OB9</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Pixelmon w/iBallisticSquid & AmyLee33</title>
+<link>https://www.youtube.com/playlist?list=PLoY4yKezjHZQVDXrMvgy7eJ-qoJzIq0r4</link>
+<link></link>
+<thumbnail>https://goo.gl/jkNZYO</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>HXC SkyBlock w/ BigBst4tz2 & Tomohawk</title>
+<link>https://www.youtube.com/playlist?list=PLoY4yKezjHZQONlLyB0SFIJEQHq0modk7</link>
+<link></link>
+<thumbnail>https://goo.gl/hPIWNF</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Dead Walking (Survival Series) </title>
+<link>https://www.youtube.com/playlist?list=PLoY4yKezjHZQpvsT8xNYXMYbv-i1oR-nn</link>
+<link></link>
+<thumbnail>https://goo.gl/GAHJXV</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Modzilla Madness S02</title>
+<link>https://www.youtube.com/playlist?list=PLoY4yKezjHZQpomSIuijtyqOY0dLo8I39</link>
+<link></link>
+<thumbnail>https://goo.gl/lLvvEF</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Lucky Island</title>
+<link>https://www.youtube.com/playlist?list=PLoY4yKezjHZSAsjLVHt25z-EuAuJcuOvR</link>
+<link></link>
+<thumbnail>https://goo.gl/Yqyqtq</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Modzilla Madness</title>
+<link>https://www.youtube.com/playlist?list=PLoY4yKezjHZQvyS47WyLysAlWni7bv_k8</link>
+<link></link>
+<thumbnail>https://goo.gl/wICq9t</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft 1.8 Adventures (Solo Series)</title>
+<link>https://www.youtube.com/playlist?list=PLoY4yKezjHZSHtq-qH-NS9jHfIcfYRzny</link>
+<link></link>
+<thumbnail>https://goo.gl/BdskBC</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Mission To Mars</title>
+<link>https://www.youtube.com/playlist?list=PLoY4yKezjHZQpyLaTEsEPyzmMgnnsuAh8</link>
+<link></link>
+<thumbnail>https://goo.gl/J8eRnc</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Lucky Skyblock</title>
+<link>https://www.youtube.com/playlist?list=PLoY4yKezjHZSf56ZfBzH4D9ru_ciFJdrB</link>
+<link></link>
+<thumbnail>https://goo.gl/0YLrPB</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Attack of the B-Team</title>
+<link>https://www.youtube.com/playlist?list=PLoY4yKezjHZSAegK0cp3Es3XYhObJfrjo</link>
+<link></link>
+<thumbnail>https://goo.gl/MYzjn0</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Feed the Cheese (Feed the Beast)</title>
+<link>https://www.youtube.com/playlist?list=PLoY4yKezjHZSKnNFu1uOrqkYhnKj4X6Z7</link>
+<link></link>
+<thumbnail>https://goo.gl/ucsgsS</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title> Tekkit (Race To The Moon)</title>
+<link>https://www.youtube.com/playlist?list=PLoY4yKezjHZRU7D3RkRtgzxkfOro495IQ</link>
+<link></link>
+<thumbnail>https://goo.gl/PkrAAJ</thumbnail>
+<fanart>http://</fanart>
+</item>

@@ -1,0 +1,72 @@
+<item>
+<title>[COLOR cyan]Contains Mature Content[/COLOR]</title>
+<link>https://</link>
+<link></link>
+<thumbnail>http://i.imgur.com/ejqG0Lt.jpg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Flat Earth</title>
+<link>https://www.youtube.com/playlist?list=PL_XFqyuFsA0xsxYbM-zUsrR1aMq3ZWKPu</link>
+<link></link>
+<thumbnail>https://goo.gl/mtiKsR</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>World War II in HD Colour</title>
+<link>https://www.youtube.com/playlist?list=PL24FFUWS9t_AzxCTiwG89tDBImTiu8ZYW</link>
+<link></link>
+<thumbnail>https://goo.gl/xZfhQV</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Drug Addicted kids in Afghanistan</title>
+<link>https://www.youtube.com/watch?v=X4lPhh_yzoA</link>
+<thumbnail>https://goo.gl/yhvKNe</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Farmed Norwegian Salmon - World’s Most Toxic Food</title>
+<link>https://www.youtube.com/watch?v=jH6wH1dqbwc</link>
+<thumbnail>https://goo.gl/Uacfxm</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>DEFCON: The Hacking Conference</title>
+<link>https://www.youtube.com/watch?v=scGhltU6xJg&t=25s</link>
+<thumbnail>https://goo.gl/e1JKw7</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Modern Marvels: History of trucks</title>
+<link>https://www.youtube.com/watch?v=TRosbsoUZPE</link>
+<thumbnail>https://goo.gl/ivvbXC</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Modern Marvels: History of trucks</title>
+<link>https://www.youtube.com/watch?v=RSXRBxpaw6I</link>
+<thumbnail>https://goo.gl/uBEsOs</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Modern Marvels: History of trucks</title>
+<link>https://www.youtube.com/watch?v=KJ1CfT6AN9c</link>
+<thumbnail>https://goo.gl/GJT14i</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Snowtown Murders</title>
+<link>https://www.youtube.com/watch?v=sx2k3c9NUXU&t=25s</link>
+<thumbnail>https://goo.gl/BpLWir</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

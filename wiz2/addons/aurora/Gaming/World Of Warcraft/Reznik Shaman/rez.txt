@@ -1,0 +1,7 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUYAKAMQSnayZqPgPIfOhlqQ</link>
+<link></link>
+<thumbnail>https://goo.gl/a5Fb7x</thumbnail>
+<fanart>http://</fanart>
+</item>

@@ -1,0 +1,70 @@
+
+<item>
+<title>Episode 1</title>
+<link>http://dl.my-film.in/serial/Game%20of%20Thrones/Season%204%20-%20%20720p%20HDTV/Game.Of.Thrones.S04E01.720p.RERIP-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 2</title>
+<link>http://dl.my-film.in/serial/Game%20of%20Thrones/Season%204%20-%20%20720p%20HDTV/Game.Of.Thrones.S04E02.720p.RERIP-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 3</title>
+<link>http://dl.my-film.in/serial/Game%20of%20Thrones/Season%204%20-%20%20720p%20HDTV/Game.Of.Thrones.S04E03.720p-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 4</title>
+<link>http://dl.my-film.in/serial/Game%20of%20Thrones/Season%204%20-%20%20720p%20HDTV/Game.Of.Thrones.S04E04.720p-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 5</title>
+<link>http://dl.my-film.in/serial/Game%20of%20Thrones/Season%204%20-%20%20720p%20HDTV/Game.Of.Thrones.S04E05.720p-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 6</title>
+<link>http://dl.my-film.in/serial/Game%20of%20Thrones/Season%204%20-%20%20720p%20HDTV/Game.Of.Thrones.S04E06.720p-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 7</title>
+<link>http://dl.my-film.in/serial/Game%20of%20Thrones/Season%204%20-%20%20720p%20HDTV/Game.Of.Thrones.S04E07.720p-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 8</title>
+<link>http://dl.my-film.in/serial/Game%20of%20Thrones/Season%204%20-%20%20720p%20HDTV/Game.Of.Thrones.S04E08.720p-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 9</title>
+<link>http://dl.my-film.in/serial/Game%20of%20Thrones/Season%204%20-%20%20720p%20HDTV/Game.Of.Thrones.S04E09.720p-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 10</title>
+<link>http://dl.my-film.in/serial/Game%20of%20Thrones/Season%204%20-%20%20720p%20HDTV/Game.Of.Thrones.S04E10.720p-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>

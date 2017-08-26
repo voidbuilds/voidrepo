@@ -1,0 +1,119 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUYYAfx7S0LWbwHAEkb0o1HQ</link>
+<link></link>
+<thumbnail>https://goo.gl/8brhsC</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Factions</title>
+<link>https://www.youtube.com/playlist?list=PLnPjuJ1DOkxjpcqltZ0JMCnte49MRJpgO</link>
+<link></link>
+<thumbnail>https://goo.gl/FQg8Nc</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Lucky Blocks Games</title>
+<link>https://www.youtube.com/playlist?list=PLnPjuJ1DOkxjUNS-pPFrgXTk4DO8yUzLs</link>
+<link></link>
+<thumbnail>https://goo.gl/yP5Ji4</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Hack Busters</title>
+<link>https://www.youtube.com/playlist?list=PLnPjuJ1DOkxgKzW3zI6jmty5PdImItgl_</link>
+<link></link>
+<thumbnail>https://goo.gl/36TdHi</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>How To Minecraft Season 3</title>
+<link>https://www.youtube.com/playlist?list=PLnPjuJ1DOkxiOrOtizYeCVzieNMAl4hlA</link>
+<link></link>
+<thumbnail>https://goo.gl/JqUVfm</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Crazy Craft With Mitch</title>
+<link>https://www.youtube.com/playlist?list=PLnPjuJ1DOkxj3YQi1i5xK0yVt0HEmcGKg</link>
+<link></link>
+<thumbnail>https://goo.gl/5VK96B</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Crazy Craft 3.0(SMP!)</title>
+<link>https://www.youtube.com/playlist?list=PLnPjuJ1DOkxiPV6QxtjS9lgA_hu3-y5fj</link>
+<link></link>
+<thumbnail>https://goo.gl/gNQetQ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>How 2 Minecraft</title>
+<link>https://www.youtube.com/playlist?list=PLnPjuJ1DOkxhjNZea0YuAKcQJ1G-USgCf</link>
+<link></link>
+<thumbnail>https://goo.gl/BXpW4Y</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Mad Pack 2 Multiplayer</title>
+<link>https://www.youtube.com/playlist?list=PLnPjuJ1DOkxh5qB8BXNmj3wDsfwJXDFz9</link>
+<link></link>
+<thumbnail>https://goo.gl/wqzJWn</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>How To Minecraft!</title>
+<link>https://www.youtube.com/playlist?list=PLnPjuJ1DOkxiLGQir_14XprUsVuETXOlX</link>
+<link></link>
+<thumbnail>https://goo.gl/ZcIM80</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Jail Break!</title>
+<link>https://www.youtube.com/playlist?list=PLnPjuJ1DOkxiR5fDOhEbeAj_hXWdCNJSD</link>
+<link></link>
+<thumbnail>https://goo.gl/2TIYPn</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Factions Challenge</title>
+<link>https://www.youtube.com/playlist?list=PLnPjuJ1DOkxhW0CTqAwRC0vMbh6ZGOKh9</link>
+<link></link>
+<thumbnail>https://goo.gl/uYpCP2</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Blood And Bones</title>
+<link>https://www.youtube.com/playlist?list=PLnPjuJ1DOkxjv26Iz2XzSQl5V-4UI_ajP</link>
+<link></link>
+<thumbnail>https://goo.gl/WjWthM</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Attack Of The B Team</title>
+<link>https://www.youtube.com/playlist?list=PLnPjuJ1DOkxivqX7sVjAKSl8VqeFXgLpO</link>
+<link></link>
+<thumbnail>https://goo.gl/B6UZaT</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Pixelmon</title>
+<link>https://www.youtube.com/playlist?list=PLnPjuJ1DOkxjGwhQRdEdd64Utd1iIi7Bo</link>
+<link></link>
+<thumbnail>https://goo.gl/SDYPRU</thumbnail>
+<fanart>http://</fanart>
+</item>

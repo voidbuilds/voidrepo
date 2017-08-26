@@ -1,0 +1,87 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUK376qNDlNZZDNHsnaWuTeg</link>
+<link></link>
+<thumbnail>https://goo.gl/aFHfli</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Experiments</title>
+<link>https://www.youtube.com/playlist?list=PLR50dP3MW9ZW8FdncbqReMHbWgVPmUHF4</link>
+<link></link>
+<thumbnail>https://goo.gl/fpCttp</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Mod Reviews</title>
+<link>https://www.youtube.com/playlist?list=PL3E5DE2965FEE6087</link>
+<link></link>
+<thumbnail>https://goo.gl/I86fN6</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Maps & Mini-Games</title>
+<link>https://www.youtube.com/playlist?list=PLR50dP3MW9ZW3lgY3S12I6toNGiZX-o3J</link>
+<link></link>
+<thumbnail>https://goo.gl/wr021M</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Facts & Lists</title>
+<link>https://www.youtube.com/playlist?list=PLR50dP3MW9ZUjf6oq6l9DOOhkUMc3DBIO</link>
+<link></link>
+<thumbnail>https://goo.gl/47st0F</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Mine Nights At Freddys Series</title>
+<link>https://www.youtube.com/playlist?list=PLR50dP3MW9ZX40WaSvxWGiHqg0cYa5qwt</link>
+<link></link>
+<thumbnail>https://goo.gl/Rxl15J</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Updates & Snapshots</title>
+<link>https://www.youtube.com/playlist?list=PLR50dP3MW9ZUEQbsC6SlI_2fFzUPCyZ_6</link>
+<link></link>
+<thumbnail>https://goo.gl/OuwUrc</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Songs</title>
+<link>https://www.youtube.com/playlist?list=PLR50dP3MW9ZU2hqyLIUW7HWQxrcFOj_9d</link>
+<link></link>
+<thumbnail>https://goo.gl/7G0FTo</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Story Mode</title>
+<link>https://www.youtube.com/playlist?list=PLR50dP3MW9ZW_347nZ3JjD_3Yd6oeK3Ds</link>
+<link></link>
+<thumbnail>https://goo.gl/1oNfAu</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Pocket Edition</title>
+<link>https://www.youtube.com/playlist?list=PLR50dP3MW9ZW0nDot132hMAYs69oy54g5</link>
+<link></link>
+<thumbnail>https://goo.gl/j73OPP</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Deathswap w/ Youtubers</title>
+<link>https://www.youtube.com/playlist?list=PLR50dP3MW9ZX28XUhMhAGijsGCyrU0biU</link>
+<link></link>
+<thumbnail>https://goo.gl/rR65mS</thumbnail>
+<fanart>http://</fanart>
+</item>

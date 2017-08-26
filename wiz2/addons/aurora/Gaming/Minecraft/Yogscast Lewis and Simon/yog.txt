@@ -1,0 +1,247 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUH-_hzb2ILSCo9ftVSnrCIQ</link>
+<link></link>
+<thumbnail>https://goo.gl/qMX4jL</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Kingdoms</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynP-HQ_WhgxUUJYww4tdQqRW</link>
+<link></link>
+<thumbnail>https://goo.gl/YX1pde</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Adventure Maps</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynOsawy2huWjY4--3y-QuATa</link>
+<link></link>
+<thumbnail>https://goo.gl/xP9OGu</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft 16 Dyes</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynN3A-pst5vsUTxDwGeMCk8W</link>
+<link></link>
+<thumbnail>https://goo.gl/OfYNWV</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>YogLabs</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynNVSuiunnLtEhYx5aHKSXje</link>
+<link></link>
+<thumbnail>https://goo.gl/ywVGQr</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Captive Minecraft (Vanilla Survival Series)</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynP6Zd3Oe_ykln16mQ5uN98Q</link>
+<link></link>
+<thumbnail>https://goo.gl/6BlfwJ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft - Whale Lords (Survival Series)</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynNtt0kMQO3UY0e8U4Pq_naV</link>
+<link></link>
+<thumbnail>https://goo.gl/uuiRgI</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft- No Learning Curve</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynPTBc36pxoRkvJ35G3nyogh</link>
+<link></link>
+<thumbnail>https://goo.gl/SCRFVU</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft - Trials Of Skobbels</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynPEBzZEuGOmnRiX5DZuSi9p</link>
+<link></link>
+<thumbnail>https://goo.gl/frJm3T</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Adventure Maps 2</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynPgMXhELM_kSvANQDgjb5-5</link>
+<link></link>
+<thumbnail>https://goo.gl/rveMhZ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft - Trials Of Derpulies</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynPX96fa6w-IbWCU-x2H4URy</link>
+<link></link>
+<thumbnail>https://goo.gl/A5M6zW</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft - Lucky Blocks</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynNr2Iz1e3SJsbfztM4fT2Jl</link>
+<link></link>
+<thumbnail>https://goo.gl/t5jFuC</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Diversity 2</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynMcu16-otiYMJMLhJ0rtMqS</link>
+<link></link>
+<thumbnail>https://goo.gl/WQ4FWf</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Minigames - Build Battle</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynNistdgmEk9WNrUVYc21uIP</link>
+<link></link>
+<thumbnail>https://goo.gl/g0rMkx</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Minigames With Sips</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynNPVqS7wOmNpmYc4nnRCuIl</link>
+<link></link>
+<thumbnail>https://goo.gl/PkfksB</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Snapshot Videos!</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynNVXnI_nxSRLDnbGiKqvkDl</link>
+<link></link>
+<thumbnail>https://goo.gl/5fJ4sS</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft - Hole Diggers</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynP4JM1ZQo5XHw-ID9MM3I50</link>
+<link></link>
+<thumbnail>https://goo.gl/iAaozw</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Monster Hunters!</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynN-767rLAQTZ0jyELxpBA4h</link>
+<link></link>
+<thumbnail>https://goo.gl/I5IVns</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft - Deep Space Mine</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynNTZ6aU16hHVJ1ojsFxiON9</link>
+<link></link>
+<thumbnail>https://goo.gl/Ksfnvu</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft multiplayer challenges</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynPrRK4PBiy07GOK2henQDtu</link>
+<link></link>
+<thumbnail>https://goo.gl/ztfOjA</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Music</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynOWqU40MBe6I8TvgjUtBnuA</link>
+<link></link>
+<thumbnail>https://goo.gl/wf3Avx</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Diversity!</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynPvZWs1BjX_Ds0aBPqBAQh2</link>
+<link></link>
+<thumbnail>https://goo.gl/TQXLT9</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>MoonQuest</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynMm0Ywj-rupAKwRryWzEQy-</link>
+<link></link>
+<thumbnail>https://goo.gl/noIpko</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Herobrines Mansion</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynONZAQCi_SgahjV6tKkEq4A</link>
+<link></link>
+<thumbnail>https://goo.gl/e1NtKf</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Mod Spotlights!</title>
+<link>https://www.youtube.com/playlist?list=PL3D2A2DD5822B183E</link>
+<link></link>
+<thumbnail>https://goo.gl/eb4Gyb</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Jaffa Factory</title>
+<link>https://www.youtube.com/playlist?list=PL310728C6AAFF44B1</link>
+<link></link>
+<thumbnail>https://goo.gl/0lBCmU</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Survival Multiplayer/Sol</title>
+<link>https://www.youtube.com/playlist?list=PLF60520313D07F366</link>
+<link></link>
+<thumbnail>https://goo.gl/t8wslh</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Minecraft Adventure Maps 1</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynNX_9mWIARvFymnkoOzbg-z</link>
+<link></link>
+<thumbnail>https://goo.gl/Dx6XBf</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Voltz</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynMWgn6IA6XEvKo_RR0c061-</link>
+<link></link>
+<thumbnail>https://goo.gl/RHgNGd</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Pumpkin Prince 2!</title>
+<link>https://www.youtube.com/playlist?list=PL3XZNMGhpynO-q4__vYy5a5CVJ_lTFYab</link>
+<link></link>
+<thumbnail>https://goo.gl/aN0KZY</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Paladins Quest 2</title>
+<link>https://www.youtube.com/playlist?list=PL43EF99E84C7D41F8</link>
+<link></link>
+<thumbnail>https://goo.gl/Y3EJtB</thumbnail>
+<fanart>http://</fanart>
+</item>

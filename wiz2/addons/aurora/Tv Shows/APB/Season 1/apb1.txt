@@ -1,0 +1,84 @@
+
+<item>
+<title>Episode 1</title>
+<link>http://dl.my-film.in/serial/APB/Season%201%20-%20720p%20x265%20HDTV/APB.S01E01.720p.HDTV.2CH.x265.HEVC-[My-Film].mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 2</title>
+<link>http://dl2.uploadplus.net/TV-Series/APB/S01/720p/APB.S01E02.720p.HDTV.x264.Baranmovie.mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 3</title>
+<link>http://dl2.uploadplus.net/TV-Series/APB/S01/720p/APB.S01E03.720p.HDTV.x264.Baranmovie.mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 4</title>
+<link>http://dl2.uploadplus.net/TV-Series/APB/S01/720p/APB.S01E04.720p.HDTV.x264.Baranmovie.mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 5</title>
+<link>http://dl2.uploadplus.net/TV-Series/APB/S01/720p/APB.S01E05.720p.HDTV.x264.Baranmovie.mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 6</title>
+<link>http://dl2.uploadplus.net/TV-Series/APB/S01/720p/APB.S01E06.720p.HDTV.x264.Baranmovie.mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 7</title>
+<link>http://dl2.uploadplus.net/TV-Series/APB/S01/720p/APB.S01E07.720p.HDTV.x264.Baranmovie.mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 8</title>
+<link>http://dl2.uploadplus.net/TV-Series/APB/S01/720p/APB.S01E08.720p.HDTV.x264.Baranmovie.mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 9</title>
+<link>http://dl2.uploadplus.net/TV-Series/APB/S01/720p/APB.S01E09.720p.HDTV.x264.Baranmovie.mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 10</title>
+<link>http://dl2.uploadplus.net/TV-Series/APB/S01/720p/APB.S01E10.720p.HDTV.x264.Baranmovie.mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 11</title>
+<link>http://dl2.uploadplus.net/TV-Series/APB/S01/720p/APB.S01E11.720p.HDTV.x264.Baranmovie.mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Episode 12</title>
+<link>http://dl2.uploadplus.net/TV-Series/APB/S01/720p/APB.S01E12.720p.HDTV.x264.Baranmovie.mkv</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+</item>

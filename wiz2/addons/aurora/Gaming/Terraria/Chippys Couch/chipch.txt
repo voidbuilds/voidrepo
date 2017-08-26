@@ -1,0 +1,15 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UUkfTUab0xxTMPRTNgs9vMCQ</link>
+<link></link>
+<thumbnail>https://goo.gl/uaan4v</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Chippy Completes - Terraria Calamity Mod</title>
+<link>https://www.youtube.com/playlist?list=PL7bOrn5j5GW0GKTWsZtrLKw3vLjyRAAxc</link>
+<link></link>
+<thumbnail>https://goo.gl/MDXlnq</thumbnail>
+<fanart>http://</fanart>
+</item>

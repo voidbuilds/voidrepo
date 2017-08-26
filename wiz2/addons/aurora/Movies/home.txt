@@ -1,0 +1,29 @@
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>Movie Trailers</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Movies/Movie%20Trailers/mt.txt</folder>
+<thumbnail>http://i.imgur.com/ON1pnCw.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Istream Movies - Coming soon</title>
+<folder>http://voidbuilds.net16.net/wizard/addons/aurora/Movies/Istream%20Movies/istrm.txt<folder>
+<thumbnail>http://i.imgur.com/0GuJSUu.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Aurora Movies</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Movies/Aurora%20Movies/home.txt</folder>
+<thumbnail>http://</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Movies</title>
+<folder>http://void16.net16.net/wizard/addons/aurora/Movies/movies.txt</folder>
+<thumbnail>http://i.imgur.com/vvFB13e.jpg</thumbnail>
+<fanart>http://i.imgur.com/6ZYry4Z.jpg</fanart>
+</item>

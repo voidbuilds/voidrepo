@@ -1,0 +1,255 @@
+<item>
+<title>Uploads</title>
+<link>https://www.youtube.com/playlist?list=UURp-mJRQBZyA_1w7D-UiqZg</link>
+<link></link>
+<thumbnail>https://goo.gl/haHnwI</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Batman Reviews</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlTmcn9d2wCKSlWmP00xR-7h</link>
+<link></link>
+<thumbnail>https://goo.gl/1MV46b</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Superman Reborn (Superman Event)</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlSKDAYfHOz1nSKdOfyLqwwU</link>
+<link></link>
+<thumbnail>https://goo.gl/99CpFf</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Cimic Multiverse (Weekly Podcast)</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlSdEZNxPraxmJrUIIiOpoMy</link>
+<link></link>
+<thumbnail>https://goo.gl/IWzZTY</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Til Death Do Us (Deadpool Crossover)</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlSMI4PZsk7vcfFBH89Eil7M</link>
+<link></link>
+<thumbnail>https://goo.gl/69ohX0</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Justice League Of America (DC Rebirth)</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlQ_Zv4NA_rH97UkbPkl3JSY</link>
+<link></link>
+<thumbnail>https://goo.gl/kLcQ3j</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Captain America Reviews</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlRvGvMNPq7UhCJyY0jnSTgR</link>
+<link></link>
+<thumbnail>https://goo.gl/s8Ddhz</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Inhumans Vs X-men (Marvel Event)</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlTBsANolyQS0QvVdQScDYxL</link>
+<link></link>
+<thumbnail>https://goo.gl/GBKRYd</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Conventions & Other Appearances</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlSkCnOeTfv6xfFT6tULaRB_</link>
+<link></link>
+<thumbnail>https://goo.gl/qz341D</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Exciting Superman Comic Reviews</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlSL0U06XSgdFt36-4aV8hC8</link>
+<link></link>
+<thumbnail>https://goo.gl/VYItxp</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Spider-Man Reviews</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlRZu2FL7wOOD4viG85x8Di-</link>
+<link></link>
+<thumbnail>https://goo.gl/f8EXYO</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Comic Multiverse Commentary</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlTE86AhLFKQGzDjxfkBvqgQ</link>
+<link></link>
+<thumbnail>https://goo.gl/DF7dDO</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Required Reading</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlS5vIbptmBFfrwsSoqhvbxw</link>
+<link></link>
+<thumbnail>https://goo.gl/SF95ME</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Deadpool Reviews</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlTQUIkugObx98KrVskM5mzE</link>
+<link></link>
+<thumbnail>https://goo.gl/24cZPS</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Avenger Reviews</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlSMCRQyeb3i4TcBrlzJixFP</link>
+<link></link>
+<thumbnail>https://goo.gl/Osy289</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Best Stuff</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlR_ELfM1AOxdLNnNHG-UzH7</link>
+<link></link>
+<thumbnail>https://goo.gl/iOHJGg</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>DC Animated Movies</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlRWsav8q3wWygXu_cD2Ax-_</link>
+<link></link>
+<thumbnail>https://goo.gl/hO4QuJ</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Justice League vs Suicide Squad (DC Rebirth Event)</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlSF7-qx9kxv4CZOZeS9obX_</link>
+<link></link>
+<thumbnail>https://goo.gl/LwgRds</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Caped TV Podcast</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlSHR_Pu_JcWt-40FlFtBnFu</link>
+<link></link>
+<thumbnail>https://goo.gl/GLFyeB</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Civil War 2 (Marvel Comic Event)</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlSgLgEaK-2ukSkcNNlRIDLC</link>
+<link></link>
+<thumbnail>https://goo.gl/hp3038</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>In Depth Steven Universe Reviews & Recaps</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlTFEb7vz5QCABTVihoPlcvI</link>
+<link></link>
+<thumbnail>https://goo.gl/wk4xSo</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Flash Reviews</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlQ5yuLGzBBIdNvWPfy6VDZA</link>
+<link></link>
+<thumbnail>https://goo.gl/fLE5dv</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Unboxing & Other Merch</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlSRoS63fGl0p3erNKHHstq2</link>
+<link></link>
+<thumbnail>https://goo.gl/f8xZgx</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>The Rack Attack (5 Best Comics Of The Week)</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlSdCNJAW_izI11yiuEcL6Pr</link>
+<link></link>
+<thumbnail>https://goo.gl/hLtFKv</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Super Suits</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlRuS32RfRSlkcgOEDCAVarz</link>
+<link></link>
+<thumbnail>https://goo.gl/jM6osn</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>X-Man-Apocalypse War Event</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlQpymNgPRWIV19WdJAH7nON</link>
+<link></link>
+<thumbnail>https://goo.gl/5jfjVF</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Superman (Super League Event)</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlQSHDbqC141b74yMZvcqXdB</link>
+<link></link>
+<thumbnail>https://goo.gl/HjK6em</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>DC's Legends Of Tomorrow</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlRW9fwi-GvbiuqtnBkQ24Be</link>
+<link></link>
+<thumbnail>https://goo.gl/GCLMKB</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Avengers Standoff (Marvel Comics Event)</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlSl_xjq8kq_Yxbyk7GQcoSo</link>
+<link></link>
+<thumbnail>https://goo.gl/Lbp8IA</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Cimic Smack (Weekly Comic Review Show)</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlTw5tR2BJYsYLmSnQXnmRQZ</link>
+<link></link>
+<thumbnail>https://goo.gl/BvqIr1</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Legend Of Korra Reviews</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlTvDibqBaTE7Vbgc_fwVN_b</link>
+<link></link>
+<thumbnail>https://goo.gl/txVs1r</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+<item>
+<title>Dragon Ball December</title>
+<link>https://www.youtube.com/playlist?list=PLOQCHBfjWmlTzxvjpbW3lplbU39R0IJBk</link>
+<link></link>
+<thumbnail>https://goo.gl/0dVAS7</thumbnail>
+<fanart>http://</fanart>
+</item>
