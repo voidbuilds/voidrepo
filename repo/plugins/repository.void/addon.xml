@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.void" name="[COLOR darkviolet]The Void Repo[/COLOR]" version="1.0.0" provider-name="void">
+	<extension point="xbmc.addon.repository" name="TheVoidRepo">
+		<info compressed="false">https://github.com/voidbuilds/voidrepo/blob/master/repo/plugins/addons.xml</info>
+		<checksum>https://github.com/voidbuilds/voidrepo/blob/master/repo/plugins/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/voidbuilds/voidrepo/tree/master/repo/plugins</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>The Void Repo</summary>
+		<description>Home home of the Void</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
